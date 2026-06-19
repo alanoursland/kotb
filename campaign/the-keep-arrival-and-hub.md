@@ -45,7 +45,7 @@ Valerian *requests help,* and his requests are **traditional-D&D-coded** — con
 
 | Mission | As Valerian frames it | What it really is |
 |---|---|---|
-| **The swamp lizardmen & the lost necklace** | A lizard-thing out of the marsh attacked people from the Keep; a valuable **necklace** was lost to them. Kill the threat, recover the necklace — **reward** on return. | The campaign's whole thesis in miniature (below). |
+| **The swamp lizardmen & the lost necklace** | Merchant **Hadrian Voss** reports lizardmen "attacked and robbed" his wife **Maren** in the marsh — her heirloom necklace and tackle taken. Kill the threat, recover the necklace — **reward** on return. | A **misread toll, not an attack** — the campaign's whole thesis in miniature. See [The Lizardfolk of the Marsh](the-lizardfolk-of-the-marsh.md). |
 | **The bandits** | Raiders hitting travelers. *Framed as attacks* — and he **may not know they're a separate group from the caves.** | The label-lie at Keep scale: a *human* raider camp nobody calls "monsters." |
 | **The caves** | The official problem — "attacks" on the road. | The Duke's actual mission, flattened into a threat report. |
 | **The mad hermit** | A wildcard out in the wilds; rumors, trouble. | [Lucan](../characters/the-mad-hermit.md) — a settler broken by a raid; the federation's care-test, *not* a monster to put down. |
@@ -53,12 +53,12 @@ Valerian *requests help,* and his requests are **traditional-D&D-coded** — con
 | *(others)* | Whatever fits his sensibilities and the moment. | Time-sinks and trust-builders. |
 
 ### The lizardmen mission is the thesis in miniature
-This is the best of the missions because it's a **rehearsal for the caves**, handed to the party as a kill-quest by the skeptic himself:
+This is the best of the missions because it's a **rehearsal for the caves**, handed to the party as a kill-quest by the skeptic himself. Full treatment: **[The Lizardfolk of the Marsh](the-lizardfolk-of-the-marsh.md).** In brief:
 
-- The swamp lizardmen are (per [the decision](../narrative/progression.md)) a **reptilian offshoot of kobold** — a *people* under the matriarch **[Sessrik](../characters/faction-leaders.md#lizardfolk-leader--sessrik-the-marsh-matriarch)** — and **peace is on the table.**
-- So the party gets the campaign's central choice on a small stage: do it **Valerian's way** (kill the threat) or the **Duke's way** (parley). Kill them and you please the Castellan but miss the lesson; reach them and you've proven the thesis before you ever face the ravine.
-- **The necklace can come back *either* way** — and that's the gift. If the party *negotiates* its return instead of looting a corpse, they walk into the next debrief with "we got your necklace back *and* nobody had to die." That is the single most persuasive thing they can put in front of Valerian — his own kill-quest, solved by the method he doubts. A perfect, early **persuade-by-results** beat.
-- **The necklace's owner:** uninvented in canon — assign one at the Keep (a merchant, an officer's widow, a guildmaster's daughter). It makes the reward personal and seeds a relationship NPC.
+- The marsh lizardfolk (per [the decision](../narrative/progression.md), a **reptilian offshoot of kobold**, under the matriarch **[Sessrik](../characters/faction-leaders.md#lizardfolk-leader--sessrik-the-marsh-matriarch)**) **aren't raiders** — well-fed, territorial, they ask only to be left alone. Maren wandered into their marsh and **paid a passage toll**; they took worked metal (her necklace and steel hooks) and **let her go unharmed.** "Attack" is the misreading.
+- So the party gets the campaign's central choice on a small stage: do it **Valerian's way** (kill the "threat") or the **Duke's way** (parley). Kill them and you please the Castellan, miss the lesson, and butcher people who harmed no one; reach them and you've proven the thesis before you ever face the ravine.
+- **The necklace comes back by *trade*, not by force** — buy it back with a knife or a bag of salt (worth more to them than jewelry), and you recover the heirloom *and* open the federation's first border-market in one gesture. Walk into the next debrief with "we got it back *and* nobody died" — the single most persuasive thing you can hand Valerian.
+- **The owner:** **Maren**, wife of Guild merchant **Hadrian Voss** — and convincing *her* to pay the "monsters" who took her mother's necklace is the thesis argued to one wronged person before it's ever argued in the Duke's hall.
 
 ### The undead-at-night misdirection (handle with care)
 When Valerian mentions night-undead and waves it off, he is — without knowing it — **burying the most important clue in the campaign as ambient genre flavor.** Wild Traladar *is* gothic; the dead walking at night is unremarkable here. So when the party later learns undead are destroying the caves' food ([beat 5](../narrative/progression.md)), every instinct (theirs and the cave-dwellers') says *"just Traladar being Traladar,"* not *"a coordinated plot."* That camouflage is exactly what lets the [manufactured famine](the-iron-ring.md) work. **Let Valerian dismiss it. Don't flag it.** It pays off enormously later precisely because it was planted as a non-clue — and it's one more reason the famine mystery needs [redundant paths](../narrative/progression.md) to be cracked.

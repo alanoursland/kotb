@@ -98,7 +98,7 @@ What the party has to read, fast:
 ---
 
 ## Lizardfolk leader — Sessrik, the Marsh Matriarch
-*In the swamp, not the ravine. Alien pragmatism, not evil. The kobolds' kin.*
+*In the swamp, not the ravine. Alien pragmatism, not evil. The kobolds' kin.* → **full faction: [The Lizardfolk of the Marsh](../campaign/the-lizardfolk-of-the-marsh.md)**
 
 **In the marsh.** Sessrik leads the lizardfolk — a reptilian, specialized **offshoot of kobold** ([the decision](../narrative/progression.md)). She is pragmatic to the bone: survival-keyed, unsentimental, and *not cruel.* The lizardfolk do unsentimental things (the dead are food; sentiment doesn't enter into it) without malice — their "evil" is only values that don't flatter human feeling. That makes them an **easy federation candidate** for a party that doesn't project.
 

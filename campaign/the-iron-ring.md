@@ -13,6 +13,7 @@ The horizon the whole campaign is pointed at, hidden under the famine. This page
 - **Bargle** — the Baron's mage, a secret Thanatos worshipper — is likely the real hand behind it. The cult's rage is real and **aimed exactly wrong.** Its leader, **[Vesna the Hierophant](../characters/the-hierophant.md)**, is a sincere Traladaran patriot who has no idea they serve the Baron — and is built to suicide-ascend rather than be interrogated.
 - The **bugbears**, under chief **[Vargoth "the Welcomer"](../characters/faction-leaders.md#bugbear-chief--vargoth-the-welcomer)**, are the witting intake end: a slave-station feeding captives up the pipeline to the Barony.
 - **The geography is the plot.** The caves sit *on* the Baron's overland smuggling corridor, and the Keep guards the road that *is* that corridor — so the Duke's "simple monster raids" are disruption on von Hendriks's own supply line, and his denial is baked into the commission itself. See [The Borderland](the-borderland.md).
+- **One population the famine can't touch.** A wetland's food base can't be destroyed the way game-trails and stores can, so the [marsh lizardfolk](the-lizardfolk-of-the-marsh.md) are the people *least* vulnerable to Thanatos — and the federation's one larder the cult can't sabotage, valuable exactly when the caves' supply is under attack.
 - **The players never meet Thanatos**, and **Bargle is built to escape** (canon-friendly). The win is to *name and hold* the work, then force it into the light — not to end it.
 
 ---
