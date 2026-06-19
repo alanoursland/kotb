@@ -4,7 +4,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 
 ## Pages
 
-*Empty for now. Pages get added as we develop locations and prep — built around the narrative progression once its shape is set.*
+- **[The Audience with Duke Stefan](audience-with-duke-stefan.md)** — the opening scene. The commission, the open hand and closed fist. *(Spine beat 1.)*
 
 ## Related
 
