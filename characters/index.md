@@ -9,9 +9,10 @@ NPC and faction profiles, written to be played cold at the table — what they w
 - **[Brundt — "Who-Comes-When-Paid"](brundt-the-ogre.md)** — the ogre. First contact, the proof of concept, the ravine's intelligence broker, and the path to Khaeros. The market made flesh.
 - **[Khaeros — the Minotaur](khaeros-the-minotaur.md)** — the hardest negotiation in the ravine and living evidence of the Baron's slave pipeline. An exile, not a monster. Brundt's opposite number.
 - **[Lysandra — the Medusa](lysandra-the-medusa.md)** — the limit case of the thesis: circumstance can make something real you still can't trust. A gamble, not a rescue. One of two "the label was sometimes right" controls.
+- **[Skarn — the Rebel Bugbear](skarn-the-rebel-bugbear.md)** — the inch of daylight that keeps the bugbear storyline from becoming race-essentialism. Won't be bound, won't bind. Insider witness and the wedge into the one fight you can't buy out of.
 
 ### Awaiting your notes
-- **The rebel bugbear** (pen 41) — a bugbear his own kind enslaved for refusing the Iron Ring's oath. Free him for a defector with a grievance and inside knowledge of the node. Proof "bugbear" isn't a moral category. *(In the caves, beat 4.)*
+*(none right now)*
 
 ### Named but not yet profiled
 - **The Castellan** — commands the Keep; loyal to the Duke but opposed in feeling to a *peace* mission. The campaign's central political obstacle. *(Spine beats 2 & 7.)*

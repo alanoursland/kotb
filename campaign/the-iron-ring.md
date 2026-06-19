@@ -26,7 +26,7 @@ Pieces, where they're found, and what each *alone* proves (deliberately: not eno
 | **Iron-ring cord-symbols** | the Shrine | the cult's faith is *not* genuinely Traladaran | but not *whose* it is — needs the Church of Traladar to name it |
 | **The pricing anomaly** | bugbear slave-station | slaves cost more than the food market can pay → a **richer buyer upcountry** exists | but not *who* the buyer is |
 | **Bugbear-lair clues** | the bugbear lair | a paper/token trail toward the **Barony** — see below | cryptic; must be decoded and corroborated |
-| **The rebel bugbear's testimony** | pen 41 | the station answers to an outside oath/structure; insider detail on the node | a defector's word — needs hard backing |
+| **[Skarn's](../characters/skarn-the-rebel-bugbear.md) testimony** | pen 41 | the station answers to an outside oath/structure; insider detail on the node | a defector's word — needs hard backing |
 | **[Khaeros's](../characters/khaeros-the-minotaur.md) route** | his story | a Black Eagle slave-ship landed him near the Barony, then overland | one captive's account — circumstantial |
 | **The famine pattern** | the caves at night | the starvation is *manufactured*, not natural | points at the cult, not yet the Baron |
 
