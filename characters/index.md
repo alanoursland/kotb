@@ -15,6 +15,7 @@ NPC and faction profiles, written to be played cold at the table — what they w
 - **[Castellan Valerian](castellan-valerian.md)** — commander of the Keep. A good soldier who disagrees with the peace, argues for the raid, and obeys anyway. The gate on the political track; the honest skeptic; a gated source on the Baron.
 - **[The Faction Leaders](faction-leaders.md)** — the six cave/marsh chiefs the party negotiates the federation through: Karrgan (hobgoblin), Yiznak (kobold), Gorrak & Ushka (feuding orcs), Maruk (gnoll), Vargoth (bugbear slaver), and Sessrik (marsh lizardfolk).
 - **[Lucan Vael — the Mad Hermit](the-mad-hermit.md)** — the third study in solitary intelligence; a settler broken by grief, ill not evil. The federation's care-category diagnostic: the case with no upside, and the truest test of the thesis.
+- **[Aldric Venn & the bandit camp](../campaign/the-bandit-camp.md)** *(in campaign/)* — the ex-Barony sergeant who lost Khaeros, now leading twelve starving misfits across the road. The human Khaeros; a willing witness against the Baron. Full roster of the twelve on the campaign page.
 
 ### Awaiting your notes
 *(none right now)*

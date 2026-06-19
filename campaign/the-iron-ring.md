@@ -29,6 +29,7 @@ Pieces, where they're found, and what each *alone* proves (deliberately: not eno
 | **Bugbear-lair clues** | the bugbear lair | a paper/token trail toward the **Barony** — see below | cryptic; must be decoded and corroborated |
 | **[Skarn's](../characters/skarn-the-rebel-bugbear.md) testimony** | pen 41 | the station answers to an outside oath/structure; insider detail on the node | a defector's word — needs hard backing |
 | **[Khaeros's](../characters/khaeros-the-minotaur.md) route** | his story | a Black Eagle slave-ship landed him near the Barony, then overland | one captive's account — circumstantial |
+| **[Aldric Venn's](the-bandit-camp.md) testimony** | the bandit camp | the corridor, the cove, how the Ring handles "acquisitions," and that the Baron traffics in *thinking creatures* | a wanted outlaw's word — but he *drove the cart* |
 | **The famine pattern** | the caves at night | the starvation is *manufactured*, not natural | points at the cult, not yet the Baron |
 
 **How it locks together:** the rings say *not Traladaran*; the pricing says *a rich buyer exists*; Khaeros and the ship say *that buyer is near the Black Eagle*; the rebel bugbear says *there's an oath-bound structure*; the lair clues **name the Barony**; the Church of Traladar supplies legitimacy to the reading. No one piece convicts. Together they're a case the Duke can't wave away.
@@ -66,4 +67,6 @@ Stefan has **heard the rumors** about the Black Eagle Barony. He doesn't have pr
 - Spine: [Narrative → Progression](../narrative/progression.md) — hidden engine; beats 6 (Shrine), 8 (the horizon)
 - Roster: [The Caves of Chaos](caves-of-chaos.md) — bugbears, the Shrine
 - Logic: [Captivity & Hunger](captivity-and-hunger.md) — the pricing anomaly, the rebel bugbear
-- People: [Duke Stefan](../characters/duke-stefan-karameikos.md) · [Khaeros](../characters/khaeros-the-minotaur.md) (the living witness) · [Skarn](../characters/skarn-the-rebel-bugbear.md) (the insider) · [Castellan Valerian](../characters/castellan-valerian.md) (the gated corroborator) · Bargle, the Baron *(profiles TBD)*
+- People: [Duke Stefan](../characters/duke-stefan-karameikos.md) · [Khaeros](../characters/khaeros-the-minotaur.md) (the living witness) · [Skarn](../characters/skarn-the-rebel-bugbear.md) (the insider) · [Aldric Venn](the-bandit-camp.md) (the cart-driver) · [Castellan Valerian](../characters/castellan-valerian.md) (the gated corroborator) · Bargle, the Baron *(profiles TBD)*
+
+> **Three nodes that rhyme.** The same iron-ring sigil marks the **Shrine**, the **bugbear slave-station**, and the **[bandit camp](the-bandit-camp.md)** — three faces of one network on the borderland (a cult that doesn't know it serves the Ring, a witting intake cell, and the human sediment the Ring leaves and re-recruits). Assemble across all three and the pattern is undeniable.

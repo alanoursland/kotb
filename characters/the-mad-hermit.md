@@ -46,7 +46,7 @@ And against the prisoners' human "Hero," he completes the label/behavior matrix 
 
 | | **Behaves well / innocent** | **Behaves dangerously / harmful** |
 |---|---|---|
-| **Human** | **Lucan** (ill, not evil) | [**"Sir Davric"**](../campaign/the-prisoners.md) (the murderer) |
+| **Human** | **Lucan** (ill, not evil) | [**"Sir Garran"**](../campaign/the-prisoners.md) (the murderer) |
 | **"Monster"** | [**Khaeros**](khaeros-the-minotaur.md) (good, traumatized) | [**Lysandra**](lysandra-the-medusa.md) (dangerous, wronged) |
 
 All four cells filled. Label predicts nothing; only behavior, and behavior is made by circumstance.
@@ -101,7 +101,7 @@ There is no clean win here, and that's the point. Options, roughly best-to-worst
 
 ## Links
 - The other two solitaries: [Khaeros](khaeros-the-minotaur.md), [Lysandra](lysandra-the-medusa.md)
-- The human control he answers: [Sir Davric, the Prisoners](../campaign/the-prisoners.md)
+- The human control he answers: [Sir Garran, the Prisoners](../campaign/the-prisoners.md)
 - The famine that made him: [The Iron Ring](../campaign/the-iron-ring.md)
 - Who could give him care: [Father Branislav, the Curate](the-curate.md)
 - How the party hears of him: [Valerian's missions](../campaign/the-keep-arrival-and-hub.md) · [Progression → optional threads](../narrative/progression.md)
