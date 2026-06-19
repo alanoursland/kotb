@@ -53,6 +53,8 @@ Stefan has **heard the rumors** about the Black Eagle Barony. He doesn't have pr
 - **He *would* act on proof.** If the party puts hard, assembled evidence in his hand, he can't keep not-looking. That's the lever: **the players' detective work moves the world toward a Duke–Baron confrontation** that, in canon, comes anyway — they just light the fuse early.
 - See his full profile: **[Duke Stefan Karameikos](../characters/duke-stefan-karameikos.md).**
 
+**The same silence, one rung down — the Castellan.** [Valerian](../characters/castellan-valerian.md), commanding the Keep on the Barony's edge, has *seen* things — smuggling, the Baron's men — and keeps quiet for political survival (the Baron is the Duke's cousin; a Castellan who accuses him without proof is finished). Where the Duke *won't look,* Valerian *looks and won't speak.* Earn his trust and he becomes a **gated corroborating source**: confirming the corridor and validating what the physical clues only imply. A fourth, human line on the Baron.
+
 ## Canon note (Mystara)
 
 - **Baron Ludwig von Hendriks**, the Black Eagle Baron of **Halag / Fort Doom** (SW Karameikos); patron of **Bargle the Infamous**; kin to Duke Stefan. Tie to the slave trade is canonical; the **Iron Ring / Thanatos** framing is this campaign's own.
@@ -63,4 +65,4 @@ Stefan has **heard the rumors** about the Black Eagle Barony. He doesn't have pr
 - Spine: [Narrative → Progression](../narrative/progression.md) — hidden engine; beats 6 (Shrine), 8 (the horizon)
 - Roster: [The Caves of Chaos](caves-of-chaos.md) — bugbears, the Shrine
 - Logic: [Captivity & Hunger](captivity-and-hunger.md) — the pricing anomaly, the rebel bugbear
-- People: [Duke Stefan](../characters/duke-stefan-karameikos.md) · [Khaeros](../characters/khaeros-the-minotaur.md) (the living witness) · Bargle, the Baron *(profiles TBD)*
+- People: [Duke Stefan](../characters/duke-stefan-karameikos.md) · [Khaeros](../characters/khaeros-the-minotaur.md) (the living witness) · [Skarn](../characters/skarn-the-rebel-bugbear.md) (the insider) · [Castellan Valerian](../characters/castellan-valerian.md) (the gated corroborator) · Bargle, the Baron *(profiles TBD)*

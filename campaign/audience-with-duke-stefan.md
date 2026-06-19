@@ -67,7 +67,7 @@ Enough to start, not enough to feel safe. He's funding a *negotiation,* not a ca
 
 Close not on a threat but on something that reveals the man — and gives the party a reason to *want* the harder path. In his words, roughly: he'd consider it a greater victory to bring the borderland under one banner than to empty it and start over with strangers he understands even less. Killing them is temporary; *something* moves into good caves. He'd rather know his neighbors.
 
-Then the dismissal: the Keep's castellan is expecting them. Go and see what's actually out there before deciding what it is.
+Then the dismissal: the Keep's castellan — **[Valerian](../characters/castellan-valerian.md)** — is expecting them. Go and see what's actually out there before deciding what it is.
 
 ---
 

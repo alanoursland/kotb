@@ -73,7 +73,7 @@ There's a quiet shadow worth holding in reserve: a true neutral who profits from
 ## Playing him at the table
 
 - **Speak in things he can see and feel.** Abstractions slide off him. Coin, food, comfort, a bed — those land. Frame everything in tangibles and he tracks perfectly; frame it in principles and he goes blank or grabs the nearest concrete thing.
-- **He's funny, and the funny is the disarming part.** The gap between the nine-foot menace and the creature complaining the Keep's food went cold, or fussing with the collar of a real shirt, is where his whole charm lives. Lean into it. The castellan should blink when the ogre offers a soft, almost mundane name.
+- **He's funny, and the funny is the disarming part.** The gap between the nine-foot menace and the creature complaining the Keep's food went cold, or fussing with the collar of a real shirt, is where his whole charm lives. Lean into it. [Castellan Valerian](castellan-valerian.md) should blink when the ogre offers a soft, almost mundane name.
 - **His name contracts as he grows.** Among the caves he's *Brundt Who-Comes-When-Paid* — a name that's also a job description. When the barber and the tavern-keep ask, he gives just **Brundt** — dropping the mercenary tag the moment he's somewhere that might let him be a person instead of a service. He won't notice he did it. You'll know what it means.
 - **He is the campaign's tone-setter.** The first creature the party meets in the caves is proof that the labels are wrong and the market is real. Get Brundt right and the whole premise lands without a single line of exposition.
 
