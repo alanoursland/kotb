@@ -95,7 +95,7 @@ The win is **named and held, not final.** Weeks later the evidence carried out o
 
 - **The lizardmen of the swamp** — *decided:* a specialized, reptilian offshoot of **kobold**, led by the matriarch **[Sessrik](../characters/faction-leaders.md#lizardfolk-leader--sessrik-the-marsh-matriarch)** (kin to [Yiznak's](../characters/faction-leaders.md#kobold-chief--yiznak-the-deepwright) kobolds). Peace is on the table; they mirror the kobold integration theme at one remove. Valerian frames it as a kill-quest (a threat + a lost **necklace** to recover) — making it the **thesis in miniature**: the party can solve it his way (kill) or the Duke's way (parley), and recovering the necklace *through peace* is the best early proof he could be handed.
 - **The human raiders / bandits** — under the Duke's law, so the party may arrest or kill them. Peace is *possible* but has no clean story — they're humans who've opted out of society. **Identity undecided** (Black Eagle tie? foreigners? something else) — see Open decisions.
-- **The mad hermit** — classic B2 wildcard; explorable color.
+- **[Lucan, the mad hermit](../characters/the-mad-hermit.md)** — a settler broken by a raid that killed his family; *ill, not evil.* The federation's **care-category diagnostic**: the one case with no utility at all, so the purest test of whether the society is about more than profit. Care, not cure.
 
 These are also where the **"a human here is worse than most of the caves"** argument lives, alongside the prisoner control group.
 

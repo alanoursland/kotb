@@ -48,7 +48,7 @@ Valerian *requests help,* and his requests are **traditional-D&D-coded** — con
 | **The swamp lizardmen & the lost necklace** | A lizard-thing out of the marsh attacked people from the Keep; a valuable **necklace** was lost to them. Kill the threat, recover the necklace — **reward** on return. | The campaign's whole thesis in miniature (below). |
 | **The bandits** | Raiders hitting travelers. *Framed as attacks* — and he **may not know they're a separate group from the caves.** | The label-lie at Keep scale: a *human* raider camp nobody calls "monsters." |
 | **The caves** | The official problem — "attacks" on the road. | The Duke's actual mission, flattened into a threat report. |
-| **The mad hermit** | A wildcard out in the wilds; rumors, trouble. | Classic B2 color; explorable. |
+| **The mad hermit** | A wildcard out in the wilds; rumors, trouble. | [Lucan](../characters/the-mad-hermit.md) — a settler broken by a raid; the federation's care-test, *not* a monster to put down. |
 | **Undead at night** | Mentioned and **shrugged off** — common across wild, gothic Traladar; nothing unusual. | **The famine engine, pre-camouflaged.** See below. |
 | *(others)* | Whatever fits his sensibilities and the moment. | Time-sinks and trust-builders. |
 

@@ -39,7 +39,7 @@ Everything the module frames as monstrous is, on inspection, the residue of a **
 - **He decorates.** His cave has skulls and bones arrayed in *decorative patterns.* That's not a den. That's a creature **making a place** — the same impulse that makes Brundt buy furniture. He's been homemaking in exile. He decorated his waiting room.
 - **"Attacks first" is a conclusion, not a nature.** He attacks first because the last time he didn't, he was chained. Every human who has ever approached him meant capture. Hesitation is the thing that cost him everything. The reflex isn't discipline or feral rage — it's the trained terror of a freed slave who cannot tell the Duke's diplomats from the next capture crew, and who may not be wrong that, under one crown, there isn't much difference.
 
-He completes a set you can build the caves around: three studies in **intelligence gone solitary** — the **mad hermit** (broken by madness), **[Lysandra the medusa](lysandra-the-medusa.md)** (isolated by a curse that makes proximity lethal), and Khaeros (isolated by monstrosity itself, by being the thing everyone attacks on sight).
+He completes a set you can build the caves around: three studies in **intelligence gone solitary** — **[Lucan the mad hermit](the-mad-hermit.md)** (broken by madness), **[Lysandra the medusa](lysandra-the-medusa.md)** (isolated by a curse that makes proximity lethal), and Khaeros (isolated by monstrosity itself, by being the thing everyone attacks on sight).
 
 ---
 

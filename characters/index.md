@@ -14,6 +14,7 @@ NPC and faction profiles, written to be played cold at the table — what they w
 - **[Father Branislav — the Curate](the-curate.md)** — the old keeper of the suppressed Church of Traladar at the Keep. Reads the symbols the state church can't, legitimizes cleansing the Shrine, and is distrusted because knowing Thanatos looks like proximity to him. *(Name provisional.)*
 - **[Castellan Valerian](castellan-valerian.md)** — commander of the Keep. A good soldier who disagrees with the peace, argues for the raid, and obeys anyway. The gate on the political track; the honest skeptic; a gated source on the Baron.
 - **[The Faction Leaders](faction-leaders.md)** — the six cave/marsh chiefs the party negotiates the federation through: Karrgan (hobgoblin), Yiznak (kobold), Gorrak & Ushka (feuding orcs), Maruk (gnoll), Vargoth (bugbear slaver), and Sessrik (marsh lizardfolk).
+- **[Lucan Vael — the Mad Hermit](the-mad-hermit.md)** — the third study in solitary intelligence; a settler broken by grief, ill not evil. The federation's care-category diagnostic: the case with no upside, and the truest test of the thesis.
 
 ### Awaiting your notes
 *(none right now)*
