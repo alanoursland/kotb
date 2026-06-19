@@ -11,7 +11,7 @@ Three of the caves' ugliest behaviors — slavery, prisoner-keeping, and eating 
 Both the bugbears and the hobgoblins hold captives. The word "prisoner" hides that these are **opposite** problems.
 
 ### Bugbears — *slavery (labor / commodity).* Unsolvable locally.
-*Pop. ~22.* They put up welcome signs, capture the guests who answer, and hold them in **two pens** (B2 rooms 40 and 41). The captives are a deliberately **mixed lot** — kobolds, a goblin, orcs, humans, optionally a dwarf and elves in one pen; hobgoblins, gnolls, a rebel bugbear, and a berserk human "Hero" in the other. The indiscriminate mix is the tell: to the bugbears, **everyone is just stock** — human and demi-human alike, no species line at all.
+*Pop. ~22; chief [Vargoth "the Welcomer"](../characters/faction-leaders.md#bugbear-chief--vargoth-the-welcomer).* They put up welcome signs, capture the guests who answer, and hold them in **two pens** (B2 rooms 40 and 41). The captives are a deliberately **mixed lot** — kobolds, a goblin, orcs, humans, optionally a dwarf and elves in one pen; hobgoblins, gnolls, a rebel bugbear, and a berserk human "Hero" in the other. The indiscriminate mix is the tell: to the bugbears, **everyone is just stock** — human and demi-human alike, no species line at all.
 
 In this campaign they are **witting Iron Ring** — their slave-station is the **intake** end of the Black Eagle's pipeline. That's what makes them the one living faction you *can't* integrate: they've chosen the worst side freely, and they weaponize their welcome to betray the peace.
 
@@ -21,7 +21,7 @@ In this campaign they are **witting Iron Ring** — their slave-station is the *
 > **The gem — [Skarn](../characters/skarn-the-rebel-bugbear.md), the rebel bugbear (pen 41).** A bugbear his own kind enslaved for refusing the Iron Ring's oath — he won't be bound and won't bind. Living proof that "bugbear" isn't a moral category and the allegiance was a *choice some refused.* Free him and you don't get a grateful pet — you get a **defector and insider witness.** *(Also a redundant clue path toward the conspiracy — see [open decision #3](../narrative/progression.md).)*
 
 ### Hobgoblins — *prisoners as food.* Solvable immediately.
-*Pop. ~90 + 1 ogre.* They keep captives too (the room with two big hobgoblins, the whip, six chained prisoners), but their captives are **food, not labor** — scheduled to be eaten, not worked or sold.
+*Pop. ~90 + 1 ogre; chief [Karrgan](../characters/faction-leaders.md#hobgoblin-chief--karrgan).* They keep captives too (the room with two big hobgoblins, the whip, six chained prisoners), but their captives are **food, not labor** — scheduled to be eaten, not worked or sold.
 
 - **Why trade fixes it instantly:** a prisoner-as-*meat* is worth more **alive and sold back** than dead and eaten, so a food-for-prisoners market **flips them on the first trade.** This is the campaign's humanitarian pilot program, and it *works.*
 - Contrast the bugbears: a prisoner-as-*labor* keeps producing value, so grain can't outbid it. **Same word, opposite puzzle.**

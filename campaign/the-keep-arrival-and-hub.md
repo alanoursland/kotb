@@ -55,7 +55,7 @@ Valerian *requests help,* and his requests are **traditional-D&D-coded** — con
 ### The lizardmen mission is the thesis in miniature
 This is the best of the missions because it's a **rehearsal for the caves**, handed to the party as a kill-quest by the skeptic himself:
 
-- The swamp lizardmen are (per [the decision](../narrative/progression.md)) a **reptilian offshoot of kobold** — a *people,* and **peace is on the table.**
+- The swamp lizardmen are (per [the decision](../narrative/progression.md)) a **reptilian offshoot of kobold** — a *people* under the matriarch **[Sessrik](../characters/faction-leaders.md#lizardfolk-leader--sessrik-the-marsh-matriarch)** — and **peace is on the table.**
 - So the party gets the campaign's central choice on a small stage: do it **Valerian's way** (kill the threat) or the **Duke's way** (parley). Kill them and you please the Castellan but miss the lesson; reach them and you've proven the thesis before you ever face the ravine.
 - **The necklace can come back *either* way** — and that's the gift. If the party *negotiates* its return instead of looting a corpse, they walk into the next debrief with "we got your necklace back *and* nobody had to die." That is the single most persuasive thing they can put in front of Valerian — his own kill-quest, solved by the method he doubts. A perfect, early **persuade-by-results** beat.
 - **The necklace's owner:** uninvented in canon — assign one at the Keep (a merchant, an officer's widow, a guildmaster's daughter). It makes the reward personal and seeds a relationship NPC.

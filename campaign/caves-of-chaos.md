@@ -22,26 +22,31 @@ The polities of the ravine, sorted by the only questions that matter: **Is it a 
 
 ### Kobolds (~71)
 Poor engineers and trap-makers occupying the niche nobody else tolerates — whether the giant rats are pets or vermin, the kobolds are the ones who'll live and dig where no one else will.
+- **Leader:** [Yiznak, the Deepwright](../characters/faction-leaders.md#kobold-chief--yiznak-the-deepwright) — the overlooked engineer-elder; also the bridge to the marsh lizardfolk.
 - **Challenge:** the disrespected first-floor tenants. Easy to overlook, easy to underestimate. The party's real test is *noticing their value* (tunnels, sappers, infrastructure) before treating them as filler. **Low resistance, high payoff.**
 
 ### Gnolls (~52)
 The quiet bombshell of the roster: nothing genuinely problematic in the text. Your model citizens are the gnolls.
+- **Leader:** [Maruk](../characters/faction-leaders.md#gnoll-chief--maruk) — calm and fair; the easy "yes" that surprises, the factions' proof of concept.
 - **Challenge:** almost nothing to overcome except the party's *own expectations.* They walk in braced for the worst and find the cleanest sheet in the ravine belongs to the group they feared most. **Let the inversion land — don't invent a problem to justify the fear.**
 
 ### Orcs (~77)
 Civilized, well-armed, a little magic, paranoid; they put heads on pikes as deterrence — a rational actor modeling other actors. Statecraft, not savagery.
+- **Leaders:** [Gorrak & Ushka](../characters/faction-leaders.md#orc-chiefs--gorrak--ushka-feuding) — two feuding chiefs; the feud is the obstacle *and* the lever (exploit it or heal it).
 - **Challenge:** the paranoia. Smart and defensive, so first contact is fraught — approach wrong and the deterrence is aimed at *you.* Win them and you've recruited a shrewd, capable polity; spook them and you've made an enemy who *plans.*
 
 ## Hard cases — *a society must change, not merely submit*
 
 ### Hobgoblins (~90 + 1 ogre)
 Organized, disciplined, militaristic — the natural officer corps of any federation — and they keep **prisoners as food, not labor** (the room with two big hobgoblins, the whip, six chained captives, scheduled for the pot).
+- **Leader:** [Karrgan](../characters/faction-leaders.md#hobgoblin-chief--karrgan) — the peer-commander where the cannibalism fork and the integration risk both live. The most important chief.
 - **Challenge:** the cannibalism is the knot diplomacy genuinely snags on. If it's *subsistence,* trade dissolves it — a prisoner is worth more **alive and sold back** than eaten, so a food-for-prisoners market flips them on the first trade (the campaign's humanitarian pilot program, and it *works*). If it's *cultural/ritual* (scheduled banquets, the torture chamber as larder), you're asking them to stop being who they are — the Traladaran problem at maximum.
 - **Bonus danger:** the faction most able to dominate the others or break away. The more you empower them, the bigger the internal risk you create.
 - **Open decision:** subsistence vs. cultural is [undecided](../narrative/progression.md) — it determines whether they're integrable. **Full logic:** [Captivity & Hunger](captivity-and-hunger.md).
 
 ### Bugbears (~22)
 Strong, "civilized," put up welcome signs and enslave the guests who answer them — held in **two pens** (rooms 40 & 41), a deliberately mixed lot (human and demi-human alike, no species line — to them everyone is *stock*). In this campaign they're **witting Iron Ring,** the **intake** end of the Black Eagle's pipeline.
+- **Leader:** [Vargoth, "the Welcomer"](../characters/faction-leaders.md#bugbear-chief--vargoth-the-welcomer) — the slaver-boss; the one villain chief, the one you fight. He caged Skarn.
 - **Challenge:** the one living faction you *can't* integrate, because they've freely chosen the worst side. Their slaves are priced above what the food market can pay — proof of a richer buyer upcountry — and they weaponize their welcome to betray the peace. **You don't feed them out of it; you fight them.**
 - **The trap:** the party can't buy-and-free the slaves (can't afford it, and paying slavers funds the next capture). Bugbear slavery **doesn't resolve in the ravine — it resolves at the Baron.** Symptom, not disease.
 - **Keep the control solid:** **[Skarn](../characters/skarn-the-rebel-bugbear.md)**, the rebel bugbear in pen 41 — enslaved by his own kind for refusing the Iron Ring's oath — stays central, so *"this cell is Iron Ring"* never collapses into *"bugbears are evil."* Free him and you get a defector and insider witness, not a grateful pet. **Best with backup:** keep *more than one* non-Ring bugbear visible (other captives, bugbears elsewhere) so the cell-not-species line reads as a pattern, not a fluke.
