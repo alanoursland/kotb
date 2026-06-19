@@ -35,15 +35,17 @@ Civilized, well-armed, a little magic, paranoid; they put heads on pikes as dete
 ## Hard cases — *a society must change, not merely submit*
 
 ### Hobgoblins (~90 + 1 ogre)
-Organized, disciplined, militaristic — the natural officer corps of any federation — and they eat their captives, with prisoners currently scheduled for the pot.
-- **Challenge:** the cannibalism is the knot diplomacy genuinely snags on. If it's *subsistence,* trade dissolves it (they'll swap prisoners for food the instant a live captive outvalues a meal). If it's *cultural,* you're asking them to stop being who they are — the Traladaran problem at maximum.
+Organized, disciplined, militaristic — the natural officer corps of any federation — and they keep **prisoners as food, not labor** (the room with two big hobgoblins, the whip, six chained captives, scheduled for the pot).
+- **Challenge:** the cannibalism is the knot diplomacy genuinely snags on. If it's *subsistence,* trade dissolves it — a prisoner is worth more **alive and sold back** than eaten, so a food-for-prisoners market flips them on the first trade (the campaign's humanitarian pilot program, and it *works*). If it's *cultural/ritual* (scheduled banquets, the torture chamber as larder), you're asking them to stop being who they are — the Traladaran problem at maximum.
 - **Bonus danger:** the faction most able to dominate the others or break away. The more you empower them, the bigger the internal risk you create.
-- **Open decision:** subsistence vs. cultural is [undecided](../narrative/progression.md) — it determines whether they're integrable.
+- **Open decision:** subsistence vs. cultural is [undecided](../narrative/progression.md) — it determines whether they're integrable. **Full logic:** [Captivity & Hunger](captivity-and-hunger.md).
 
 ### Bugbears (~22)
-Strong, "civilized," put up welcome signs and enslave the guests who answer them — and in this campaign they're **witting Iron Ring,** a slaving station feeding the Black Eagle's pipeline.
-- **Challenge:** the one living faction you *can't* integrate, because they've freely chosen the worst side. Their slaves are priced above what the food market can pay — proof of a richer buyer upcountry — and they weaponize their own welcome to betray the peace and gather intelligence on the federation. **You don't feed them out of it; you fight them.**
-- **Keep the control solid:** the **rebel bugbear in the pen** stays central, so *"this cell is Iron Ring"* never collapses into *"bugbears are evil."*
+Strong, "civilized," put up welcome signs and enslave the guests who answer them — held in **two pens** (rooms 40 & 41), a deliberately mixed lot (human and demi-human alike, no species line — to them everyone is *stock*). In this campaign they're **witting Iron Ring,** the **intake** end of the Black Eagle's pipeline.
+- **Challenge:** the one living faction you *can't* integrate, because they've freely chosen the worst side. Their slaves are priced above what the food market can pay — proof of a richer buyer upcountry — and they weaponize their welcome to betray the peace. **You don't feed them out of it; you fight them.**
+- **The trap:** the party can't buy-and-free the slaves (can't afford it, and paying slavers funds the next capture). Bugbear slavery **doesn't resolve in the ravine — it resolves at the Baron.** Symptom, not disease.
+- **Keep the control solid:** the **rebel bugbear in pen 41** — a bugbear his own kind enslaved for refusing the Iron Ring's oath — stays central, so *"this cell is Iron Ring"* never collapses into *"bugbears are evil."* Free him and you get a defector with inside knowledge of the node.
+- **Full logic:** [Captivity & Hunger](captivity-and-hunger.md).
 
 ## The Shunned Caverns — *wildlife, not diplomacy*
 Owlbear, gray ooze, stirges, fire beetles.
