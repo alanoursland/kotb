@@ -47,6 +47,7 @@ Read it closely and it tells you everything:
 That fear matters later: when he tests the humans, part of what he's checking is whether *his* money is real money to them — whether the economy they're offering is another counterfeit sack.
 
 ## His arc: the glow-up
+*Run-at-the-table scene: [The Ogre Goes to the Keep](../campaign/the-ogre-goes-to-the-keep.md).*
 
 When the party hires him (cheap — 250gp makes him a guide and broker, *not* a bodyguard), his instinct is to *test sincerity by something he can see and feel.* He asks if the humans have good food he can buy, and then **requests to go to the Keep** — because if the gate opens for him, if his coin spends inside the wall, then these humans can be trusted. It's a real test, and it runs in both directions: it puts the **Keep** on trial as much as Brundt.
 

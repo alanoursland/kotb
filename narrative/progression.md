@@ -53,6 +53,7 @@ Arrive at the Keep and run into the politics. The **[Castellan Valerian](../char
 
 ### 3 — First Contact: the Ogre · *caves* · **first easy yes · developed**
 The party's first contact in the ravine is **[Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)**, the ogre. He speaks Common badly and deals in things he can hold — coin, food, comfort. If they *communicate and open relations* rather than fight, he becomes a rough **guide and broker** — the proof of concept that the whole mission is possible, and the ravine's best intelligence asset besides. The scene runs the **menace-to-merchant flip** and ends on his sincerity test (*take me to the Keep, let my coin spend inside your wall*). → **[First Contact — The Ogre at the Ravine](../campaign/first-contact-the-ogre.md)**
+- **The payoff on a "yes":** Brundt asks to be taken to the Keep to spend his coin — his sincerity test, which becomes the campaign's thesis demonstrated through a shopping trip, and the first real crack in Valerian's skepticism. → **[The Ogre Goes to the Keep](../campaign/the-ogre-goes-to-the-keep.md)**
 - **Gate out (soft):** befriend Brundt → the other caves become approachable with a known intermediary.
 - **Approaches:** patience with his bad Common (the staff helps); food/coin; not attacking first; respect. The bar is low — he's *designed* to say yes.
 - **Seam to watch:** veterans may attack on sight. See *Open decisions → ogre fallback.*
