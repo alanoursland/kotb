@@ -56,7 +56,7 @@ He was cargo: blindfolded to geography, marched off a ship and inland. That's wh
 
 **What this means for the campaign:** the Baron's claim on him isn't legally recognized (slavery is unlawful in the Duchy; an escaped captive is simply a wronged free creature), so the danger isn't a writ — it's a *raid.* And the line that reached for him and the line under the temple are the **same hand:** the cult is an [Iron Ring](../campaign/the-iron-ring.md) cell, the Iron Ring is the Baron's, and Khaeros is a survivor of the same machine, hiding forty miles from the man who ordered him. He is the witness the Duke's denial about von Hendriks cannot survive — *if* the party can ever get him to talk.
 
-> **Geography flag:** this route places the Keep in **southwestern Karameikos**, within an overland march of the Black Eagle Barony. A deliberate map decision worth keeping consistent across the campaign.
+> **Geography (decided):** this route places the Keep on the **southwestern frontier — the Cruth Lowlands, on the Black Eagle Barony's edge** — and the caves *on* the Baron's smuggling corridor. Full reasoning and the corridor as an evidence trail: **[The Borderland](../campaign/the-borderland.md).**
 
 ---
 

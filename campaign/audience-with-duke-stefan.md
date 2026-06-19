@@ -77,6 +77,7 @@ Then the dismissal: the Keep's castellan is expecting them. Go and see what's ac
 - **Keep it short.** The Duke's *idea* is the payload. Legitimacy, the Church, the Baron are each one sentence, planted and not watered.
 - **Provisional trust cuts both ways.** He's testing whether they can do something subtle. If they're murder-hobos, this scene is where you find that out — useful information, not a problem to fix. The caves teach the lesson regardless.
 - **Top of the vertical.** The Duke's denial about the Baron here is the *same denial* Darokin's guilds will have about their ledgers — one blind spot at three scales. See [Overview → the vertical](../overview.md).
+- **The job points at the Baron and the Duke can't see it.** The "raids on the borderland road" are unknowingly disruption on the **Black Eagle's smuggling corridor** — the Keep sits on the Barony's edge. Stefan is sending the party to clean up his most dangerous vassal's supply line and calling it a monster problem. See [The Borderland](the-borderland.md).
 
 ## Links
 
