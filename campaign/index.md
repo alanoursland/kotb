@@ -5,6 +5,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 ## Pages
 
 - **[The Audience with Duke Stefan](audience-with-duke-stefan.md)** — the opening scene. The commission, the open hand and closed fist. *(Spine beat 1.)*
+- **[The Caves of Chaos — Roster](caves-of-chaos.md)** — the polities of the ravine, sorted by behavior not label. *(Spine beat 4.)*
 
 ## Related
 
