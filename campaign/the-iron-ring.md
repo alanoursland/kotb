@@ -10,7 +10,7 @@ The horizon the whole campaign is pointed at, hidden under the famine. This page
 
 - A **cult of Thanatos** in the Shrine manufactures the famine: undead destroy the caves' food at night, the caves raid to survive, everyone blames each other and the land.
 - The cult believes it serves **Traladaran liberation** against the colonizer Duke. It is in fact a node of the **Iron Ring**, the slaving network run out of the **Black Eagle Barony.**
-- **Bargle** — the Baron's mage, a secret Thanatos worshipper — is likely the real hand behind it. The cult's rage is real and **aimed exactly wrong.**
+- **Bargle** — the Baron's mage, a secret Thanatos worshipper — is likely the real hand behind it. The cult's rage is real and **aimed exactly wrong.** Its leader, **[Vesna the Hierophant](../characters/the-hierophant.md)**, is a sincere Traladaran patriot who has no idea they serve the Baron — and is built to suicide-ascend rather than be interrogated.
 - The **bugbears** are the witting intake end: a slave-station feeding captives up the pipeline to the Barony.
 - **The geography is the plot.** The caves sit *on* the Baron's overland smuggling corridor, and the Keep guards the road that *is* that corridor — so the Duke's "simple monster raids" are disruption on von Hendriks's own supply line, and his denial is baked into the commission itself. See [The Borderland](the-borderland.md).
 - **The players never meet Thanatos**, and **Bargle is built to escape** (canon-friendly). The win is to *name and hold* the work, then force it into the light — not to end it.
