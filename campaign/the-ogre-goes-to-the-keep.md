@@ -2,7 +2,7 @@
 
 *The payoff to a "yes" at [first contact](first-contact-the-ogre.md). [Brundt's](../characters/brundt-the-ogre.md) sincerity test, run in full — and the campaign's whole thesis demonstrated through a shopping trip. Boxed text is read-aloud; everything else is DM guidance.*
 
-**Follows:** [beat 3 — First Contact](first-contact-the-ogre.md) (on a "yes") · **Plays at:** the Keep ([beat 2 location](the-keep-arrival-and-hub.md)) · **Key NPCs:** [Brundt](../characters/brundt-the-ogre.md), [Castellan Valerian](../characters/castellan-valerian.md), the captain of the guard
+**Follows:** [beat 3 — First Contact](first-contact-the-ogre.md) (on a "yes") · **Plays at:** the Keep ([beat 2 location](the-keep-arrival-and-hub.md)) · **Key NPCs:** [Brundt](../characters/brundt-the-ogre.md), [Castellan Valerian](../characters/castellan-valerian.md), [Captain Bohdan](../characters/captain-bohdan.md)
 
 > **Sequence:** Travel → Entry at the gate → The Castellan's briefing → Escort through the Keep → He spends the 250 → The fake gold → Cleaned up → The wagon home.
 >
@@ -57,7 +57,7 @@ The party is called up to brief **[Castellan Valerian](../characters/castellan-v
 - **It's the Duke's own project.** Valerian's orders to support the party *are* the answer; this is what supporting it looks like.
 - **The ogre is proof of concept.** If one ogre can spend coin in the market and walk out without blood, Valerian has just watched the borderland's whole problem get cheaper to solve than war — and that's an argument a soldier counting lives and supplies can actually hear.
 
-Valerian, won over (or at least *permitting*), sets **terms**: the ogre is escorted at all times by the **captain of the guard** and a detail. He doesn't go where he pleases. He does his business and he leaves. The party is responsible for anything that goes wrong. *Fair, and the party should take the deal.*
+Valerian, won over (or at least *permitting*), sets **terms**: the ogre is escorted at all times by **[Captain Bohdan](../characters/captain-bohdan.md)** and a detail. He doesn't go where he pleases. He does his business and he leaves. The party is responsible for anything that goes wrong. *Fair, and the party should take the deal.*
 
 **This is a load-bearing beat in Valerian's arc.** He's the man who'd say "why not just wipe them out" if pushed, and he keeps that in reserve. Today he *permits* the demonstration — and watches it, closely, to learn whether he was a fool to. What Brundt does in the market (Parts 5–6) is the result that moves him. If it goes well, this is the day the Castellan's skepticism takes its first real crack.
 
@@ -65,13 +65,13 @@ Valerian, won over (or at least *permitting*), sets **terms**: the ogre is escor
 
 ## Part 4 — The Escort
 
-Brundt is walked through the Keep by the **captain of the guard** and a detail. This is the heart of the scene — and it should be, in the best way, a little bit *wonderful* and a little bit *funny.*
+Brundt is walked through the Keep by **[Captain Bohdan](../characters/captain-bohdan.md)** and a detail. This is the heart of the scene — and it should be, in the best way, a little bit *wonderful* and a little bit *funny.*
 
 > *Word runs ahead of you faster than you walk. Shutters crack open and slam shut. A mother pulls a child off the street by the collar. Conversations stop dead and pick back up in whispers. And through it all moves Brundt — escorted, watched, hands where everyone can see them — gawking at the Keep the way the Keep is gawking at him.*
 >
 > *He stares at a glazed window. He stops at a baker's door and breathes in like a man at a shrine. He watches a blacksmith's hammer fall and asks, to no one in particular, how much a thing like that costs to make.*
 
-**DM notes:** The captain of the guard is your secondary character for this stretch — start him wary, professional, hand near his sword. Over the course of the walk, let his posture *change.* Because what he's escorting isn't a monster straining at a leash; it's a creature *delighted,* overwhelmed, polite, paying for things. The captain came expecting to manage a threat and finds himself, against his will, almost a *tour guide.* That arc — wary handler to grudging guide — is the human side of the same thesis the party's been living. Don't force it; just let the captain's lines soften a half-step at a time. By the end he might be the one telling Brundt which stall has the better cheese. *(He's a good candidate to name and keep as a recurring Keep face.)*
+**DM notes:** [Captain Bohdan](../characters/captain-bohdan.md) — "the Wall," the biggest man in the Keep — is your secondary character for this stretch. Start him wary, professional, hand near his sword, *trying to be a presence next to an ogre* (and failing, in front of his own men). Over the course of the walk, let his posture *change.* Because what he's escorting isn't a monster straining at a leash; it's a creature *delighted,* overwhelmed, polite, paying for things — and Bohdan, of all people, knows what it is to be read as a *size* before a man. He came expecting to manage a threat and finds himself, against his will, almost a *tour guide.* That arc — wary handler to grudging guide — is the human side of the same thesis the party's been living. Don't force it; let his lines soften a half-step at a time. By the end he might be the one telling Brundt which stall has the better cheese. See [his profile](../characters/captain-bohdan.md).
 
 **The market reacts in a spread:** some shopkeepers refuse him outright (fear, grief, principle — let at least one slam a door, because not everyone comes around and the scene is truer for it). Some serve him out of nervous courtesy. And a few — the bold, the broke, the curious — serve him *gladly,* because his coin is as good as anyone's and a story about the day an ogre bought your wares is worth telling for years. The market is the Keep's whole range of responses to the federation, compressed into one afternoon of commerce.
 
@@ -144,7 +144,7 @@ The party didn't hire a guide. **They funded a demonstration,** and it's about t
 1. **Travel** — Brundt sees the ordinary world like an exhibit; the road fears him; he notices and says nothing.
 2. **Gate** — guards know the party, not the ogre; real alarm; the party vouches; his *calm* unsettles them more than rage. Admitted, conditionally.
 3. **Castellan** — the Duke's-hall argument in miniature with Valerian; win it by reframing risk as demonstration; he permits it on terms (escort, responsibility). He's watching to see if he's a fool.
-4. **Escort** — the captain of the guard, wary handler → grudging guide; the market reacts across the full spread (refusal, courtesy, delight).
+4. **Escort** — [Captain Bohdan](../characters/captain-bohdan.md), wary handler → grudging guide; the market reacts across the full spread (refusal, courtesy, delight).
 5. **Spends the 250** — bath, barber, clothes, furniture, **a bed**, provisions, a wagon. He furnishes a *life,* not an arsenal. The thesis, shown not told.
 6. **Fake gold** — his own sack is counterfeit lead; he's humiliated, *angry,* surrounded — and he distinguishes the merchant from whoever wronged him, apologizes, sets the coins down. The proof the Duke is right. No damage.
 7. **Wagon home** — bathed, dressed, settled, pulling his own loaded cart back to the ravine: the proof of concept made visible, and the federation's first visible inequality, rolling into the courtyard.

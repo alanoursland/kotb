@@ -44,6 +44,8 @@ This makes him a **gated, secondary evidence source.** He won't volunteer a word
 
 The Keep runs on two people: Valerian (secular, martial, Thyatian, state-aligned) and **[Father Branislav](the-curate.md)** (sacred, old-faith, Traladaran, distrusted). They co-hold the only keys to the chapel's hidden treasury — an established working relationship and a mutual check. They needn't *like* each other; between them they hold the Keep's sword and its conscience, and the party's political game in [beats 2 and 7](../narrative/progression.md) is navigating both. Win one without the other and the peace is half-built.
 
+His right hand at the wall is **[Captain Bohdan, "the Wall"](captain-bohdan.md)** — the garrison's biggest man, who runs the gate and the watch and carries out Valerian's orders where the spears meet the road. Bohdan is also the likelier of the two to *warm* to the federation first (he walks Brundt through the market and comes out changed) — which makes the captain a quiet lever on his own commander.
+
 ---
 
 ## Player challenges & opportunities (a design lens)
