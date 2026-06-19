@@ -2,7 +2,7 @@
 
 **Role:** the patron · **Title:** Grand Duke of Karameikos · **Seat:** Specularum · **Heritage:** Thyatian, House Karameikos · **Class:** high-level Fighter
 
-> **What he's for:** the commission and the conscience behind it. Stefan is the man who means *both halves* of "open relations, or clear them out" — and never resolves the contradiction. He's also the top of the vertical: his sincere blind spot about the Black Eagle Baron is the same denial that recurs in Specularum and Darokin.
+> **What he's for:** the commission and the conscience behind it. Stefan is the man who means *both halves* of "open relations, or clear them out" — and never resolves the contradiction. He sits at the top of the campaign's vertical not as a conspirator but as its most sympathetic figure: a good ruler whose sincere refusal to believe the worst of his cousin is the same denial that recurs, less forgivably, in Specularum and Darokin. He's an ally with a wound, not a villain.
 
 ---
 
