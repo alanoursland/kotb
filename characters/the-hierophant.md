@@ -88,5 +88,5 @@ A Traladaran patriot has a Traladaran name — the name of the devout person the
 ## Links
 - The conspiracy they serve without knowing: [The Iron Ring & the Black Eagle](../campaign/the-iron-ring.md)
 - Their shrine and the fight: [Progression — beat 6](../narrative/progression.md) · [Roster → the Shrine](../campaign/caves-of-chaos.md)
-- Who can name what they became: the Keep's Church of Traladar priest *(profile TBD)* · contrast [Father Demetrios](father-demetrios-kallistos.md), who *can't* read the symbols
+- Who can name what they became: [Father Branislav, the Curate](the-curate.md) (Church of Traladar) · contrast [Father Demetrios](father-demetrios-kallistos.md), who *can't* read the symbols
 - The mercy beside the tragedy: the **newest recruit** *(profile TBD)*

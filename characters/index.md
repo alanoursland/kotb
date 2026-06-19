@@ -11,6 +11,7 @@ NPC and faction profiles, written to be played cold at the table — what they w
 - **[Lysandra — the Medusa](lysandra-the-medusa.md)** — the limit case of the thesis: circumstance can make something real you still can't trust. A gamble, not a rescue. One of two "the label was sometimes right" controls.
 - **[Skarn — the Rebel Bugbear](skarn-the-rebel-bugbear.md)** — the inch of daylight that keeps the bugbear storyline from becoming race-essentialism. Won't be bound, won't bind. Insider witness and the wedge into the one fight you can't buy out of.
 - **[Vesna — the Hierophant](the-hierophant.md)** — the head cult cleric. The campaign's central tragedy: a Traladaran patriot who serves the Baron he hates and dies thinking he's the hero. Built to suicide-ascend; can't be interrogated. *(Name/gender provisional.)*
+- **[Father Branislav — the Curate](the-curate.md)** — the old keeper of the suppressed Church of Traladar at the Keep. Reads the symbols the state church can't, legitimizes cleansing the Shrine, and is distrusted because knowing Thanatos looks like proximity to him. *(Name provisional.)*
 
 ### Awaiting your notes
 *(none right now)*
@@ -18,7 +19,7 @@ NPC and faction profiles, written to be played cold at the table — what they w
 ### Named but not yet profiled
 - **The newest recruit** — the cult's most recent Traladaran convert; Vesna's foil, *one step before the door,* and the one cultist the party might still save. The counterfactual made playable, and the witness who can talk when the Hierophant can't. *(Shrine, beat 6.)*
 - **The Castellan** — commands the Keep; loyal to the Duke but opposed in feeling to a *peace* mission. The campaign's central political obstacle. *(Spine beats 2 & 7.)*
-- **The Keep's Traladaran priest** — tends the chapel (Church of Traladar). The only one who can recognize the cult's symbols as alien to the faith and name the Iron Ring; the legitimacy needed to cleanse the Shrine cleanly. *(Spine beats 2, 6, 8.)*
+- **The visiting Priest** — comes to the Keep regularly; the Curate distrusts him, the Acolytes adore him. In B2 a disguised evil cleric (a ready-made cult/Iron Ring infiltrator); optionally reframed as a Church of Karameikos/Thyatis emissary. *(Fork to decide — see [the Curate](the-curate.md).)*
 - **Bargle** — the Baron's mage, secret Thanatos worshipper, likely the real hand behind the Iron Ring and the manufactured famine. Off-stage horizon.
 - **Black Eagle Baron** (Ludwig von Hendriks) — Stefan's cousin; the slaver pipeline's head. Off-stage horizon.
 - The cave chiefs.
