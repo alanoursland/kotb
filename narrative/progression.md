@@ -31,6 +31,8 @@ Both sit on top of **the hidden engine** below, which neither the party nor the 
 - The cult doesn't know it either — they think they serve Traladar. They are in fact a node of the **Iron Ring**, the slaving network run out of the **Black Eagle Barony**. **Bargle** — the Baron's mage, a secret Thanatos worshipper — is likely the real hand behind it. So the cult's rage is real and **aimed exactly wrong.**
 - **The players never meet Thanatos.** This is not an Immortals campaign. He's the root, off-stage, forever. The win is to *name and hold* his work, never to kill the patient thing itself.
 
+*Full detail, the evidence trail (built as a puzzle), and the Duke's willful blindness: **[The Iron Ring & the Black Eagle](../campaign/the-iron-ring.md).***
+
 ---
 
 ## The spine
@@ -82,7 +84,7 @@ The tracks meet. Killing the cult stops the *manufactured* famine, but the caves
 - **Approaches:** reframe tribute as payroll; demonstrated peace (Brundt rolling home); the Church of Traladar's blessing; the Duke's authority; austerity sold as temporary.
 
 ### 8 — The Horizon · *curdle / ending*
-The win is **named and held, not final.** Weeks later the evidence carried out of the Shrine resolves — the **iron-ring cord-symbols** and other trappings *don't* match real Thanatos worship *or* the Traladaran faith; the Church of Traladar names what the party couldn't, and the conspiracy finally gets a name: **the Iron Ring.** The thread runs toward **Bargle** and the **Black Eagle Barony.** The party touched the edge of something national — and learns they were carrying its emblem in their packs the whole time. The ending isn't "evil destroyed" — it's "the living remembered, for now, that their real enemies were never each other."
+The win is **named and held, not final.** Weeks later the evidence carried out of the Shrine resolves — the **iron-ring cord-symbols** and other trappings *don't* match real Thanatos worship *or* the Traladaran faith; the Church of Traladar names what the party couldn't, and the conspiracy finally gets a name: **the Iron Ring.** Assembled with the **bugbear-lair clues**, Khaeros's route, and the rebel bugbear's testimony, it becomes a case that points at **Bargle** and the **Black Eagle Barony** — hard enough that the Duke can no longer *not look.* The party touched the edge of something national, was carrying its emblem the whole time, and may have just lit the fuse on a **Duke–Baron confrontation.** → [The Iron Ring](../campaign/the-iron-ring.md) The ending isn't "evil destroyed" — it's "the living remembered, for now, that their real enemies were never each other."
 
 ---
 

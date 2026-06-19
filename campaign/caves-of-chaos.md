@@ -45,6 +45,7 @@ Strong, "civilized," put up welcome signs and enslave the guests who answer them
 - **Challenge:** the one living faction you *can't* integrate, because they've freely chosen the worst side. Their slaves are priced above what the food market can pay — proof of a richer buyer upcountry — and they weaponize their welcome to betray the peace. **You don't feed them out of it; you fight them.**
 - **The trap:** the party can't buy-and-free the slaves (can't afford it, and paying slavers funds the next capture). Bugbear slavery **doesn't resolve in the ravine — it resolves at the Baron.** Symptom, not disease.
 - **Keep the control solid:** the **rebel bugbear in pen 41** — a bugbear his own kind enslaved for refusing the Iron Ring's oath — stays central, so *"this cell is Iron Ring"* never collapses into *"bugbears are evil."* Free him and you get a defector with inside knowledge of the node.
+- **The clues (a puzzle, not a handout):** the lair holds fragments linking the station upcountry — payment tokens, a "stock" manifest, matching iron-ring fittings, a courier's route — each cryptic alone, damning only assembled. See [The Iron Ring](the-iron-ring.md).
 - **Full logic:** [Captivity & Hunger](captivity-and-hunger.md).
 
 ## The Shunned Caverns — *wildlife, not diplomacy*
