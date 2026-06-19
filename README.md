@@ -1,0 +1,1 @@
+These are notes for a classic D&D campaign in the module "Keep on the Borderlands". The adventure has a unique and modern twist.
