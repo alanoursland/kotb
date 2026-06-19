@@ -60,7 +60,7 @@ He's the perfect front man for the **transactional** layer — coin, caravans, "
 
 Because he's been **for hire to every faction in the ravine for years**, Brundt knows everybody's business — who pays well, who reneges, who's dangerous, and what the thing at the back of the shunned caves is and why even *he* doesn't take jobs near it. A loyal soldier knows his own side; a mercenary-to-all knows everyone's. He's the closest thing the ravine has to a man who knows where the bodies are, and for twenty gold and a wheel of decent cheese, he'll tell you.
 
-Crucially: **Brundt knows Khaeros's history.** He's the social toll-booth who *asked*, and the minotaur let him, because Brundt is the one creature who never came by sea. The party's path to the minotaur — and to the [first dark thread of the conspiracy](../campaign/the-iron-ring.md) — may run straight through the ogre, who will sell what he knows, of course, because he sells everything. The question is whether he grasps what he's selling.
+Crucially: **Brundt knows [Khaeros's](khaeros-the-minotaur.md) history.** He's the social toll-booth who *asked*, and the minotaur let him, because Brundt is the one creature who never came by sea. The party's path to the minotaur — and to the [first dark thread of the conspiracy](../campaign/the-iron-ring.md) — may run straight through the ogre, who will sell what he knows, of course, because he sells everything. The question is whether he grasps what he's selling.
 
 ## The leash (and the betrayal seam)
 
@@ -86,6 +86,6 @@ There's a quiet shadow worth holding in reserve: a true neutral who profits from
 - Spine: [Progression — beat 3, First Contact](../narrative/progression.md)
 - Where he dens: [The Caves of Chaos — Roster](../campaign/caves-of-chaos.md)
 - His food logic: [Captivity & Hunger](../campaign/captivity-and-hunger.md) — subsistence cannibal already trading up; the easiest case
-- What he knows: **Khaeros the minotaur** *(profile pending)* and the road to [The Iron Ring](../campaign/the-iron-ring.md)
+- What he knows: **[Khaeros the minotaur](khaeros-the-minotaur.md)** and the road to [The Iron Ring](../campaign/the-iron-ring.md)
 - The thesis he proves without a speech: [Overview](../overview.md)
 - The test that cuts both ways: the Keep *(spine [beat 2](../narrative/progression.md), scene TBD)*

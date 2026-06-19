@@ -61,7 +61,7 @@ The wide, exploratory heart. Meet the polities, discover the working détente, a
 - Easy integrations (kobolds, gnolls, orcs) and hard cases (hobgoblins, bugbears); the **Shunned Caverns** wildlife as concrete favors (clear the owlbear → earn trust without a speech).
 - The **prisoners** in the pens are the control group — a lesson, not a fight: circumstance predicts behavior, species predicts nothing.
 - **Captivity and cannibalism sort into separate economic puzzles** — see [Captivity & Hunger](../campaign/captivity-and-hunger.md). Most resolve by *feeding* (subsistence behaviors downstream of the famine); only the **bugbear slave-station** doesn't — it's Iron Ring intake that resolves at the Baron, not the cave. Freeing the **rebel bugbear** here is also a clue path toward the conspiracy.
-- **Khaeros the minotaur** *(named; profile pending your notes — see [characters](../characters/index.md))* lives here — an escaped Black Eagle slave who just wants to go home free. He is also, unknowingly, the party's first physical evidence of the Iron Ring pipeline.
+- **[Khaeros the minotaur](../characters/khaeros-the-minotaur.md)** lairs here — an escaped Black Eagle slave who just wants to go home free, and the hardest single negotiation in the ravine. He is also the witness the Duke's denial about the Baron cannot survive. *Befriending him and indicting the Baron are the same quest.*
 - **Gate out (soft):** the party learns the caves are *starving and raid to survive* — the question that opens beat 5.
 - **Approaches:** this beat is nearly all leeway — order of contact, who they ally with first, fight vs. trade vs. favor, per faction.
 

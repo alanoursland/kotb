@@ -71,7 +71,7 @@ In the hobgoblin and bugbear pens: a merchant and his wife (grateful), a man-at-
 
 ## Named individuals here
 - **[Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)** — the ogre; first contact, broker, and the ravine's intelligence asset. The market made flesh. → [spine beat 3](../narrative/progression.md)
-- **Khaeros the minotaur** — escaped Black Eagle slave; the party's first unwitting evidence of the Iron Ring. *(Profile pending.)*
+- **[Khaeros the minotaur](../characters/khaeros-the-minotaur.md)** — escaped Black Eagle slave in the shunned caverns; the hardest negotiation in the ravine and living evidence of the Iron Ring. A near-TPK fight at level 3 — *talk, don't swing.*
 
 ## Links
 - Spine: [Narrative → Progression](../narrative/progression.md) (beats 4–6)

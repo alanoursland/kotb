@@ -9,6 +9,9 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 - **[Captivity & Hunger](captivity-and-hunger.md)** — the economic logic of slavery, prisoners, and cannibalism: what trade can fix and what only resolves at the Baron.
 - **[The Iron Ring & the Black Eagle](the-iron-ring.md)** — the conspiracy layer: the DM truth, the evidence trail as a puzzle, the Duke's willful blindness, and the road to a Duke–Baron confrontation.
 
+### Planned
+- **The citizenship ladder** *(TBD)* — Karameikos's tiers of legal status (freeman and below). Load-bearing: the *freeman* rung is the deal the Duke offers both the caves and Khaeros — "you are not a monster here." Wanted by [Khaeros](../characters/khaeros-the-minotaur.md) and the [Audience scene](audience-with-duke-stefan.md).
+
 ## Related
 
 - [Narrative progression](../narrative/progression.md) — what the campaign is executing.

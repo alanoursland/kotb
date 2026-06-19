@@ -26,7 +26,7 @@ Pieces, where they're found, and what each *alone* proves (deliberately: not eno
 | **The pricing anomaly** | bugbear slave-station | slaves cost more than the food market can pay → a **richer buyer upcountry** exists | but not *who* the buyer is |
 | **Bugbear-lair clues** | the bugbear lair | a paper/token trail toward the **Barony** — see below | cryptic; must be decoded and corroborated |
 | **The rebel bugbear's testimony** | pen 41 | the station answers to an outside oath/structure; insider detail on the node | a defector's word — needs hard backing |
-| **Khaeros's route** | his story | a Black Eagle slave-ship landed him near the Barony, then overland | one captive's account — circumstantial |
+| **[Khaeros's](../characters/khaeros-the-minotaur.md) route** | his story | a Black Eagle slave-ship landed him near the Barony, then overland | one captive's account — circumstantial |
 | **The famine pattern** | the caves at night | the starvation is *manufactured*, not natural | points at the cult, not yet the Baron |
 
 **How it locks together:** the rings say *not Traladaran*; the pricing says *a rich buyer exists*; Khaeros and the ship say *that buyer is near the Black Eagle*; the rebel bugbear says *there's an oath-bound structure*; the lair clues **name the Barony**; the Church of Traladar supplies legitimacy to the reading. No one piece convicts. Together they're a case the Duke can't wave away.
@@ -62,4 +62,4 @@ Stefan has **heard the rumors** about the Black Eagle Barony. He doesn't have pr
 - Spine: [Narrative → Progression](../narrative/progression.md) — hidden engine; beats 6 (Shrine), 8 (the horizon)
 - Roster: [The Caves of Chaos](caves-of-chaos.md) — bugbears, the Shrine
 - Logic: [Captivity & Hunger](captivity-and-hunger.md) — the pricing anomaly, the rebel bugbear
-- People: [Duke Stefan](../characters/duke-stefan-karameikos.md) · Bargle, the Baron *(profiles TBD)*
+- People: [Duke Stefan](../characters/duke-stefan-karameikos.md) · [Khaeros](../characters/khaeros-the-minotaur.md) (the living witness) · Bargle, the Baron *(profiles TBD)*
