@@ -51,7 +51,7 @@ Drop these as texture. Let the players decide what matters. Each pays off later.
 |---|---|---|
 | **"One way or another."** | Say it once, plainly, move on. | The campaign's whole moral tension; returns when the party finds people in the caves worth saving. |
 | **The Duke's own legitimacy** | If asked by what right he tames the borderland, be *honest* — his title traces to a grant, and he knows what grants are built on. He's offering the caves the same deal he took: lose some autonomy, gain a place inside something that would otherwise roll over you. Not charity. | The whole "who draws the line between person and monster" thread. |
-| **The Church comes along** | He's sending a cleric of the **Church of Karameikos** — for healing and *speak languages* to parley at all. Frame it as generosity. | It's also the empire embedded in the expedition: the party will *hear the caves through a Karameikan throat.* Nobody names this yet. |
+| **The Church comes along** | He's sending **[Father Demetrios Kallistos](../characters/father-demetrios-kallistos.md)**, a cleric of the **Church of Karameikos** — for healing and the *speak languages* staff they'll need to parley at all. Frame it as generosity. | It's also the empire embedded in the expedition: the party will *hear the caves through a Karameikan throat.* Nobody names this yet. |
 | **Don't mention the Black Eagle** | If a player raises the slaver-baron rumors, he deflects — heard them, doesn't condone what he's heard, fighting a hundred battles, doesn't *want* it true. A good man's blind spot, not a villain's cover-up. | His denial is the keystone the later conspiracy rests on — the same denial Darokin's guilds will have about their ledgers. |
 
 ## What the Duke offers (practical terms)
@@ -82,4 +82,4 @@ Then the dismissal: the Keep's castellan is expecting them. Go and see what's ac
 
 - Spine: [Narrative → Progression, Beat 1](../narrative/progression.md)
 - Leads into: First Contact at the Caves *(beat 2 — TBD)*
-- Characters introduced: **Duke Stefan**, the **Karameikos cleric**, the **Black Eagle Baron** (off-page) *(profiles — TBD)*
+- Characters introduced: **[Duke Stefan](../characters/duke-stefan-karameikos.md)**, the cleric **[Father Demetrios Kallistos](../characters/father-demetrios-kallistos.md)**, the **Black Eagle Baron** (off-page) *(profile — TBD)*
