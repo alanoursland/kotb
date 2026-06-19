@@ -84,5 +84,5 @@ Play the bait straight — the staged maiden, the partial view, the plea, the pr
 - Where she's held: [The Caves of Chaos — Roster](../campaign/caves-of-chaos.md) (the Shrine / the CELL)
 - The frontier she was taken from: [The Borderland](../campaign/the-borderland.md)
 - Her rhyme, the reachable version of the same wound: [Khaeros](khaeros-the-minotaur.md)
-- The other "label was right" control: the evil human "Hero" — see [Roster → prisoners](../campaign/caves-of-chaos.md)
+- The other "label was right" control: the evil human "Hero" — see [The Prisoners](../campaign/the-prisoners.md)
 - Spine: [Progression — beat 6, the Shrine](../narrative/progression.md)

@@ -9,6 +9,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 - **[The Keep — Arrival, Hub, and Valerian's Missions](the-keep-arrival-and-hub.md)** — first contact with the Castellan, the recurring debrief loop, and the traditional-D&D side-board. *(Spine beat 2.)*
 - **[The Caves of Chaos — Roster](caves-of-chaos.md)** — the polities of the ravine, sorted by behavior not label. *(Spine beat 4.)*
 - **[Captivity & Hunger](captivity-and-hunger.md)** — the economic logic of slavery, prisoners, and cannibalism: what trade can fix and what only resolves at the Baron.
+- **[The Prisoners](the-prisoners.md)** — the control group: five freed captives who prove the thesis with the party's own hands. Circumstance predicts behavior; species predicts nothing.
 - **[The Iron Ring & the Black Eagle](the-iron-ring.md)** — the conspiracy layer: the DM truth, the evidence trail as a puzzle, the Duke's willful blindness, and the road to a Duke–Baron confrontation.
 
 ### Planned

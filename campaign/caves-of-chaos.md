@@ -72,8 +72,8 @@ A cult prisoner (staged as bait) the cultists plan to blind and sacrifice. She'l
 
 ## The prisoners — *the control group*
 In the hobgoblin and bugbear pens: a merchant and his wife (grateful), a man-at-arms (loyal for bread), a freed orc (fights then flees, like any POW), a maddened gnoll (attacks his rescuers), and an evil human **"Hero"** (will murder the party for their treasure).
-- **Challenge:** not a fight — a *lesson.* The prisoners behave by **circumstance, not species:** a human captive is the worst creature in the room, an orc behaves exactly like a human POW, captivity drives a gnoll mad. The indiscriminate chains — humans and demi-humans shackled to one padlock — make the argument no speech could.
-- **Keep the control solid:** the human "Hero" must be exactly as dangerous as his stat block. Without him, "monsters are misunderstood" collapses into "monsters are secretly nice." Some aren't.
+- **Challenge:** not a fight — a *lesson.* The prisoners behave by **circumstance, not species,** and the indiscriminate chains (humans and demi-humans on one padlock) make the argument no speech could. The same pens hold the campaign's two sharpest exceptions: the loyal *bugbear* [Skarn](../characters/skarn-the-rebel-bugbear.md) and the murderous *human* "Hero." → **full encounter: [The Prisoners](the-prisoners.md)**
+- **Keep the control solid:** the human "Hero" must be exactly as dangerous as his stat block (with the [medusa](../characters/lysandra-the-medusa.md), the "label was right" control). Without him, "monsters are misunderstood" collapses into "monsters are secretly nice." Some aren't.
 
 ## Named individuals here
 - **[Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)** — the ogre; first contact, broker, and the ravine's intelligence asset. The market made flesh. → [spine beat 3](../narrative/progression.md)

@@ -22,7 +22,7 @@
 
 ## What the module gives you (B2 as written)
 
-In **slave pen 41**, among the captives (3 hobgoblins, 2 gnolls, the berserk human "Hero," and him): **AC 7, HD 3+1, hp 14, Save F3, ML 9.** The text singles him out as an exception — the other pen-41 slaves flee if freed, but *"the big bugbear hates his fellows, and will take arms and fight against them or any of the other inhabitants of the whole area; he will continue to do so for as long as the party stays there."*
+In **slave pen 41**, among the captives (3 hobgoblins, 2 gnolls, the berserk human ["Hero,"](../campaign/the-prisoners.md) and him): **AC 7, HD 3+1, hp 14, Save F3, ML 9.** The text singles him out as an exception — the other pen-41 slaves flee if freed, but *"the big bugbear hates his fellows, and will take arms and fight against them or any of the other inhabitants of the whole area; he will continue to do so for as long as the party stays there."*
 
 Straight from the module: **a bugbear, enslaved by his own kind, who will fight his own people and everyone else alongside the party for the duration of their stay.** Everything below just asks *why.*
 

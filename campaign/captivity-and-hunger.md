@@ -63,6 +63,7 @@ Theirs is **institutional**: prisoners kept specifically for the pot, scheduled 
 | **Bugbears** | Not hunger at all — Iron Ring commerce | **No.** Resolves at the Baron, not the cave. |
 
 ## Links
+- The control group in full: [The Prisoners](the-prisoners.md)
 - Roster: [The Caves of Chaos](caves-of-chaos.md) — bugbears, hobgoblins, the prisoner control group
 - Spine: [Narrative → Progression](../narrative/progression.md) — beats 4 (caves), 6 (Shrine/bugbear sabotage), 7–8 (peace, the Baron)
 - Thesis: [Overview](../overview.md)
