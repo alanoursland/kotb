@@ -6,9 +6,9 @@ NPC and faction profiles, written to be played cold at the table — what they w
 
 - **[Duke Stefan Karameikos III](duke-stefan-karameikos.md)** — the patron. The commission and the conscience behind it; top of the conspiracy's vertical.
 - **[Father Demetrios Kallistos](father-demetrios-kallistos.md)** — the Duke's cleric on the expedition. The DM's voice in the field; carries the area *Speak Languages* staff; the Church embedded in the party.
+- **[Brundt — "Who-Comes-When-Paid"](brundt-the-ogre.md)** — the ogre. First contact, the proof of concept, the ravine's intelligence broker, and the path to Khaeros. The market made flesh.
 
 ### Awaiting your notes
-- **Brundt the ogre** — first contact at the caves; rough guide to the rest. Eats humans as pure subsistence and is already *trading up* (cheese, brandy) — the easiest case. *(Spine beat 3.)*
 - **Khaeros the minotaur** — escaped Black Eagle slave who wants to go home free; unwitting first evidence of the Iron Ring. Makes the subsistence argument himself — *"it isn't preferred"* — and abandons cannibalism the instant trade exists. The proof of concept. *(In the caves, beat 4.)*
 - **The rebel bugbear** (pen 41) — a bugbear his own kind enslaved for refusing the Iron Ring's oath. Free him for a defector with a grievance and inside knowledge of the node. Proof "bugbear" isn't a moral category. *(In the caves, beat 4.)*
 

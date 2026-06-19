@@ -51,7 +51,7 @@ Arrive at the Keep and run into the politics. The **Castellan** is loyal to the 
 - **Thread:** the Castellan may ask the party to deal with local problems — see *Optional threads.* Helping him is a lever for his buy-in later.
 
 ### 3 — First Contact: the Ogre · *caves* · **first easy yes**
-The party's first contact in the ravine is **Brundt the ogre** *(named; profile pending your notes)*. He speaks Common badly. If they *communicate and open relations* rather than fight, he becomes a rough **guide to the rest of the caves** — the proof of concept that the whole mission is possible.
+The party's first contact in the ravine is **[Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)**, the ogre. He speaks Common badly and deals in things he can hold — coin, food, comfort. If they *communicate and open relations* rather than fight, he becomes a rough **guide and broker** — the proof of concept that the whole mission is possible, and the ravine's best intelligence asset besides.
 - **Gate out (soft):** befriend Brundt → the other caves become approachable with a known intermediary.
 - **Approaches:** patience with his bad Common (the staff helps); food/coin; not attacking first; respect. The bar is low — he's *designed* to say yes.
 - **Seam to watch:** veterans may attack on sight. See *Open decisions → ogre fallback.*

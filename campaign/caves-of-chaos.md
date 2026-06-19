@@ -70,7 +70,7 @@ In the hobgoblin and bugbear pens: a merchant and his wife (grateful), a man-at-
 - **Keep the control solid:** the human "Hero" must be exactly as dangerous as his stat block. Without him, "monsters are misunderstood" collapses into "monsters are secretly nice." Some aren't.
 
 ## Named individuals here
-- **Brundt the ogre** — first contact and rough guide to the caves. *(Profile pending.)* → [spine beat 3](../narrative/progression.md)
+- **[Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)** — the ogre; first contact, broker, and the ravine's intelligence asset. The market made flesh. → [spine beat 3](../narrative/progression.md)
 - **Khaeros the minotaur** — escaped Black Eagle slave; the party's first unwitting evidence of the Iron Ring. *(Profile pending.)*
 
 ## Links

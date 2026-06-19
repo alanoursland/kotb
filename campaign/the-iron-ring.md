@@ -31,6 +31,8 @@ Pieces, where they're found, and what each *alone* proves (deliberately: not eno
 
 **How it locks together:** the rings say *not Traladaran*; the pricing says *a rich buyer exists*; Khaeros and the ship say *that buyer is near the Black Eagle*; the rebel bugbear says *there's an oath-bound structure*; the lair clues **name the Barony**; the Church of Traladar supplies legitimacy to the reading. No one piece convicts. Together they're a case the Duke can't wave away.
 
+**The social shortcut — Brundt.** The ogre has been for hire to every faction for years, so he's the ravine's living index: he knows Khaeros's history (he's the one who *asked*), and he knows enough to refuse jobs near the Shrine. He'll *sell* leads for coin and cheese — but he can't read what he's selling, so he points the party at pieces without ever assembling them himself. A guide to the puzzle, not a solver of it. See [Brundt](../characters/brundt-the-ogre.md).
+
 ### The bugbear-lair clues (keep it a puzzle)
 There are probably tangible links here — but make the party **work to assemble them**, not trip over a confession. Good candidates (pick a few; keep them cryptic):
 - **Payment tokens or coin** not minted for cave use — Barony issue, or marked with the black eagle.
