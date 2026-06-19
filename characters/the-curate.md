@@ -54,14 +54,19 @@ He is old, careful, and parochial in the way a keeper of a dwindling thing becom
 
 ---
 
-## The fork: the visiting Priest (decide later)
+## The visiting Priest — what he is (working direction, written later)
 
-The Curate's distrust points at a real, unbuilt figure. Two readings, both strong:
+The Curate's distrust points at a real, unbuilt figure — and he's right, though not for the reason canon assumes.
 
-- **Canon (B2): he's a traitor.** The visiting Priest is a disguised chaotic cleric who befriends adventurers and betrays them to the Caves. This is a **gift** — a ready-made cult/Iron Ring infiltrator *inside the Keep*, with Branislav already cast as the distrusted truth-teller and the assimilated Acolytes as his charmed marks. The whole campaign's skill (*believe the distrusted native, follow who profits*) rehearsed at Keep scale.
-- **Your reframe: he's imperial, not evil.** A **Church of Karameikos / Thyatis** priest — the assimilating church's emissary — whom Branislav resents on *factional* grounds, not because he's a traitor. Lower-voltage, but it makes the Keep a microcosm of the religious colonization theme.
+**Working direction:** the visiting Priest is a **foreign agent of Thanatos himself** — from neither Thyatis nor Traladara, here on Entropy's orders. He is *not* part of the cult, the Baron, or the Iron Ring. He's a **separate thread of Thanatos's plot**: a spy sent to watch and to **confound the party's success.**
 
-> **Recommendation:** lean canon, or blend — the imperial Priest who is *also* (wittingly or not) the cult's door into the Keep. But this is yours; flagged, not built. Stubbed in the [character index](index.md).
+Why it's good:
+
+- **Thanatos works through both witting and unwitting hands.** The cult is an *unwitting* node (Iron Ring, believes it serves Traladaran liberation); the Priest is a *witting* agent (serves Entropy directly, knows exactly what he is). They're uncoordinated — two hands of the same root reaching in separately. **Killing the cult doesn't remove the Priest** — a persistent, mobile antagonist who outlives the Shrine and keeps working against the peace.
+- **It sharpens Branislav.** He distrusts the Priest because he can *smell the Entropy* on him. The very knowledge that makes others distrust the Curate is what lets him correctly flag the real threat — the distrusted keeper is right about the charming outsider, and right *because* of the thing he's distrusted for.
+- **It preserves the canon clue** (Curate distrusts / Acolytes adore / the Priest works against the party) while giving him a distinct allegiance: **Thanatos, not the Iron Ring.**
+
+*Stubbed in the [character index](index.md); full profile to come.*
 
 ---
 
@@ -95,4 +100,4 @@ Provisional **Father Branislav / Branko** (Traladaran/Slavic). Like the cast's o
 - The cleanse he legitimizes: [Progression — beat 6](../narrative/progression.md) · [Roster → the Shrine](../campaign/caves-of-chaos.md)
 - The tragedy he reveals: [Vesna, the Hierophant](the-hierophant.md)
 - His counterpart in the party: [Father Demetrios](father-demetrios-kallistos.md) (Karameikos; can't read the symbols)
-- The figure he distrusts: the **visiting Priest** *(profile TBD — see the fork above)*
+- The figure he distrusts: the **visiting Priest** *(profile TBD — a foreign Thanatos spy; see the working direction above)*

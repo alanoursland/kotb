@@ -19,7 +19,7 @@ NPC and faction profiles, written to be played cold at the table — what they w
 ### Named but not yet profiled
 - **The newest recruit** — the cult's most recent Traladaran convert; Vesna's foil, *one step before the door,* and the one cultist the party might still save. The counterfactual made playable, and the witness who can talk when the Hierophant can't. *(Shrine, beat 6.)*
 - **The Castellan** — commands the Keep; loyal to the Duke but opposed in feeling to a *peace* mission. The campaign's central political obstacle. *(Spine beats 2 & 7.)*
-- **The visiting Priest** — comes to the Keep regularly; the Curate distrusts him, the Acolytes adore him. In B2 a disguised evil cleric (a ready-made cult/Iron Ring infiltrator); optionally reframed as a Church of Karameikos/Thyatis emissary. *(Fork to decide — see [the Curate](the-curate.md).)*
+- **The visiting Priest** — comes to the Keep regularly; the Curate distrusts him, the Acolytes adore him. *Working direction:* a **foreign agent of Thanatos** — *not* cult, Baron, or Iron Ring, but a separate, witting thread of Entropy's plot, sent to spy and to confound the party. Outlives the Shrine. *(To be written later — see [the Curate](the-curate.md).)*
 - **Bargle** — the Baron's mage, secret Thanatos worshipper, likely the real hand behind the Iron Ring and the manufactured famine. Off-stage horizon.
 - **Black Eagle Baron** (Ludwig von Hendriks) — Stefan's cousin; the slaver pipeline's head. Off-stage horizon.
 - The cave chiefs.
