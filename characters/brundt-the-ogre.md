@@ -66,7 +66,7 @@ He's the perfect front man for the **transactional** layer — coin, caravans, "
 
 Because he's been **for hire to every faction in the ravine for years**, Brundt knows everybody's business — who pays well, who reneges, who's dangerous, and what the thing at the back of the shunned caves is and why even *he* doesn't take jobs near it. A loyal soldier knows his own side; a mercenary-to-all knows everyone's. He's the closest thing the ravine has to a man who knows where the bodies are, and for twenty gold and a wheel of decent cheese, he'll tell you.
 
-Crucially: **Brundt knows [Khaeros's](khaeros-the-minotaur.md) history.** He's the social toll-booth who *asked*, and the minotaur let him, because Brundt is the one creature who never came by sea. The party's path to the minotaur — and to the [first dark thread of the conspiracy](../campaign/the-iron-ring.md) — may run straight through the ogre, who will sell what he knows, of course, because he sells everything. The question is whether he grasps what he's selling.
+Crucially: **Brundt knows [Khaeros's](khaeros-the-minotaur.md) history**, and he's the **airlock** to the minotaur — the only one who can broker that meeting without it becoming a fight ([First Contact — The Minotaur](../campaign/first-contact-the-minotaur.md)). He's the social toll-booth who *asked*, and the minotaur let him, because Brundt is the one creature who never came by sea. The party's path to the minotaur — and to the [first dark thread of the conspiracy](../campaign/the-iron-ring.md) — may run straight through the ogre, who will sell what he knows, of course, because he sells everything. The question is whether he grasps what he's selling.
 
 ## The leash (and the betrayal seam)
 

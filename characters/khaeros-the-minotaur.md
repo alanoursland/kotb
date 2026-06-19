@@ -69,6 +69,7 @@ So the negotiation isn't "join us." It's: *we will be the place that recognizes 
 ---
 
 ## How to reach him (the negotiation)
+*Run-at-the-table scene: [First Contact — The Minotaur](../campaign/first-contact-the-minotaur.md).*
 
 Words won't do it — *terms* are what slavers offer. The only thing that reaches a freed slave is **proof the humans are enemies of the people who chain.** Concretely:
 
