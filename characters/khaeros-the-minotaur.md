@@ -82,7 +82,7 @@ Words won't do it — *terms* are what slavers offer. The only thing that reache
 
 ## What he becomes (outcomes)
 
-Listed best-to-worst for *honoring* the character, not for happiness:
+Once he's reached, Khaeros's own wish is concrete: **go to the Keep and stay — as a soldier.** Unlike Brundt, he'll take a post on the guard (he's trained, disciplined, and speaks **Thyatian** — he can make his own case). He wants the one thing his training was stolen for: *fighting he can quit.* Convincing Valerian to hire him is its own beat → **[The Minotaur at the Keep](../campaign/the-minotaur-at-the-keep.md).** The outcomes below are best-to-worst for *honoring* the character, not for happiness:
 
 - **Bicultural freeman (the best ending).** Declared a freeman of the Duchy, takes intermittent guard work at the Keep (the trained war-thrall finally *paid* for fighting he can quit), keeps and *improves* his cave among the demi-humans, and keeps the passage money he never spends. A freeman who *could* leave and chooses to stay — the federation's ideal citizen, belonging to the in-between *on purpose.* The unspent fare in his chest is the proof he stayed free.
 - **He fixes up the cave (the truest beat).** Furnishing the cave is Khaeros **deciding here is home** — the exile finally setting down the thirty-year suitcase. Brundt furnishing his cave is comedy; Khaeros furnishing his is grief becoming peace. Same shopping trip, opposite meaning.
@@ -106,6 +106,7 @@ They know each other socially; of course they do — the only two large, intelli
 - **Brundt is home.** The ravine is where he's from; his arc is *settling deeper*, furnishing the place he already belongs.
 - **Khaeros is exile.** He's from elsewhere, stranded; his arc is the agony of *choosing* a home.
 - Brundt went *into* the human world (the Keep) and the gate opened — his optimism is *earned*. Khaeros came toward the human world in a slave ship — his terror is *earned* too. Both are correct about the Karameikos they met. The campaign is the question of which Karameikos wins, and the Duke doesn't yet know he's living in both.
+- **Brundt won't soldier; Khaeros will.** The ogre sells everything *but* his sword (guide and broker, never a fighter-for-hire); the minotaur's sword is exactly what he sells — but now as a *free soldier who can quit,* not a thrall who can't. Two opposite settlements with the human world: Brundt the merchant who goes home at dusk, Khaeros the guardsman who wants to stay.
 
 And the practical payoff: **Brundt knows Khaeros's history.** The mercenary who's been everywhere in the ravine's economy, who came home from the Keep full of human gossip, is exactly the creature who might have pieced together what Khaeros never could — the Baron, the shape of the thing he fled. The party's path to the minotaur's history, and to the [first dark thread of the conspiracy](../campaign/the-iron-ring.md), may run straight through the ogre — who will sell it, of course, because he sells everything.
 
@@ -143,4 +144,5 @@ Where the *fun* lives, and the levers that make the negotiation matter at the ta
 - The conspiracy he's living evidence of: [The Iron Ring & the Black Eagle](../campaign/the-iron-ring.md)
 - His cannibalism argument in context: [Captivity & Hunger](../campaign/captivity-and-hunger.md)
 - The freeman status that answers his wound: *citizenship ladder — page TBD*
+- Where he wants to end up: [The Minotaur at the Keep](../campaign/the-minotaur-at-the-keep.md) (hired as a guard, under [Bohdan](captain-bohdan.md)) — and the **labyrinth** seed for his personal quest is there
 - Spine: [Progression — beat 4, Walking the Caves](../narrative/progression.md)

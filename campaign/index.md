@@ -11,6 +11,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 - **[The Ogre Goes to the Keep](the-ogre-goes-to-the-keep.md)** — the payoff of a "yes": Brundt's shopping trip demonstrates the whole thesis, cracks Valerian's skepticism, and rolls home as the proof of concept. *(Follows beat 3.)*
 - **[Brundt's Briefing](brundts-briefing.md)** — the ogre tells what he knows: accurate surface intel, two load-bearing blanks (the bugbear pipeline, the cult), and his amoral flatness as the briefing itself. *(Flexible timing.)*
 - **[First Contact — The Minotaur](first-contact-the-minotaur.md)** — Brundt brokers the meeting with Khaeros; disbelief that the good news indicts his survival strategy, and a "yes" that is not a word but a shared meal. *(Beat 4.)*
+- **[The Minotaur at the Keep](the-minotaur-at-the-keep.md)** — convincing Valerian to hire Khaeros onto the guard: the freeman deal made concrete, a former war-thrall taking up *fighting he can quit.* *(Follows beat 4.)*
 - **[The Caves of Chaos — Roster](caves-of-chaos.md)** — the polities of the ravine, sorted by behavior not label. *(Spine beat 4.)*
 - **[Captivity & Hunger](captivity-and-hunger.md)** — the economic logic of slavery, prisoners, and cannibalism: what trade can fix and what only resolves at the Baron.
 - **[The Prisoners](the-prisoners.md)** — the control group: five freed captives who prove the thesis with the party's own hands. Circumstance predicts behavior; species predicts nothing.
