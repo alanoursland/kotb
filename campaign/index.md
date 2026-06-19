@@ -7,6 +7,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 - **[The Borderland](the-borderland.md)** — where the Keep sits and why: the SW frontier on the Black Eagle Barony's edge, and the smuggling corridor the caves sit on. The setting decision everything else assumes.
 - **[The Audience with Duke Stefan](audience-with-duke-stefan.md)** — the opening scene. The commission, the open hand and closed fist. *(Spine beat 1.)*
 - **[The Keep — Arrival, Hub, and Valerian's Missions](the-keep-arrival-and-hub.md)** — first contact with the Castellan, the recurring debrief loop, and the traditional-D&D side-board. *(Spine beat 2.)*
+- **[First Contact — The Ogre at the Ravine](first-contact-the-ogre.md)** — the run-at-the-table scene for meeting Brundt: the menace-to-merchant flip and his sincerity test. *(Spine beat 3.)*
 - **[The Caves of Chaos — Roster](caves-of-chaos.md)** — the polities of the ravine, sorted by behavior not label. *(Spine beat 4.)*
 - **[Captivity & Hunger](captivity-and-hunger.md)** — the economic logic of slavery, prisoners, and cannibalism: what trade can fix and what only resolves at the Baron.
 - **[The Prisoners](the-prisoners.md)** — the control group: five freed captives who prove the thesis with the party's own hands. Circumstance predicts behavior; species predicts nothing.

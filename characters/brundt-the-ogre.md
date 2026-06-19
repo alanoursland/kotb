@@ -83,6 +83,7 @@ There's a quiet shadow worth holding in reserve: a true neutral who profits from
 
 ## Links
 
+- The first-contact scene (run-at-the-table): [First Contact — The Ogre at the Ravine](../campaign/first-contact-the-ogre.md)
 - Spine: [Progression — beat 3, First Contact](../narrative/progression.md)
 - Where he dens: [The Caves of Chaos — Roster](../campaign/caves-of-chaos.md)
 - His food logic: [Captivity & Hunger](../campaign/captivity-and-hunger.md) — subsistence cannibal already trading up; the easiest case

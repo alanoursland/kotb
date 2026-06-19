@@ -51,8 +51,8 @@ Arrive at the Keep and run into the politics. The **[Castellan Valerian](../char
 - **Approaches:** the Duke's letter (authority); demonstrating early success (the ogre, beat 3); evidence the raids have a cause; enlisting the Church of Traladar; simply proving competent.
 - **Thread:** Valerian's missions (the swamp lizardmen + lost necklace, the bandits, the hermit) — see the hub page and *Optional threads.* Helping him is a lever for his beat-7 buy-in.
 
-### 3 — First Contact: the Ogre · *caves* · **first easy yes**
-The party's first contact in the ravine is **[Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)**, the ogre. He speaks Common badly and deals in things he can hold — coin, food, comfort. If they *communicate and open relations* rather than fight, he becomes a rough **guide and broker** — the proof of concept that the whole mission is possible, and the ravine's best intelligence asset besides.
+### 3 — First Contact: the Ogre · *caves* · **first easy yes · developed**
+The party's first contact in the ravine is **[Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)**, the ogre. He speaks Common badly and deals in things he can hold — coin, food, comfort. If they *communicate and open relations* rather than fight, he becomes a rough **guide and broker** — the proof of concept that the whole mission is possible, and the ravine's best intelligence asset besides. The scene runs the **menace-to-merchant flip** and ends on his sincerity test (*take me to the Keep, let my coin spend inside your wall*). → **[First Contact — The Ogre at the Ravine](../campaign/first-contact-the-ogre.md)**
 - **Gate out (soft):** befriend Brundt → the other caves become approachable with a known intermediary.
 - **Approaches:** patience with his bad Common (the staff helps); food/coin; not attacking first; respect. The bar is low — he's *designed* to say yes.
 - **Seam to watch:** veterans may attack on sight. See *Open decisions → ogre fallback.*
