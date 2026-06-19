@@ -32,6 +32,8 @@ Brundt is **defense-biased.** He reliably helps factions who are *attacked* (he 
 
 He doesn't *reason* this. He *behaves* it. He drifted toward defense work because it pays clean and offense work gets messy, and the side effect is a peace nobody knows he's keeping.
 
+> **What hiring him does *not* buy: his club.** Brundt is exact about what a payment covers (see the toll rule above). The party is paying him to **guide and broker — not to fight.** He will not raise his weapon *for* them in a scrap, on offense **or** defense; if the party gets jumped, their guide steps back, because that is not what they paid for. He'll defend *his own* hide if attacked; he won't spend it on theirs. A nine-foot escort is **not** a nine-foot bodyguard, and a party that assumes otherwise learns it at the worst possible moment. (His old *defense-for-hire* racket is a contract with the caves' factions, not the party — the party bought *guiding,* and guiding isn't fighting.)
+
 ## The bag (his characterization in one prop)
 
 Brundt sits on a great leather bag of seven sacks: silver, copper, electrum, gold — and a **hard cheese**, a **keg of brandy**, and a sack of **gold-washed lead coins worth one copper each.** Somebody paid him in counterfeit, and he kept the fake sack anyway, hauled it around with the real money, sits on the whole pile.
@@ -44,7 +46,7 @@ That fear matters later: when he tests the humans, part of what he's checking is
 
 ## His arc: the glow-up
 
-When the party hires him (cheap — 250gp makes him a guide and broker), his instinct is to *test sincerity by something he can see and feel.* He asks if the humans have good food he can buy, and then **requests to go to the Keep** — because if the gate opens for him, if his coin spends inside the wall, then these humans can be trusted. It's a real test, and it runs in both directions: it puts the **Keep** on trial as much as Brundt.
+When the party hires him (cheap — 250gp makes him a guide and broker, *not* a bodyguard), his instinct is to *test sincerity by something he can see and feel.* He asks if the humans have good food he can buy, and then **requests to go to the Keep** — because if the gate opens for him, if his coin spends inside the wall, then these humans can be trusted. It's a real test, and it runs in both directions: it puts the **Keep** on trial as much as Brundt.
 
 If the gate opens, what he does inside is the campaign's whole thesis enacted without a speech. He doesn't buy a weapon. He buys a **bath, a haircut, decent clothes** — then **furniture, a mattress, a bed** — then a **cart to haul it home.** He spends everything, discovers his gold is fake, gets angry, and **does not take it out on the merchants** — he apologizes, says he got scammed. That restraint-under-genuine-grievance is the proof the Duke is right: Brundt has the faculty the temple cultists lack, the one the federation runs on — *knowing the difference between the person across the counter and the person who actually wronged you.*
 
