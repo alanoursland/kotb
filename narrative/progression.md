@@ -44,11 +44,12 @@ The Duke points the party at the caves: open relations, or clear them out. → *
 - **Gate out (hard):** travel to the Keep, where the castellan expects them.
 - **Carry forward:** the party's reaction to *"one way or another"* (loyal envoys vs. potential brokers for the caves).
 
-### 2 — The Keep and the Castellan · *political*
-Arrive at the Keep and run into the politics. The **[Castellan Valerian](../characters/castellan-valerian.md)** is loyal to the Duke and will follow orders, but he's charged with *keeping the area safe* and has strong feelings about a mission of *peace* with raiders — his instinct is the clean raid. The party has to navigate him, and they won't talk him round: he moves on *results,* not rhetoric. Establish here, quietly: the Keep's chapel is the **Church of Traladar** (not the state Church of Karameikos), run by the old Curate **[Father Branislav](../characters/the-curate.md)** — the man who'll matter enormously at the Shrine, easy to overlook now; and the Keep has no surplus — any food sent to the caves means **austerity** until Specularum resupplies.
-- **Gate out (soft):** the party gets enough cover/clearance to work the caves. The Castellan can be skeptical without blocking them.
+### 2 — The Keep and the Castellan · *political* · **developed**
+Arrive at the Keep and run into the politics. The **[Castellan Valerian](../characters/castellan-valerian.md)** is loyal to the Duke and will follow orders, but he's charged with *keeping the area safe* and has strong feelings about a mission of *peace* with raiders — his instinct is the clean raid. The party has to navigate him, and they won't talk him round: he moves on *results,* not rhetoric. From here the Keep is **home base** — every return runs through a debrief, and Valerian hands out traditional-D&D side-missions that build his trust and burn the party's time. → **[The Keep — Arrival, Hub, and Valerian's Missions](../campaign/the-keep-arrival-and-hub.md)**
+- **Establish quietly:** the chapel is the **[Church of Traladar](../characters/the-curate.md)** under old Father Branislav (matters enormously at the Shrine, easy to overlook now); the Keep has no surplus, so feeding the caves means **austerity** until Specularum resupplies; and the **undead-at-night** the Castellan shrugs off as ordinary gothic Traladar is the famine engine, pre-camouflaged.
+- **Gate out (soft):** the party gets enough cover/clearance to work the caves. Valerian can be skeptical without blocking them.
 - **Approaches:** the Duke's letter (authority); demonstrating early success (the ogre, beat 3); evidence the raids have a cause; enlisting the Church of Traladar; simply proving competent.
-- **Thread:** the Castellan may ask the party to deal with local problems — see *Optional threads.* Helping him is a lever for his buy-in later.
+- **Thread:** Valerian's missions (the swamp lizardmen + lost necklace, the bandits, the hermit) — see the hub page and *Optional threads.* Helping him is a lever for his beat-7 buy-in.
 
 ### 3 — First Contact: the Ogre · *caves* · **first easy yes**
 The party's first contact in the ravine is **[Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)**, the ogre. He speaks Common badly and deals in things he can hold — coin, food, comfort. If they *communicate and open relations* rather than fight, he becomes a rough **guide and broker** — the proof of concept that the whole mission is possible, and the ravine's best intelligence asset besides.
@@ -90,9 +91,9 @@ The win is **named and held, not final.** Weeks later the evidence carried out o
 
 ## Optional threads (incidental to the caves)
 
-The Castellan may ask for help with these; the party may just wander into them. None are required.
+[Valerian hands most of these out as missions](../campaign/the-keep-arrival-and-hub.md); the party may also just wander into them. None are required — and all of them burn time the famine doesn't give back.
 
-- **The lizardmen of the swamp** — *decided:* a specialized, reptilian offshoot of **kobold**. Peace is on the table; they mirror the kobold integration theme at one remove.
+- **The lizardmen of the swamp** — *decided:* a specialized, reptilian offshoot of **kobold**. Peace is on the table; they mirror the kobold integration theme at one remove. Valerian frames it as a kill-quest (a threat + a lost **necklace** to recover) — making it the **thesis in miniature**: the party can solve it his way (kill) or the Duke's way (parley), and recovering the necklace *through peace* is the best early proof he could be handed.
 - **The human raiders / bandits** — under the Duke's law, so the party may arrest or kill them. Peace is *possible* but has no clean story — they're humans who've opted out of society. **Identity undecided** (Black Eagle tie? foreigners? something else) — see Open decisions.
 - **The mad hermit** — classic B2 wildcard; explorable color.
 

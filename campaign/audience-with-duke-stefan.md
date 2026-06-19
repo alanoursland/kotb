@@ -82,5 +82,5 @@ Then the dismissal: the Keep's castellan — **[Valerian](../characters/castella
 ## Links
 
 - Spine: [Narrative → Progression, Beat 1](../narrative/progression.md)
-- Leads into: First Contact at the Caves *(beat 2 — TBD)*
+- Leads into: [The Keep — Arrival & Hub](the-keep-arrival-and-hub.md) *(beat 2)*
 - Characters introduced: **[Duke Stefan](../characters/duke-stefan-karameikos.md)**, the cleric **[Father Demetrios Kallistos](../characters/father-demetrios-kallistos.md)**, the **Black Eagle Baron** (off-page) *(profile — TBD)*

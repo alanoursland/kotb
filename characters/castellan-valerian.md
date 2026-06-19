@@ -74,6 +74,7 @@ The Keep runs on two people: Valerian (secular, martial, Thyatian, state-aligned
 *Stat block: use B2's Castellan (area 26) as written — a high-level Fighter commanding the Keep's garrison of men-at-arms and officers. Everything above is interpretation layered on that NPC; nothing contradicts the module.*
 
 ## Links
+- The scene & the hub he anchors: [The Keep — Arrival, Hub, and Valerian's Missions](../campaign/the-keep-arrival-and-hub.md)
 - His Keep and the politics: [Progression — beat 2 (arrival) & beat 7 (buying the peace)](../narrative/progression.md)
 - The other power of the Keep: [Father Branislav, the Curate](the-curate.md)
 - Who sent the party to him: [Duke Stefan](duke-stefan-karameikos.md) · [The Audience](../campaign/audience-with-duke-stefan.md)
