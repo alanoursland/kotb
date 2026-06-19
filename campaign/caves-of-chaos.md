@@ -60,9 +60,9 @@ Owlbear, gray ooze, stirges, fire beetles.
 
 ---
 
-## The medusa — *the limit case of the thesis*
-A cult prisoner the cultists plan to blind and sacrifice. She'll promise her rescuers a cure and then try to stone them.
-- **Challenge:** her treachery is *real* (the module says so) **and** understandable — every being she's met has tried to kill her on sight. Freeing her is a genuine gamble with teeth. The campaign's point: you can't tell the curse from the character until you risk it, and you may not like the answer.
+## Lysandra, the medusa — *the limit case of the thesis*
+A cult prisoner (staged as bait) the cultists plan to blind and sacrifice. She'll promise her rescuers a cure and then try to stone them. The cult calls her a gorgon; she remembers being **[Lysandra](../characters/lysandra-the-medusa.md)**.
+- **Challenge:** her treachery is *real* (the module says so) **and** understandable — every being she's met has tried to kill her on sight; the party may be the first counter-example of her life. Freeing her is a genuine gamble with teeth. The campaign's point: you can't tell the curse from the character until you risk it, and you may not like the answer. **Her own category** in the prisoner taxonomy — a *gamble*, not a rescue or a purchase. → [full profile](../characters/lysandra-the-medusa.md)
 
 ## The prisoners — *the control group*
 In the hobgoblin and bugbear pens: a merchant and his wife (grateful), a man-at-arms (loyal for bread), a freed orc (fights then flees, like any POW), a maddened gnoll (attacks his rescuers), and an evil human **"Hero"** (will murder the party for their treasure).
