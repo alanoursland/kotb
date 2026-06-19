@@ -10,24 +10,25 @@ The argument no monologue could make is built into the staging: **humans and dem
 
 ## The five beats
 
-### The merchant & his wife — *gratitude*
-Freed, they're simply **grateful.** They point the party to the **Merchant's Guild** at the Keep for a reward, and there's a **dagger +1** in it.
+### Aldwin & Teska — the merchant & his wife — *gratitude*
+**Aldwin**, a Thyatian trader, and **Teska**, his Traladaran wife. Freed, they're simply **grateful.** They point the party to the **Merchant's Guild** at the Keep for a reward, and there's a **dagger +1** in it.
 - **What it proves:** an ordinary captive, freed, behaves with ordinary decency — owes you and pays. Baseline humanity, and a clean reward to open the set on a positive note.
+- **Bonus:** a mixed Thyatian–Traladaran couple is the federation ideal in miniature, and a literal **merchant** in a campaign about building trade — keep them in your pocket as a later contact.
 
-### The man-at-arms — *loyalty as circumstance*
-A soldier who, freed, will **serve the party for room and board** — loyal for bread.
+### Petrek — the man-at-arms — *loyalty as circumstance*
+**Petrek**, a soldier who, freed, will **serve the party for room and board** — loyal for bread.
 - **What it proves:** loyalty here isn't virtue, it's **circumstance** — he'll follow whoever feeds and shelters him, exactly the logic the whole federation runs on. A useful hireling, and a quiet demonstration that "loyalty" is something you *buy with security,* not something a creature is or isn't.
 
-### The freed orc — *the POW*
-Freed, he **fights, then flees** — strikes at whatever's between him and the exit, then runs for the wild.
+### Murz — the freed orc — *the POW*
+**Murz**, freed, **fights then flees** — strikes at whatever's between him and the exit, then runs for the wild.
 - **What it proves:** the "monster" behaves **exactly like a human prisoner of war** — no gratitude, no malice, just a captive taking his chance to escape. Species predicted *savage*; circumstance produced *escapee.* The single cleanest data point in the set.
 
-### The maddened gnoll — *circumstance breaks anyone*
-Freed, he **attacks his rescuers** — captivity has driven him mad.
+### Hessk — the maddened gnoll — *circumstance breaks anyone*
+**Hessk**, freed, **attacks his rescuers** — captivity has driven him mad.
 - **What it proves:** the gnolls are the [cleanest-sheet faction](../characters/faction-leaders.md#gnoll-chief--maruk) in the ravine — and *this* gnoll is lethal to the people freeing him, **purely from what was done to him.** Same species as the model citizens; opposite behavior, all circumstance. A genuine danger that is nobody's "nature."
 
-### The evil human "Hero" — *the control that holds the line*
-In the bugbear pens: a fully **human** fighter (a "Hero" by title) who will pose as a rescued ally and then **murder the party for their treasure.**
+### "Sir Davric the Bold" — the evil human "Hero" — *the control that holds the line*
+In the bugbear pens: a fully **human** fighter (a "Hero" by class title) who styles himself **"Sir Davric the Bold"** — there is no such knight — and will pose as a rescued ally before **murdering the party for their treasure.**
 - **What it proves:** the **worst creature in the room is human,** and wears the heroic label. He is the deliberate **"the label was sometimes right" control** — paired with **[Lysandra the medusa](../characters/lysandra-the-medusa.md).** Between them they keep "the caves are misunderstood" from collapsing into "monsters are secretly nice." Some things *are* as dangerous as their stat block says; one of them here is human. **Keep him exactly as lethal as written** — the redemptions elsewhere only mean something because this control holds.
 
 ---
@@ -36,11 +37,11 @@ In the bugbear pens: a fully **human** fighter (a "Hero" by title) who will pose
 
 | Prisoner | Species | Behavior on freeing | Predicted by species? |
 |---|---|---|---|
-| Merchant & wife | Human | Grateful; rewards you | — |
-| Man-at-arms | Human | Serves for bread | — |
-| Freed orc | "Monster" | Fights, then flees (POW) | **No** |
-| Maddened gnoll | "Monster" | Attacks rescuers (broken) | **No** |
-| The "Hero" | Human | Murders you for gold | **No** |
+| Aldwin & Teska | Human | Grateful; rewards you | — |
+| Petrek | Human | Serves for bread | — |
+| Murz | Orc ("monster") | Fights, then flees (POW) | **No** |
+| Hessk | Gnoll ("monster") | Attacks rescuers (broken) | **No** |
+| "Sir Davric" | Human | Murders you for gold | **No** |
 
 Read the species column against the behavior column and there's **no correlation at all.** A human is the killer; an orc behaves like any soldier; a gnoll's danger is trauma, not nature. The party doesn't get *told* the campaign's thesis here — they get to **discover it as a pattern,** which is the only way it sticks.
 
