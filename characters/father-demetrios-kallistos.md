@@ -31,6 +31,7 @@ That makes him an ideal envoy. He extends grace to the caves more readily than a
 - **Use him to nudge, not steer.** If the party is stuck, he can ask the question that reopens the door ("Did we ever learn what they *eat?*"). He does not make the plan.
 - **He paraphrases warmly.** He'll naturally render a cave-dweller's blunt line into something more diplomatic — not to deceive, just because that's how he hears the world. Optional flavor; play it or don't.
 - **His wisdom is real.** High WIS; his read on *people* is usually sound even when his read on *politics* is naive. Trust him on hearts, doubt him on systems.
+- **One thing he can't do:** read the cult's symbols. Demetrios is Church of Karameikos, raised Thyatian — he may *sense* the Shrine is wrong, but he can't recognize the **iron-ring cord-trappings** as alien to Traladaran faith, and he's never heard the name *the Iron Ring.* That recognition belongs to a **Church of Traladar** cleric, not him. It's a gap, not a flaw — and a reason the party needs the Traladarans. See [progression beat 6](../narrative/progression.md).
 
 ## The staff (the communication device)
 

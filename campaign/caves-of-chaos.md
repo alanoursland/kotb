@@ -52,6 +52,7 @@ Owlbear, gray ooze, stirges, fire beetles.
 ## The Shrine of Evil Chaos — *the irreducible evil*
 39 zombies, 32 skeletons, 9 clerics, a torture chief, a wight, a gelatinous cube, and a captive medusa. A **cult of Thanatos** (Sphere of Entropy) wearing a Traladaran-liberation mask, unknowingly an **Iron Ring** node, **manufacturing the famine** that starves the caves into raiding.
 - **Challenge:** the one cave where the whole playbook fails — Entropy wants what everyone has and offers nothing. No interest to satisfy, no trade to make. **It must be destroyed** — but with the **Church of Traladar's** legitimacy, not the state Church of Karameikos (which manufactures martyrs and breeds the next cell). The head cleric **suicide-ascends** rather than be captured, so the truth surfaces through the body and the newest recruit, not interrogation.
+- **The unread smoking gun:** the cult wears symbols *alien to Traladaran faith* — above all **iron rings on cords around the neck.** Only a Church of Traladar cleric recognizes them as foreign; nobody in the party, Demetrios included, knows the name *the Iron Ring.* The party may carry the rings out as evidence without grasping what they are. Pays off at [beat 8](../narrative/progression.md).
 - Full role in the spine: [beat 6](../narrative/progression.md).
 
 ---

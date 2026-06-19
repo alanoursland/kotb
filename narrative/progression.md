@@ -70,6 +70,7 @@ The turn from diplomacy to mystery. The party discovers the food is being **dest
 ### 6 — The Shrine of Evil Chaos · *investigation / combat* · **the irreducible evil**
 The one cave where the playbook fails. Entropy wants what everyone has and offers nothing — no interest to satisfy, no trade to make. **The cult must be destroyed.** The leeway is entirely in *how:*
 - **Approach (the real choice):** destroy it with the legitimacy of the **Church of Traladar**, or with the state **Church of Karameikos** / alone. The former cleanses it cleanly; the latter is read across the frontier as *the Duke attacking Traladaran religion* — a lie, but exactly **Bargle's design** — and breeds the next generation of martyrs and cells.
+- **The alien symbols (the smoking gun, unread).** The cult wears trappings that are *not Traladaran* — chief among them **iron rings on cords around the neck.** A **Church of Traladar** cleric recognizes them as foreign to the faith; this is the forensic half of why you need the Traladarans, not just the political half. **No one in the party — not even [Demetrios](../characters/father-demetrios-kallistos.md) — knows the name *the Iron Ring,*** so the literal name of the conspiracy hangs around every cultist's neck and nobody can read it. The party likely carries the rings out as loot or evidence *without understanding what they hold.*
 - **The bugbears** intersect here: witting Iron Ring, they'll feign peace and **sabotage** the assault and the federation. They are the one living faction the party fights rather than feeds.
 - **The head cleric suicide-ascends** rather than be taken — so the *truth* surfaces through the **body, the symbols, and the newest recruit,** not interrogation. Salt the temple with evidence the party carries out without understanding.
 - **Curdle:** even a clean win curdles on a delay → beat 8.
@@ -80,7 +81,7 @@ The tracks meet. Killing the cult stops the *manufactured* famine, but the caves
 - **Approaches:** reframe tribute as payroll; demonstrated peace (Brundt rolling home); the Church of Traladar's blessing; the Duke's authority; austerity sold as temporary.
 
 ### 8 — The Horizon · *curdle / ending*
-The win is **named and held, not final.** Weeks later the evidence carried out of the Shrine resolves — the symbols *don't* match real Thanatos worship; the Church of Traladar notices; the thread runs toward the **Iron Ring**, **Bargle**, and the **Black Eagle Barony.** The party touched the edge of something national. The ending isn't "evil destroyed" — it's "the living remembered, for now, that their real enemies were never each other."
+The win is **named and held, not final.** Weeks later the evidence carried out of the Shrine resolves — the **iron-ring cord-symbols** and other trappings *don't* match real Thanatos worship *or* the Traladaran faith; the Church of Traladar names what the party couldn't, and the conspiracy finally gets a name: **the Iron Ring.** The thread runs toward **Bargle** and the **Black Eagle Barony.** The party touched the edge of something national — and learns they were carrying its emblem in their packs the whole time. The ending isn't "evil destroyed" — it's "the living remembered, for now, that their real enemies were never each other."
 
 ---
 
