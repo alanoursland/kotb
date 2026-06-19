@@ -62,6 +62,7 @@ Offer him the front-man role — broker between the Duke's trade and the caves �
 He's the perfect front man for the **transactional** layer — coin, caravans, "the humans pay, take the deal." He is a **liability** above it. He understands value he can hold in his hand; he cannot navigate the [hobgoblin cannibalism problem, the bugbear-slavery bar](../campaign/captivity-and-hunger.md), the [medusa](../campaign/caves-of-chaos.md), or anything where the payoff is abstract, deferred, or moral. Hand him a negotiation he can't weigh in coin and he'll lose interest or take the nearest concrete bribe and wreck it. **He's the front man for commerce. The party are still the diplomats.** Comedy and danger both come from him confidently overstepping into deals he doesn't have the wiring to broker.
 
 ## The intelligence asset
+*Run-at-the-table scene: [Brundt's Briefing](../campaign/brundts-briefing.md) — what he knows, what he doesn't, and the two deliberate blanks.*
 
 Because he's been **for hire to every faction in the ravine for years**, Brundt knows everybody's business — who pays well, who reneges, who's dangerous, and what the thing at the back of the shunned caves is and why even *he* doesn't take jobs near it. A loyal soldier knows his own side; a mercenary-to-all knows everyone's. He's the closest thing the ravine has to a man who knows where the bodies are, and for twenty gold and a wheel of decent cheese, he'll tell you.
 
