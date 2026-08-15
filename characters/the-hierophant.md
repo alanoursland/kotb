@@ -37,16 +37,16 @@ So the most devastating fact about them: **they are starving their own people an
 In this campaign, a cleric of Entropy of **6th level or higher returns as undead** unless their corpse is **blessed** (or otherwise sanctified/destroyed). Vesna is built around this: they will **suicide-ascend** — choose death — rather than be taken alive. This is not a quirk; it's the design of the climax:
 
 - **You cannot interrogate them.** The villain monologue never comes. Kill the leader and you get a corpse that rises, not a confession.
-- **The truth has to escape sideways** — through the **body** (what blessing it reveals, that a "Traladaran liberator" returns as a thing of Entropy), the **symbols** (the [iron rings and trappings alien to the faith](../campaign/the-iron-ring.md), readable only by the Church of Traladar), and the **newest recruit** (below). The party carries the answer out *without understanding it* — which is exactly why the win [curdles on a delay](../narrative/progression.md).
+- **The truth has to escape sideways** — through the **body** (what blessing it reveals, that a "Traladaran liberator" returns as a thing of Entropy), the **symbols** (the [iron rings and trappings alien to the faith](../campaign/the-iron-ring.md), readable only by the Church of Traladar), and **[Mara Sokol](mara-sokol.md), the newest recruit**. The party carries the answer out *without understanding it* — which is exactly why the win [curdles on a delay](../narrative/progression.md).
 - **Blessing the corpse is a player problem.** Do they know to do it? With the Church of Traladar or [Father Demetrios](father-demetrios-kallistos.md) present, maybe. If not, Vesna rises — a second fight, and a clue screaming that this was no ordinary heretic.
 
 ---
 
-## The newest recruit — the counterfactual made playable
+## Mara Sokol — the counterfactual made playable
 
-Vesna is too far down the Path to save; they're committed, and built to ascend. But the cult's **newest recruit** is the same tragedy *one step earlier* — a Traladaran who walked toward the door for the same true reasons and hasn't yet gone through. **They can still be reached.**
+Vesna is too far down the Path to save; they're committed, and built to ascend. But **[Mara Sokol](mara-sokol.md)**, the cult's newest recruit, is the same tragedy *one step earlier* — a Traladaran who walked toward the door for the same true reasons and has not yet gone through. **She can still be reached.**
 
-That's where "would a federation in time have stopped them?" stops being rhetorical and becomes a *scene:* the recruit is the person the party might actually pull back, the living proof that the door is a *choice* the caves are pushed toward by hunger — and that feeding the caves is what closes it. The recruit is also the witness who *can* talk (when the Hierophant can't), carrying out the truth Vesna died protecting. **Develop the newest recruit as Vesna's foil:** who you couldn't save, beside who you might. *(Profile — TBD.)*
+That's where "would a federation in time have stopped them?" stops being rhetorical and becomes a *scene:* Mara is the person the party might actually pull back, the living proof that the door is a *choice* people are pushed toward by grief, hunger, and official indifference — and that a working alternative is what closes it. She is also the witness who *can* talk when the Hierophant cannot, carrying out the truth Vesna died protecting. Her [full profile](mara-sokol.md) places her among B2's room 54 acolytes and makes the opening explicit at the table.
 
 ---
 
@@ -89,4 +89,4 @@ A Traladaran patriot has a Traladaran name — the name of the devout person the
 - The conspiracy they serve without knowing: [The Iron Ring & the Black Eagle](../campaign/the-iron-ring.md)
 - Their shrine and the fight: [Progression — beat 6](../narrative/progression.md) · [Roster → the Shrine](../campaign/caves-of-chaos.md)
 - Who can name what they became: [Father Branislav, the Curate](the-curate.md) (Church of Traladar) · contrast [Father Demetrios](father-demetrios-kallistos.md), who *can't* read the symbols
-- The mercy beside the tragedy: the **newest recruit** *(profile TBD)*
+- The mercy beside the tragedy: **[Mara Sokol, the newest recruit](mara-sokol.md)**

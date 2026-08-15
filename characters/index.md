@@ -11,6 +11,7 @@ NPC and faction profiles, written to be played cold at the table — what they w
 - **[Lysandra — the Medusa](lysandra-the-medusa.md)** — the limit case of the thesis: circumstance can make something real you still can't trust. A gamble, not a rescue. One of two "the label was sometimes right" controls.
 - **[Skarn — the Rebel Bugbear](skarn-the-rebel-bugbear.md)** — the inch of daylight that keeps the bugbear storyline from becoming race-essentialism. Won't be bound, won't bind. Insider witness and the wedge into the one fight you can't buy out of.
 - **[Vesna — the Hierophant](the-hierophant.md)** — the head cult cleric. The campaign's central tragedy: a Traladaran patriot who serves the Baron he hates and dies thinking he's the hero. Built to suicide-ascend; can't be interrogated. *(Name/gender provisional.)*
+- **[Mara Sokol — the Newest Recruit](mara-sokol.md)** — a former Traladaran chapel novice from Luln, only eleven days inside the Shrine. Vesna's reachable counterfactual, the one cultist who can still choose differently, and the witness who can speak after the Hierophant cannot.
 - **[Father Branislav — the Curate](the-curate.md)** — the old keeper of the suppressed Church of Traladar at the Keep. Reads the symbols the state church can't, legitimizes cleansing the Shrine, and is distrusted because knowing Thanatos looks like proximity to him. *(Name provisional.)*
 - **[Father Ariston Vale — Priest of the Open Lantern](father-ariston-vale.md)** — the visiting false priest. Claims to evangelize a young faith from distant Saragón; actually a witting agent of Thanatos who listens, infiltrates, and sabotages durable peace at the moment it matters most.
 - **[Castellan Valerian](castellan-valerian.md)** — commander of the Keep. A good soldier who disagrees with the peace, argues for the raid, and obeys anyway. The gate on the political track; the honest skeptic; a gated source on the Baron.
@@ -23,7 +24,6 @@ NPC and faction profiles, written to be played cold at the table — what they w
 *(none right now)*
 
 ### Named but not yet profiled
-- **The newest recruit** — the cult's most recent Traladaran convert; Vesna's foil, *one step before the door,* and the one cultist the party might still save. The counterfactual made playable, and the witness who can talk when the Hierophant can't. *(Shrine, beat 6.)*
 - **Bargle** — the Baron's mage, secret Thanatos worshipper, likely the real hand behind the Iron Ring and the manufactured famine. Off-stage horizon.
 - **Black Eagle Baron** (Ludwig von Hendriks) — Stefan's cousin; the slaver pipeline's head. Off-stage horizon.
 
