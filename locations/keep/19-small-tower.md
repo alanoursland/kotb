@@ -11,6 +11,21 @@
 - All carry crossbows and swords. Shields stored below improve AC from 5 to 4 in hand-to-hand combat.
 - The base is solid except for the narrow stair, making the post difficult to rush.
 
+## Named personnel
+
+| Name | Pronouns | Rank and assignment | Recognition |
+|---|---|---|---|
+| Livia Dragovic | she/her | Corporal — Commands the tower and eastern inner-wall watch. | Thick chestnut hair and one noticeably crooked ear; carries peppermints and shares them after a long watch. |
+| Elena Toma | she/her | Man-at-Arms — Crossbowman; eastern wall and cavalry-approach watch, file 1. | Copper-brown skin, close curls, and a quick half-smile; speaks little but remembers every face. |
+| Severus Branas | he/him | Man-at-Arms — Crossbowman; eastern wall and cavalry-approach watch, file 2. | A long face, iron-gray eyes, and hair cut with a barracks knife; speaks in a low voice that carries surprisingly far. |
+| Marcellus Calpurnius | he/him | Man-at-Arms — Crossbowman; eastern wall and cavalry-approach watch, file 3. | A short dark braid, brown skin, and a missing fingertip; uses surnames on duty and first names off it. |
+| Julian Corvinus | he/him | Man-at-Arms — Crossbowman; eastern wall and cavalry-approach watch, file 4. | A long face, iron-gray eyes, and hair cut with a barracks knife; repeats orders back word for word. |
+| Mira Varga | she/her | Man-at-Arms — Crossbowman; eastern wall and cavalry-approach watch, file 5. | Straight black hair, a high brow, and a chipped front tooth; keeps spare bowstring wound around one wrist. |
+| Adrian Tarchon | he/him | Man-at-Arms — Crossbowman; eastern wall and cavalry-approach watch, file 6. | A short dark braid, brown skin, and a missing fingertip; chews the inside of one cheek while concentrating. |
+| Claudius Aemilius | he/him | Man-at-Arms — Crossbowman; eastern wall and cavalry-approach watch, file 7. | A broad-shouldered build, wavy black hair, and pale blue eyes; carries peppermints and shares them after a long watch. |
+
+Two of these soldiers are above and six below at any given time; rotate names as watches change.
+
 ## Response
 
 The tower covers the [Entry Yard](03-entry-yard.md), eastern outer bailey, and approach to the [Inner Gatehouse](18-inner-gatehouse.md). An alarm brings aimed crossbows first and reinforcements second.
@@ -24,4 +39,3 @@ The tower covers the [Entry Yard](03-entry-yard.md), eastern outer bailey, and a
 ## Source
 
 - [B2 area 19](../../kotb.md#19-small-tower)
-

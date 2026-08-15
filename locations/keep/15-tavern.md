@@ -36,7 +36,7 @@ Mercenaries have leather, shield, sword, and dagger: AC 6, Fighter 1, hp 5 each,
 
 ## Familiar faces
 
-Each has a 10% chance to be present: the watch corporal, watch captain, bailiff, visiting priest, 2-4 watchmen, guard sergeant, or an equipped wandering adventurer. Use roles only for now; names come in the later resident pass.
+Each has a 10% chance to be present: **Tavian Radu** (watch corporal), **Cosmas Acastus** (watch captain), the bailiff, the visiting priest, 2-4 soldiers drawn from the [garrison roster](garrison.md), **Eudokia Vatatzes** (master sergeant), or an equipped wandering adventurer. Named soldiers retain the recognition cues in their home location sheets.
 
 ## Campaign use
 
@@ -58,4 +58,3 @@ The tavern household sleeps in loft and cellar spaces. In danger, the owner and 
 ## Source
 
 - [B2 area 15](../../kotb.md#15-tavern)
-

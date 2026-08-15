@@ -12,6 +12,42 @@
 - The cellars contain ducal provisions, servants' quarters, a cistern, and four stout dungeon cells.
 - The second floor houses heavy and medium cavalry, two couriers, and two special guest rooms.
 
+## Named military personnel
+
+### Command group
+
+| Name | Pronouns | Rank and assignment | Recognition |
+|---|---|---|---|
+| Valerian | he/him | Castellan — Commands the Keep, its garrison, and all ducal operations in the district. | Iron-gray at the temples, controlled posture, and a commander's habit of measuring every proposal by its cost in lives. |
+| Bohdan “the Wall” | he/him | Captain of the Guard — Deputy commander; directs the gate, foot troops, watches, and patrol response. | The largest officer in the Keep, broad as a doorway and deliberately imposing; beneath the performance he is observant and fundamentally decent. |
+| Aurelian Petrescu | he/him | Lieutenant-Scribe — Adjutant, chaplain-officer, keeper of orders, muster rolls, and ducal correspondence. | Ink-stained fingers, polished plate, and a calm cleric's voice; can quote yesterday's order without opening the ledger. |
+| Lethariel Amastacia | they/them | Staff Advisor — Elvenguard liaison and woodland intelligence advisor; assists reconnaissance, remount, river, and road planning. | A robust, tan-skinned Callarii with a white-blonde braid and deep blue eyes; an Elvenguard liaison who studies roads, rivers, and horses before maps. |
+
+### Fortress guard
+
+| Name | Pronouns | Rank and assignment | Recognition |
+|---|---|---|---|
+| Calista Torquatus | she/her | Sergeant — Commands the roofline and corner-tower section. | A broad-shouldered build, wavy black hair, and pale blue eyes; polishes one piece of kit whenever conversation slows. |
+| Dagna Flintvein | she/her | Corporal — Leads the active wall and tower watch. | A Highforge Stronghollow with a short dark braid and a missing fingertip; recognizes workmanship from individual dwarven and gnomish shops on sight. |
+| Sella Waveborn | she/her | Man-at-Arms — Fortress wall crossbowman, file 1. | A stocky frame, dark cropped hair, and an old burn on one wrist; uses surnames on duty and first names off it. |
+| Marcus Cassianus | he/him | Man-at-Arms — Fortress wall crossbowman, file 2. | A lean face, a close-trimmed beard, and watchful dark eyes; polishes one piece of kit whenever conversation slows. |
+| Radu Bogdanov | he/him | Man-at-Arms — Fortress wall crossbowman, file 3. | A compact build, cropped auburn hair, and steady green eyes; keeps the uniform immaculate and the boots merely serviceable. |
+| Cassian Kallergis | he/him | Man-at-Arms — Fortress wall crossbowman, file 4. | A tall, spare frame with dark hair tied at the nape; polishes one piece of kit whenever conversation slows. |
+| Lucius Livius | he/him | Man-at-Arms — Fortress wall crossbowman, file 5. | A broad face, tight black curls, and a flattened nose; leans on nothing, even during a quiet watch. |
+| Gaius Maro | he/him | Man-at-Arms — Fortress wall crossbowman, file 6. | A youthful face, short curls, and a veteran's steady posture; watches hands rather than faces during arguments. |
+| Theodor Varga | he/him | Sergeant — Commands the fortress-interior security section. | A short dark braid, brown skin, and a missing fingertip; has a habit of straightening crooked signs. |
+| Mircea Dumitru | he/him | Corporal — Leads door, stair, and audience-room security. | Gray-streaked black hair and deep smile lines; always knows who is due to be relieved next. |
+| Flavius Angelos | he/him | Man-at-Arms — Shield guard; fortress doors, stores, and stairs, file 1. | Sandy hair, freckled cheeks, and permanently squinting eyes; always knows who is due to be relieved next. |
+| Aulus Maxentius | he/him | Man-at-Arms — Shield guard; fortress doors, stores, and stairs, file 2. | Straight black hair, a high brow, and a chipped front tooth; checks every buckle twice before taking post. |
+| Titus Severian | he/him | Man-at-Arms — Shield guard; fortress doors, stores, and stairs, file 3. | Pale blond hair, ruddy cheeks, and unusually large hands; keeps a small wooden luck token under the cuirass. |
+| Vasile Ionescu | he/him | Man-at-Arms — Shield guard; fortress doors, stores, and stairs, file 4. | A youthful face, short curls, and a veteran's steady posture; polishes one piece of kit whenever conversation slows. |
+| Decimus Branas | he/him | Man-at-Arms — Shield guard; fortress doors, stores, and stairs, file 5. | Gray-streaked black hair and deep smile lines; keeps spare bowstring wound around one wrist. |
+| Quintus Calpurnius | he/him | Man-at-Arms — Shield guard; fortress doors, stores, and stairs, file 6. | A heavy dark braid and callused hands marked by bow wax; counts doors and windows on entering a room. |
+
+### Mounted residents
+
+The second-floor riders are named and described on the [Cavalry Stables personnel list](22-cavalry-stables.md#named-military-personnel): twelve heavy cavalry, eighteen medium cavalry, and two ducal couriers. They sleep here but muster and work at the stables.
+
 ## The debrief loop
 
 Every return from the borderland comes here first.
@@ -51,4 +87,3 @@ The special guest rooms provide a controlled alternative when an unusual visitor
 
 - [B2 area 24](../../kotb.md#24-the-keep-fortress)
 - [Campaign arrival and debrief structure](../../campaign/the-keep-arrival-and-hub.md)
-

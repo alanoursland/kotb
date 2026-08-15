@@ -65,7 +65,7 @@ Valerian, won over (or at least *permitting*), sets **terms**: the ogre is escor
 
 ## Part 4 — The Escort
 
-Brundt is walked through the Keep by **[Captain Bohdan](../characters/captain-bohdan.md)** and a detail. This is the heart of the scene — and it should be, in the best way, a little bit *wonderful* and a little bit *funny.*
+Brundt is walked through the Keep by **[Captain Bohdan](../characters/captain-bohdan.md)** and three conspicuously large rank-and-file soldiers: **[Titus Maro, Marcus Varro, and Ilie Dobrev](../locations/keep/18-inner-gatehouse.md#brundts-escort-detail)**. They are just big, steady men selected to reassure the Keep, not special operatives. This is the heart of the scene — and it should be, in the best way, a little bit *wonderful* and a little bit *funny.*
 
 > *Word runs ahead of you faster than you walk. Shutters crack open and slam shut. A mother pulls a child off the street by the collar. Conversations stop dead and pick back up in whispers. And through it all moves Brundt — escorted, watched, hands where everyone can see them — gawking at the Keep the way the Keep is gawking at him.*
 >

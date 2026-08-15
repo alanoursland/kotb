@@ -18,6 +18,15 @@
 - Crossbow crews watch from both [flanking towers](02-flanking-towers.md).
 - During an unusual arrival, the captain or corporal of the watch reaches the gate within minutes.
 
+## Named personnel
+
+| Name | Pronouns | Rank and assignment | Recognition |
+|---|---|---|---|
+| Marra Vorenus | she/her | Senior Man-at-Arms — Outer gate warden; operates the doors and challenges traffic. | A narrow face, black curls, and a pale scar beside the mouth; leans on nothing, even during a quiet watch. |
+| Marcus Aurican | he/him | Man-at-Arms — Inner gate warden; watches the murder passage and locking bars. | Straight black hair, a high brow, and a chipped front tooth; leans on nothing, even during a quiet watch. |
+
+For the complete chain of command and watch rotation, see the [garrison roster](garrison.md).
+
 ## Questions the guards ask
 
 - Who are you, and under whose authority do you travel?
@@ -39,4 +48,3 @@ The gate should feel formidable, not hostile. Its soldiers are correctly cautiou
 
 - [B2 area 1](../../kotb.md#1-main-gate)
 - [Campaign arrival and hub](../../campaign/the-keep-arrival-and-hub.md)
-

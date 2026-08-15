@@ -27,6 +27,10 @@ The pawned goods range from honest bargains to hopeful overpricing: an ivory tus
 
 The cellar strong room has twelve separately locked compartments, each protected by a poison needle. Contents include coin, gems, a valuable altar service, an art object, trapped compartments, sleeping gas, four pit vipers, and an arrow trap. Use the [full vault table](../../kotb.md#11-loan-bank) if the vault becomes active play.
 
+## Garrison overwatch
+
+**Cassia Volusus** (she/her) is the default archer assigned from the [Watch Tower](12-watch-tower.md): ash-blond hair kept brutally short and pale gray eyes; folds blankets and cloaks with needless precision. Her relief comes from the same bow section. The plate-armored door guard is the banker's private mercenary, not a member of the garrison.
+
 ## Exits
 
 - [Go northeast to the Trader](10-trader.md) - Return to the shop row to spend or appraise funds.
@@ -38,4 +42,3 @@ The cellar strong room has twelve separately locked compartments, each protected
 
 - [B2 area 11](../../kotb.md#11-loan-bank)
 - [Campaign counterfeit-gold beat](../../campaign/the-ogre-goes-to-the-keep.md#part-6--the-fake-gold)
-

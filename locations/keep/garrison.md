@@ -50,15 +50,39 @@ Castellan Valerian — commander of the Keep
 | Mixed Thyatian-Traladaran | 10 | 4.5% |
 | Darokinian | 4 | 1.8% |
 | Ylari | 2 | 0.9% |
-| Rockhome dwarf | 2 | 0.9% |
-| Alfheim elf | 2 | 0.9% |
+| Highforge dwarf (Stronghollow clan) | 2 | 0.9% |
+| Callarii elf | 1 | 0.4% |
+| Vyalia elf | 1 | 0.4% |
 | Glantrian | 1 | 0.4% |
 | Minrothad islander | 1 | 0.4% |
 | Ethengarian | 1 | 0.4% |
 | Five Shires halfling | 1 | 0.4% |
 | **Total** | **223** | **100.0%** |
 
-The Thyatian majority reflects the Grand Duchy's officer culture and recruitment network; the substantial Traladaran minority reflects local enlistment. Mixed-heritage soldiers are ordinary in a ducal institution that has now operated in Karameikos for a generation. Foreigners generally arrived through trade, treaty service, specialized military skills, or the promise of recognized ducal employment.
+The Thyatian majority reflects the Grand Duchy's officer culture and recruitment network; the substantial Traladaran minority reflects local enlistment. Mixed-heritage soldiers are ordinary in a ducal institution that has now operated in Karameikos for a generation. The Callarii, Vyalia, and Highforge dwarves are Karameikan peoples, not recent recruits from Alfheim or Rockhome. Other foreigners generally arrived through trade, specialized military skills, or the promise of recognized ducal employment.
+
+**Ironvein** and **Flintvein** are household bynames within the larger **Stronghollow clan**. Both dwarves grew up in predominantly gnomish Highforge and are familiar with its mixed dwarven-and-gnomish craft traditions and trade ties.
+
+## Gender mix
+
+| Identity used in play | Number | Share |
+|---|---:|---:|
+| Men (he/him) | 123 | 55.2% |
+| Women (she/her) | 98 | 43.9% |
+| Nonbinary (they/them) | 2 | 0.9% |
+| **Total** | **223** | **100.0%** |
+
+The garrison is visibly mixed at every level: women serve as officers, sergeants, corporals, infantry, cavalry, archers, stable guards, and couriers. The occupational term **man-at-arms** is retained where the B2-facing roster uses it; it is a rank label here, not a statement about gender. Pronouns and quick recognition descriptions appear in each soldier's assigned [location sheet](index.md).
+
+## Brundt's escort detail
+
+For Brundt's visit, Bohdan draws three unusually large but otherwise ordinary soldiers from the [Inner Gatehouse](18-inner-gatehouse.md#brundts-escort-detail):
+
+- **Titus Maro** — Thyatian man-at-arms, 6 feet 7 inches; the tallest and heaviest.
+- **Marcus Varro** — Thyatian man-at-arms, 6 feet 6 inches; long-armed and careful in crowds.
+- **Ilie Dobrev** — Traladaran man-at-arms, 6 feet 5 inches; barrel-chested and patient.
+
+Their size is their only distinction. They remain low-ranking soldiers under Bohdan's direct command.
 
 ## Duty state and support staff
 
@@ -84,7 +108,7 @@ The command group issues orders, keeps the ducal correspondence and muster rolls
 | Valerian | Thyatian | Castellan | Commands the Keep, its garrison, and all ducal operations in the district. | A career officer's commission and duty to the Grand Duchy. |
 | Bohdan “the Wall” | Traladaran | Captain of the Guard | Deputy commander; directs the gate, foot troops, watches, and patrol response. | A farm-born strongman who found steady pay and rose on merit. |
 | Aurelian Petrescu | Mixed Thyatian-Traladaran | Lieutenant-Scribe | Adjutant, chaplain-officer, keeper of orders, muster rolls, and ducal correspondence. | Church schooling opened the way to a ducal commission. |
-| Lethariel Amastacia | Alfheim elf | Staff Advisor | Arcane and woodland intelligence advisor; assists reconnaissance planning. | Treaty service and a wish to gain experience beyond Alfheim. |
+| Lethariel Amastacia | Callarii elf | Staff Advisor | Elvenguard liaison and woodland intelligence advisor; assists reconnaissance, remount, river, and road planning. | Elvenguard liaison duty to the Grand Duchy's frontier command. |
 
 ### Main Gate — 2
 
@@ -107,7 +131,7 @@ Four soldiers are on the battlement, four form the immediate ready detail inside
 
 | Name | Heritage | Rank | Current job | Why joined |
 |---|---|---|---|---|
-| Belgo Ironvein | Rockhome dwarf | Sergeant | Commands the west tower and its inside ready detail. | A ducal contract offered steady work in the siegecraft he knows. |
+| Belgo Ironvein | Highforge dwarf (Stronghollow clan) | Sergeant | Commands the west tower and its inside ready detail. | A Highforge trade compact offered steady ducal work in fortification and siegecraft. |
 | Cassian Dalassenos | Thyatian | Corporal | Leads the west battlement watch. | Steady ducal pay. |
 | Lucius Torquatus | Thyatian | Man-at-Arms | Battlement crossbowman, file 1. | Eligibility for a future land grant. |
 | Petar Petrov | Traladaran | Man-at-Arms | Battlement crossbowman, file 2. | Steady pay. |
@@ -341,7 +365,7 @@ These are the same sixteen guards described on fortress duty and housed in the c
 | Name | Heritage | Rank | Current job | Why joined |
 |---|---|---|---|---|
 | Calista Torquatus | Thyatian | Sergeant | Commands the roofline and corner-tower section. | Career advancement. |
-| Dagna Flintvein | Rockhome dwarf | Corporal | Leads the active wall and tower watch. | Armory work and fortress duty made good use of clan training. |
+| Dagna Flintvein | Highforge dwarf (Stronghollow clan) | Corporal | Leads the active wall and tower watch. | Fortress duty made good use of Stronghollow craft training and Highforge's ties to the Grand Duchy. |
 | Sella Waveborn | Minrothad islander | Man-at-Arms | Fortress wall crossbowman, file 1. | Steady pay between voyages and a liking for disciplined watch work. |
 | Marcus Cassianus | Thyatian | Man-at-Arms | Fortress wall crossbowman, file 2. | A younger child's lack of inheritance. |
 | Radu Bogdanov | Traladaran | Man-at-Arms | Fortress wall crossbowman, file 3. | The pension. |
@@ -368,7 +392,7 @@ Two twelve-soldier detachments sleep near headquarters and reinforce any threate
 |---|---|---|---|---|
 | Publius Corvinus | Thyatian | Sergeant | Commands central-tower reserve detachment 1. | Steady ducal pay. |
 | Sorin Vaduva | Traladaran | Corporal | Leads crossbow half-section 1. | Steady pay. |
-| Caelith Starbough | Alfheim elf | Man-at-Arms | Reserve detachment 1, crossbow file 1; rapid reinforcement. | A term of foreign service and experience against border raiders. |
+| Caelith Starbough | Vyalia elf (Treeshield) | Man-at-Arms | Reserve detachment 1, crossbow file 1; rapid reinforcement. | Treeshield clan service and practical experience beyond the Vyalia woods. |
 | Severus Tarchon | Thyatian | Man-at-Arms | Reserve detachment 1, crossbow file 2; rapid reinforcement. | Eligibility for a future land grant. |
 | Marcellus Aemilius | Thyatian | Man-at-Arms | Reserve detachment 1, crossbow file 3; rapid reinforcement. | Career advancement. |
 | Julian Drakon | Thyatian | Man-at-Arms | Reserve detachment 1, crossbow file 4; rapid reinforcement. | A younger child's lack of inheritance. |

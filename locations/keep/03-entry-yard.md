@@ -19,6 +19,16 @@
 - Two plate-armored soldiers with pole arms.
 - Stable hands arrive when animals or baggage need moving.
 
+## Named military personnel
+
+| Name | Pronouns | Rank and assignment | Recognition |
+|---|---|---|---|
+| Tavian Radu | he/him | Corporal of the Watch — Questions arrivals, enforces dismounting, and assigns escorts. | Curly brown hair, broad cheekbones, and a weather-reddened nose; is forever mending straps for less careful soldiers. |
+| Orsino Hallonica | he/him | Man-at-Arms — Plate-armored polearm escort at the entry desk. | A stocky frame, dark cropped hair, and an old burn on one wrist; speaks in a low voice that carries surprisingly far. |
+| Damian Neratius | he/him | Man-at-Arms — Plate-armored polearm escort at the entry desk. | A heavy dark braid and callused hands marked by bow wax; carries peppermints and shares them after a long watch. |
+
+The ledger scribe and stable hands are civilian personnel and are not included in the garrison count.
+
 ## Signposts
 
 - **Lodging, meals, fountain:** west.
@@ -43,4 +53,3 @@ This is the Keep's procedural heartbeat. Use the ledger to establish who came an
 
 - [B2 area 3](../../kotb.md#3-entry-yard)
 - [Campaign debrief loop](../../campaign/the-keep-arrival-and-hub.md#part-2--the-keep-as-hub-the-debrief-loop)
-

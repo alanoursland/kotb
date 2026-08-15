@@ -4,6 +4,14 @@
 
 > The commander's private chamber rises above the main roof behind battlements. Heavy furnishings, a silver mirror, a malachite bowl, and a fox robe make it comfortable without softening the fact that this is the room of a frontier soldier.
 
+## Principal occupant
+
+| Name | Pronouns | Rank and assignment | Recognition |
+|---|---|---|---|
+| Valerian | he/him | Castellan — commander of the Keep and its district | Iron-gray at the temples, controlled posture, and a commander's habit of measuring every proposal by its cost in lives. |
+
+For the rest of his headquarters staff, see the [Keep Fortress](24-keep-fortress.md#named-military-personnel) and [Central Towers](26-central-towers.md#named-personnel).
+
 ## Run this area
 
 - Routine reports and audiences occur downstairs in the [Keep Fortress](24-keep-fortress.md), not here.

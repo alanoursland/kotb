@@ -19,6 +19,10 @@
 - Arrange movement of goods through the [Guild House](16-guild-house.md).
 - Secure a wagon for a large purchase if its owner agrees to sell.
 
+## Military contact
+
+**Tavian Radu** (he/him), the corporal of the watch in the [Entry Yard](03-entry-yard.md), holds the military key ring. He is a square-built man with mixed Thyatian-Traladaran features, a habitually sour expression, and genuine respect for plainly spoken courage.
+
 ## Exits
 
 - [Return to the Entry Yard](03-entry-yard.md) - Go northeast along the wall.
@@ -34,4 +38,3 @@ This is where the campaign's political economy becomes physical: grain, wagons, 
 
 - [B2 area 5](../../kotb.md#5-common-warehouse)
 - [Campaign supply-line politics](../../campaign/the-keep-arrival-and-hub.md#part-2--the-keep-as-hub-the-debrief-loop)
-
