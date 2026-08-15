@@ -11,6 +11,15 @@
 - The bailiff is heavily armed, personally formidable, and accustomed to being obeyed.
 - Twelve soldiers occupy the fourth floor: six with leather, shields, pole arms, and hand axes; six with chain, crossbows, and swords.
 
+## Civilian officials
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Cassian Vardos | he/him | Bailiff; superintendent and civil magistrate of the outer bailey. | A square-built veteran in immaculate clothes; listens without expression and then states what will happen. |
+| Nadia Rusan | she/her | Bailiff's scribe; prepares orders, receipts, and property records. | Small, quick-eyed, and usually carrying three differently colored sticks of sealing wax. |
+
+Cassian commands the civil office. Nadia keeps its orders and property records; Ilona Petrescu's entry ledger ultimately reports here.
+
 ## Named escort detail
 
 | Name | Pronouns | Rank and assignment | Recognition |

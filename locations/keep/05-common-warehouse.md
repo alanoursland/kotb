@@ -19,6 +19,18 @@
 - Arrange movement of goods through the [Guild House](16-guild-house.md).
 - Secure a wagon for a large purchase if its owner agrees to sell.
 
+## Regular civilian users
+
+The warehouse has no permanent civilian staff. When cargo is moving, these are the default people handling its civilian side:
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Vasile Neagu | he/him | Independent carter; hauls between the warehouse and arriving convoys. | Tall and spare, with sun-browned skin and careful movements; has a habit of putting misplaced objects back where they belong. |
+| Julia Neagu | she/her | Carter's agent and contract reader; Vasile's wife. | Broad shoulders, short brown hair, and a small scar on the chin; remembers regular customers' usual requests. |
+| Sorina Petrov | she/her | Senior clerk; traffic records and local craft permissions. | Long-fingered hands, a high brow, and ink or dye beneath the nails; offers a cup of water before asking what someone wants. |
+
+Vasile and Julia arrange carts and hauling. Sorina appears when Guild dues, seals, manifests, or protected cargo are involved.
+
 ## Military contact
 
 **Tavian Radu** (he/him), the corporal of the watch in the [Entry Yard](03-entry-yard.md), holds the military key ring. He is a square-built man with mixed Thyatian-Traladaran features, a habitually sour expression, and genuine respect for plainly spoken courage.

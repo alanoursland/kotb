@@ -14,10 +14,18 @@
 
 ## People here
 
-- Retired Fighter 3 banker: hp 12, sword at hand; plate and shield upstairs.
-- Scrawny clerk: Magic-user 2, hp 5, with *sleep* and *ventriloquism* ready.
-- Mercenary door guard: AC 3, Fighter 1, hp 7, battle axe and crossbow.
+- **Octavius Teren**, retired Fighter 3 banker: hp 12, sword at hand; plate and shield upstairs.
+- **Pavel Soran**, scrawny clerk: Magic-user 2, hp 5, with *sleep* and *ventriloquism* ready.
+- **Branka Drazic**, mercenary door guard: AC 3, Fighter 1, hp 7, battle axe and crossbow.
 - A chain-armored archer in the [Watch Tower](12-watch-tower.md) covers the building.
+
+## Named staff
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Octavius Teren | he/him | Banker, moneychanger, lender, and retired fighter. | A solid older man with silver at his temples; weighs both coins and answers before accepting either. |
+| Pavel Soran | he/him | Clerk, appraiser, and discreet minor magic-user. | Scrawny, ink-fingered, and dry-voiced; sometimes answers from the wrong side of the room. |
+| Branka Drazic | she/her | Hired mercenary door guard; battle axe and crossbow. | Plate-armored, square-jawed, and courteous; never allows a conversation to block her view of the door. |
 
 ## Display case
 

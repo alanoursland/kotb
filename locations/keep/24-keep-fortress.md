@@ -48,6 +48,70 @@
 
 The second-floor riders are named and described on the [Cavalry Stables personnel list](22-cavalry-stables.md#named-military-personnel): twelve heavy cavalry, eighteen medium cavalry, and two ducal couriers. They sleep here but muster and work at the stables.
 
+## Named civilian household
+
+### Fortress household
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Helena Varro | she/her | Fortress steward; directs the entire domestic staff. | Silver-threaded dark hair and a ring of small keys; can locate any servant, room, or stored furnishing. |
+| Milan Codreanu | he/him | Housekeeper; rooms, furniture, and staff rota. | Long-fingered hands, a high brow, and ink or dye beneath the nails; pauses before answering any question involving money. |
+
+### Fortress kitchen
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Vesna Ionescu | she/her | Head cook. | Round-faced and red-armed from the ovens; treats an empty serving dish as a personal insult. |
+| Marcus Gallus | he/him | Second cook; roasts, sauces, and officers' meals. | A round face, thick dark hair, and permanently flushed cheeks; notices damaged clothing and equipment immediately. |
+| Toma Bratov | he/him | Kitchen scullion. | A weathered face, close-cut hair, and one noticeably crooked ear; remembers regular customers' usual requests. |
+| Cassia Longinus | she/her | Fortress baker. | A weathered face, close-cut hair, and one noticeably crooked ear; keeps a small piece of chalk behind one ear. |
+
+### Great hall service
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Nadia Lazar | she/her | Senior hall server. | A compact build, cropped chestnut hair, and an old nick through one eyebrow; keeps a small piece of chalk behind one ear. |
+| Aulus Varen | he/him | Hall server and furniture porter. | Tall and spare, with sun-browned skin and careful movements; laughs quietly and only after everyone else. |
+
+### Chambers and guests
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Elena Cotta | she/her | Chamber attendant; command rooms. | Dark hair going early gray and a voice softer than expected; counts change or supplies twice without appearing to do so. |
+| Pavel Toma | he/him | Chamber attendant; officers' and guest rooms. | A round face, thick dark hair, and permanently flushed cheeks; becomes animated when discussing the work. |
+| Nera Saltwind | she/her | Special-guest-room attendant. | Weather-browned, soft-footed, and able to pack a room or sea chest with equal efficiency. |
+
+### Laundry and linen
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Daria Petrov | she/her | Senior laundress. | A weathered face, close-cut hair, and one noticeably crooked ear; keeps working while conversations unfold. |
+| Lucia Zoric | she/her | Laundress and mender. | Sandy hair, freckles, and an expression of patient concentration; remembers regular customers' usual requests. |
+
+### Stores and cellars
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Severus Celsus | he/him | Cellarer; wine, ale, and cellar keys. | A fine-boned face, dark eyes, and clothing mended with unusual care; uses surnames until invited to do otherwise. |
+| Mira Dobrev | she/her | Pantry keeper; dry goods and daily issue. | Dark curls, a broad brow, and work-roughened hands; offers a cup of water before asking what someone wants. |
+| Octavia Laskaris | she/her | Lamp, candle, and linen keeper. | A weathered face, close-cut hair, and one noticeably crooked ear; notices damaged clothing and equipment immediately. |
+
+### Maintenance
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Gavril Stancu | he/him | Cistern keeper and drain maintenance. | A sturdy frame, auburn hair, and clear green eyes; keeps a small piece of chalk behind one ear. |
+| Basil Vettus | he/him | Household carpenter and repairer. | Wavy black hair, deep smile lines, and a slightly crooked nose; keeps working while conversations unfold. |
+| Raluca Muresan | she/her | Cleaner and rush-layer. | A sturdy frame, auburn hair, and clear green eyes; can point toward any public service without looking up. |
+
+### Messages
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Julian Maro | he/him | Civilian page and internal messenger. | Fourteen, neatly dressed, and incapable of walking when an errand permits running. |
+
+Helena Varro directs all twenty civilians. They support the comfortable, regularly supplied command household; they are neither soldiers nor an improvised emergency labor force.
+
 ## The debrief loop
 
 Every return from the borderland comes here first.

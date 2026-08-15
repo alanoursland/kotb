@@ -30,6 +30,20 @@
 - Buy a prospective hire a drink before discussing terms.
 - The Keep is well supplied, and the table reflects it: food is good, portions dependable, and the room functions as a genuine frontier rest stop.
 
+## Named household and staff
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Gregor Kresnik | he/him | Taverner and principal barkeep. | A broad, cheerful man who hates small beer, loves honey mead, and trades one rumor for one drink. |
+| Cassia Kresnik | she/her | Kitchen manager, brewer, and Gregor's wife. | Copper-brown skin, close curls, and strong square hands; keeps working while conversations unfold. |
+| Milan Kresnik | he/him | Adult son; barkeep, cellar work, and door support. | Tall and spare, with sun-browned skin and careful movements; listens for gossip but almost never repeats it inaccurately. |
+| Zlata Kresnik | she/her | Adult daughter; serving floor and purchasing. | A sturdy frame, auburn hair, and clear green eyes; answers direct questions with practical detail. |
+| Marina Celsus | she/her | Senior server. | Dark curls, a broad brow, and work-roughened hands; speaks to children and officers in exactly the same tone. |
+| Doru Muresan | he/him | Pot boy and cellar runner. | Fourteen, quick, red-cheeked, and somehow always carrying six cups. |
+| Anca Popov | she/her | Scullion and kitchen assistant. | Sixteen, quiet in the common room and relentlessly talkative in the kitchen. |
+
+Gregor, Cassia, Milan, and Zlata are the owner household. Marina, Doru, and Anca live in the cellar-level staff spaces.
+
 ## Hiring mercenaries
 
 Mercenaries have leather, shield, sword, and dagger: AC 6, Fighter 1, hp 5 each, morale 7. The employer supplies any additional gear, room, and board. Pay is 1 sp per day when properly equipped, or 1 gp per day when the employer provides no meaningful gear.

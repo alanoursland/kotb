@@ -70,6 +70,15 @@
 
 Riders sleep in the [Keep Fortress](24-keep-fortress.md) but work, muster, and receive mounts here. The two stable hands are civilian specialists.
 
+## Named civilian specialists
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Kiril Dobrev | he/him | Warhorse groom and feed keeper. | Sandy hair, freckles, and an expression of patient concentration; laughs quietly and only after everyone else. |
+| Ariadne Kallergis | she/her | Remount groom and veterinary assistant. | Long-fingered hands, a high brow, and ink or dye beneath the nails; knows the day's convoy and meal schedules by heart. |
+
+Kiril and Ariadne tend the horses but are not enlisted. Helena Aquila and Cassia Damas remain responsible for military access and security.
+
 ## Statistics
 
 - War horses: AC 7, HD 3, hp 11 each, two attacks for 1-6/1-6, morale 8.

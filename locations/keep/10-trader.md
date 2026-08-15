@@ -12,6 +12,14 @@
 - The trader and two adult children can arm themselves with leather, shields, pole arms, and swords if needed.
 - Bulky purchases such as cloth, furniture, a wagon, or a large food order are brokered through local craftspeople, the [Guild House](16-guild-house.md), and the [Warehouse](05-common-warehouse.md).
 
+## Named household
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Gavros Melas | he/him | Trader in arms, armor, furs, cloth, salt, and bulk goods. | Heavy eyebrows, a measured smile, and the ability to appraise fur without breaking conversation. |
+| Niketas Melas | he/him | Older son; handles weapons, armor, and caravan orders. | Sandy hair, freckles, and an expression of patient concentration; knows the day's convoy and meal schedules by heart. |
+| Dorian Melas | he/him | Younger son; handles cloth, spice, timber, and delivery arrangements. | Copper-brown skin, close curls, and strong square hands; keeps a small piece of chalk behind one ear. |
+
 ## Campaign use
 
 - This is a natural stop during a peaceful cave-dweller's first shopping trip.
@@ -33,4 +41,3 @@ The three residents are normal people with hp 2, 3, and 3. Hidden beneath their 
 
 - [B2 area 10](../../kotb.md#10-trader)
 - [Campaign market demonstration](../../campaign/the-ogre-goes-to-the-keep.md#part-5--he-spends-the-250)
-

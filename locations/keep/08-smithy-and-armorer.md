@@ -12,6 +12,17 @@
 - The family and assistants live upstairs.
 - Custom work is possible when time and materials permit. Oversized fittings, wagon hardware, and unusual commissions become small public events rather than impossible requests.
 
+## Named household and staff
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Mihail Stancu | he/him | Master smith and armorer. | A soot-black beard, one flattened thumb, and the habit of examining damage before greeting its owner. |
+| Elena Stancu | she/her | Finisher, bookkeeper, and Mihail's wife. | Sandy hair, freckles, and an expression of patient concentration; speaks to children and officers in exactly the same tone. |
+| Bori Copperthumb | he/him | Assistant smith; locks, fittings, and precision mechanisms. | A compact gnome with copper spectacles and burn-pocked gloves; becomes animated around clever mechanisms. |
+| Cassia Vettus | she/her | Assistant armorer; mail, buckles, and field repairs. | Broad shoulders, short brown hair, and a small scar on the chin; pauses before answering any question involving money. |
+| Nico Stancu | he/him | Older child; apprentice striker and charcoal keeper. | Fourteen, soot-streaked, and proud of being trusted with the heaviest hammer. |
+| Vesna Stancu | she/her | Younger child; bellows, errands, and finished-stock tags. | Ten, bright-eyed, and prone to asking where every damaged weapon has been. |
+
 ## At the table
 
 - Quote a repair time and collect the damaged item.
@@ -34,4 +45,3 @@
 ## Source
 
 - [B2 area 8](../../kotb.md#8-smithy-and-armorer)
-

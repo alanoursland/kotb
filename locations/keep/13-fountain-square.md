@@ -11,6 +11,21 @@
 - On ordinary days, the square still draws messengers, children, off-duty soldiers, servants, and anyone waiting for somebody else.
 - A conspicuous outsider is seen here by almost everyone. Reactions can range from fear and refusal to curiosity and eager commerce.
 
+## Familiar daytime faces
+
+No civilian is permanently stationed in the square. If the players address someone without selecting a particular passerby, start with one of these residents on an ordinary errand:
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Vesna Markov | she/her | Baker; supplies bread to the inn, tavern, fortress, and public counter. | Flour in her dark hair and strong forearms; judges strangers by how they treat hungry people. |
+| Milena Stoian | she/her | Laundress; holds contracts with the inn and garrison. | A graceful posture, dark braided hair, and keen hazel eyes; remembers regular customers' usual requests. |
+| Elena Varga | she/her | Innkeeper; assigns rooms and remembers returning guests. | Soft-spoken and round-faced; notices new scars, missing companions, and changed equipment without staring. |
+| Gregor Kresnik | he/him | Taverner and principal barkeep. | A broad, cheerful man who hates small beer, loves honey mead, and trades one rumor for one drink. |
+| Julian Maro | he/him | Civilian page and internal messenger. | Fourteen, neatly dressed, and incapable of walking when an errand permits running. |
+| Father Branislav “Branko” | he/him | Curate of the Keep and keeper of the old Church of Traladar. | A grim, spare old priest with tired eyes; listens for what a person fears before answering what they ask. |
+
+Move them back to their workplaces when needed; this is a ready encounter list, not a fixed duty post.
+
 ## Signposts
 
 - **Tavern:** north.
@@ -37,4 +52,3 @@ Run public demonstrations here: the first peaceful cave-dweller crossing the Kee
 
 - [B2 area 13](../../kotb.md#13-fountain-square)
 - [Campaign market scene](../../campaign/the-ogre-goes-to-the-keep.md#part-4--the-escort)
-

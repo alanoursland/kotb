@@ -13,6 +13,15 @@
 - The proprietor's family lives in a small apartment in the building.
 - Regular ducal and caravan traffic keeps common goods available. Very large orders require a Guild arrangement rather than an empty shelf crisis.
 
+## Named household
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Stoyan Iliev | he/him | Provisioner; sells ordinary expedition gear. | A weathered face, close-cut hair, and one noticeably crooked ear; has a habit of putting misplaced objects back where they belong. |
+| Livia Iliev | she/her | Stockkeeper, buyer, and Stoyan's wife. | Wavy black hair, deep smile lines, and a slightly crooked nose; notices damaged clothing and equipment immediately. |
+| Mira Iliev | she/her | Counter attendant; older child. | Fifteen, quick with sums, and able to find any object in the crowded shop. |
+| Toma Iliev | he/him | Runner and shelf-stocker; younger child. | Eleven, solemnly helpful, with three pieces of string always looped around one wrist. |
+
 ## At the table
 
 - Resolve ordinary purchases quickly from the [reference equipment tables](../../kotb.md#cost-of-equipment-and-weapons).
@@ -33,4 +42,3 @@ The proprietor is a normal person with hp 3. If the walls are threatened, leathe
 ## Source
 
 - [B2 area 9](../../kotb.md#9-provisioner)
-

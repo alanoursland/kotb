@@ -33,7 +33,7 @@ From here on, the Keep is home base, and **every return runs through Valerian.**
 The debrief does real work:
 
 - **It's the meter for his arc.** Valerian moves on *results.* Each debrief, he reacts to what actually happened: raids down? He leans in. The ogre rolled home fed and peaceful? A crack in the skepticism. People dead, nothing to show? He feels vindicated and pushes harder for the raid. **Track his disposition across debriefs** — it's the live gauge of the political track and the run-up to his beat-7 buy-in.
-- **It's the pressure valve.** Supply schedules, merchant objections, soldiers who resent ducal provisions going to former raiders, and a sergeant who won't feed monsters — surface them here. The party's choices ease or worsen the politics, not a shortage inside the Keep.
+- **It's the pressure valve.** Supply schedules, objections from **Mihail Radu's Merchants' Guild office**, soldiers who resent ducal provisions going to former raiders, and a sergeant who won't feed monsters — surface them here. The party's choices ease or worsen the politics, not a shortage inside the Keep. A lasting caves trade route touches Anton Radu's caravan monopoly and private protection network, not merely the preferences of a few local shopkeepers.
 - **It's where missions get handed out** (Part 3).
 - **It's a structural heartbeat.** Ravine expedition → return → debrief → resupply → out again. The rhythm of the mid-game.
 

@@ -21,6 +21,17 @@ Servants sleep in the [Common Stable](04-common-stable.md), not in the inn.
 - Baths, laundry, barbering, tailoring, furniture, and other comforts are not all performed under this roof, but the inn can arrange them through local households and the Guild.
 - An unusually large or feared guest requires advance approval, an escort, and practical improvisation. The Keep has resources; the challenge is permission and social nerve.
 
+## Named household
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Elena Varga | she/her | Innkeeper; assigns rooms and remembers returning guests. | Soft-spoken and round-faced; notices new scars, missing companions, and changed equipment without staring. |
+| Lucius Varga | he/him | Cook, repairman, and Elena's husband. | Tall and spare, with sun-browned skin and careful movements; remembers regular customers' usual requests. |
+| Sofia Varga | she/her | Older child; manages linens and private rooms. | Seventeen, composed, and almost impossible to surprise in a corridor. |
+| Pavel Varga | he/him | Younger child; luggage, fires, and common-room bedding. | Thirteen, broad-grinned, and always knows which guest snores. |
+
+These four live in the loft. Current guests remain transient and are not part of the permanent roster.
+
 ## Exits
 
 - [Go west to Fountain Square](13-fountain-square.md) - Step into the public crossroads.
@@ -36,4 +47,3 @@ The innkeeper and family are normal people with no meaningful fighting ability. 
 ## Source
 
 - [B2 area 14](../../kotb.md#14-travelers-inn)
-

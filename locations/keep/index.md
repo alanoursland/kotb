@@ -9,6 +9,7 @@ Use these pages as a text-adventure map. Exit links describe an action and a dir
 ## Garrison reference
 
 - [Garrison roster](garrison.md) - command hierarchy, all 223 soldiers, their posts, duties, heritage, and reasons for serving.
+- [Civilian roster](civilians.md) - all 100 fixed civilian and non-garrison occupants, grouped by location with jobs and recognition cues.
 
 ## Public outer bailey
 
@@ -54,7 +55,7 @@ Access requires invitation, military business, or a special permit.
 - The Keep is comfortable and regularly supplied by the Grand Duchy. It is a rest area with a military spine, not a settlement under austerity.
 - Feeding the caves is a political and logistical expansion of that supply line, not a choice to starve the garrison.
 - Peaceful cave-dwellers are unprecedented guests. Admission requires the party's guarantee, an escort, and the Castellan's approval.
-- Civilian residents are identified by role in this first pass. The soldiers are named in the [garrison roster](garrison.md).
+- Permanent and current occupants are named in the [civilian roster](civilians.md) and [garrison roster](garrison.md). Transient travelers and random hirelings remain flexible.
 
 ## Campaign context
 

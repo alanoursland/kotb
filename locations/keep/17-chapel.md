@@ -11,6 +11,17 @@
 - A concealed stair behind the pews descends to the Curate's and three acolytes' quarters.
 - The chapel is the Keep's Church of Traladar, not merely a generic military shrine.
 
+## Named clergy
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Father Branislav “Branko” | he/him | Curate of the Keep and keeper of the old Church of Traladar. | A grim, spare old priest with tired eyes; listens for what a person fears before answering what they ask. |
+| Ana Dragan | she/her | Senior acolyte; worship, healing assistance, and accounts. | A weathered face, close-cut hair, and one noticeably crooked ear; keeps a small piece of chalk behind one ear. |
+| Petar Balan | he/him | Acolyte; altar service, maintenance, and sick visits. | A narrow face, pale gray eyes, and hair tied back with plain cord; knows the day's convoy and meal schedules by heart. |
+| Milena Radu | she/her | Acolyte; offerings, music, and children's instruction. | Straight black hair, watchful brown eyes, and a quick half-smile; keeps a small piece of chalk behind one ear. |
+
+All four live in the chapel cellar. Branislav's three acolytes admire the visiting Father Ariston despite their Curate's distrust.
+
 ## The Curate
 
 - The most influential person in the Keep after the Castellan.
@@ -41,4 +52,3 @@ Beneath the offering-box pedestal is a secret compartment found only by moving t
 
 - [B2 area 17](../../kotb.md#17-chapel)
 - [Campaign role of the Curate](../../characters/the-curate.md)
-

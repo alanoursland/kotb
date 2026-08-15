@@ -10,8 +10,76 @@
 - The two large suites are occupied by a jewel merchant's household and a visiting priest with two silent acolytes.
 - These are homes, not public shops. Knocking, invitations, and the hour of day matter.
 
+## Named residents
+
+### Apartment 1 — Markov bakery
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Vesna Markov | she/her | Baker; supplies bread to the inn, tavern, fortress, and public counter. | Flour in her dark hair and strong forearms; judges strangers by how they treat hungry people. |
+| Gaius Markov | he/him | Oven keeper and deliveryman; Vesna's husband. | A round face, thick dark hair, and permanently flushed cheeks; becomes animated when discussing the work. |
+| Mira Markov | she/her | Counter attendant; Vesna and Gaius's older child. | Sixteen, flour-dusted, and fearless about correcting a customer's arithmetic. |
+| Petar Markov | he/him | Bakery runner; Vesna and Gaius's younger child. | Twelve, quick-footed, and usually balancing a bread basket too large for him. |
+
+### Apartment 2 — Balin wheelwrights
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Oren Balin | he/him | Carpenter and wheelwright. | A graceful posture, dark braided hair, and keen hazel eyes; answers direct questions with practical detail. |
+| Ana Balin | she/her | Joiner and household bookkeeper; Oren's wife. | A narrow face, pale gray eyes, and hair tied back with plain cord; remembers regular customers' usual requests. |
+| Doru Balin | he/him | Adult apprentice wheelwright; Oren and Ana's son. | A narrow face, pale gray eyes, and hair tied back with plain cord; pauses before answering any question involving money. |
+| Lidia Balin | she/her | Paints signs and wagon panels; Oren and Ana's daughter. | Fifteen, paint-spattered, and able to reproduce any merchant mark after one look. |
+
+### Apartment 3 — Stoian laundry
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Milena Stoian | she/her | Laundress; holds contracts with the inn and garrison. | A graceful posture, dark braided hair, and keen hazel eyes; remembers regular customers' usual requests. |
+| Titus Stoian | he/him | Soap maker and boiler; Milena's husband. | Broad shoulders, short brown hair, and a small scar on the chin; uses surnames until invited to do otherwise. |
+| Raluca Stoian | she/her | Seamstress; repairs civilian clothing and uniform linens. | A narrow face, pale gray eyes, and hair tied back with plain cord; speaks to children and officers in exactly the same tone. |
+| Sorin Stoian | he/him | Laundry runner and water carrier. | Fourteen, lanky, and perpetually carrying a bundle or bucket. |
+
+### Apartment 4 — Damas surgery and baths
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Helena Damas | she/her | Barber-surgeon; cuts hair, sets simple injuries, and draws teeth. | Close-cropped black hair, clean instruments, and a soothing voice that makes alarming procedures sound routine. |
+| Teodora Damas | she/her | Midwife and herbalist; Helena's sister. | A narrow face, pale gray eyes, and hair tied back with plain cord; can point toward any public service without looking up. |
+| Marcus Damas | he/him | Bath attendant and porter; Helena's husband. | Broad shoulders, short brown hair, and a small scar on the chin; keeps a small piece of chalk behind one ear. |
+| Irene Damas | she/her | Herbal and barbering apprentice; Helena's niece. | Seventeen, solemn on duty, with bundles of labeled herbs tied to her belt. |
+
+### Apartment 5 — Neagu carters
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Vasile Neagu | he/him | Independent carter; hauls between the warehouse and arriving convoys. | Tall and spare, with sun-browned skin and careful movements; has a habit of putting misplaced objects back where they belong. |
+| Julia Neagu | she/her | Carter's agent and contract reader; Vasile's wife. | Broad shoulders, short brown hair, and a small scar on the chin; remembers regular customers' usual requests. |
+| Stoyan Neagu | he/him | Teamster; Vasile and Julia's adult son. | A narrow face, pale gray eyes, and hair tied back with plain cord; knows the day's convoy and meal schedules by heart. |
+| Danica Neagu | she/her | Wagon painter and spare driver; Vasile and Julia's daughter. | Sixteen, sun-browned, with paint beneath every fingernail. |
+
+### 7a — Voss jewel household
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Hadrian Voss | he/him | Prosperous Merchants' Guild jewel merchant; buys gems and finances valuable trade. | Well-fed, carefully dressed, and unfailingly courteous until money or Maren's safety is involved. |
+| Maren Voss | she/her | Hadrian's wife, jewelry appraiser, and experienced fisher. | River-weathered hands contrast with expensive jewelry; listens sharply whenever anyone describes the marsh. |
+| Ilyan Rostov | he/him | Private household guard; handler of Harrow, a trained war dog. | A heavy-lidded man with a broken nose; Harrow watches wherever he looks. |
+| Sabina Kouris | she/her | Private household guard; handler of Mica, a trained war dog. | Tall and impeccably alert; gives Mica commands with tiny movements of two fingers. |
+
+### 7b — Visiting priest
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Father Ariston Vale | he/him | Visiting priest and apparently genial opponent of evil. | Robust, silver-haired, warm-eyed, and remarkably good at making another person feel heard. |
+| Corin | he/him | Silent acolyte and armed assistant to Father Ariston. | Broad-shouldered and serene, with a shaved head; his eyes move whenever Ariston appears relaxed. |
+| Sera | she/her | Silent acolyte and armed assistant to Father Ariston. | Strong-featured, dark-haired, and outwardly tranquil; never accepts food she did not watch being served. |
+
+Ilyan's trained war dog is **Harrow**; Sabina's is **Mica**. The five small-apartment households are permanent. The Voss household and Father Ariston's party are current long-term visitors.
+
 ## 7a. Jewel merchant
 
+- The merchant is **Hadrian Voss**, a prosperous member of the Merchants' Guild; his wife and fellow appraiser is **Maren Voss**.
+- Hadrian is influential but does not run the local Guild House. That office belongs to **[Mihail Radu](16-guild-house.md)**, Anton Radu's frontier factor.
 - Buys gems for 60%-90% of value and sells for 110%-140%.
 - The merchant's spouse wears valuable jewelry that is also for sale.
 - Two Fighter 2 guards in chain and shield protect the household; each controls a trained war dog.
@@ -40,4 +108,3 @@
 
 - [B2 area 7](../../kotb.md#7-private-apartments)
 - [Campaign treatment of the visiting priest](../../characters/the-curate.md#the-visiting-priest--what-he-is-working-direction-written-later)
-

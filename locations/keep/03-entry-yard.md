@@ -15,9 +15,9 @@
 ## People here
 
 - The corporal of the watch: plate, shield, magic sword; grouchy, unimpressed by status, but responsive to direct courage.
-- One scribe at the entry ledger.
+- **Ilona Petrescu**, the bailiff-employed civilian scribe, at the entry ledger.
 - Two plate-armored soldiers with pole arms.
-- Stable hands arrive when animals or baggage need moving.
+- Stable hands from the [named common-stable staff](04-common-stable.md#named-staff) arrive when animals or baggage need moving.
 
 ## Named military personnel
 
@@ -28,6 +28,14 @@
 | Damian Neratius | he/him | Man-at-Arms — Plate-armored polearm escort at the entry desk. | A heavy dark braid and callused hands marked by bow wax; carries peppermints and shares them after a long watch. |
 
 The ledger scribe and stable hands are civilian personnel and are not included in the garrison count.
+
+## Civilian registrar
+
+| Name | Pronouns | Role | Recognition |
+|---|---|---|---|
+| Ilona Petrescu | she/her | Civilian gate registrar employed by the bailiff; records every arrival and departure under the corporal's immediate security authority. | Ink on the side of one hand, a dark braid pinned high, and an exact memory for names she has written once. |
+
+Ilona's employment and records belong to the bailiff's civil administration. While she is at the gate, the corporal controls immediate security and can direct the pace of her work; the bailiff owns the ledger, and military command may inspect it.
 
 ## Signposts
 
