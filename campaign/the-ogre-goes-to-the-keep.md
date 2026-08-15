@@ -14,7 +14,7 @@
 
 ## Part 1 — Travel
 
-The road from the ravine to the Keep. Brundt walks it on his own two feet, carrying his own coin (the party's 250gp advance, plus a sack of his own gold he's proud of — see *The Fake Gold*).
+The road from the ravine to the Keep. Brundt walks it on his own two feet, carrying his own coin (the party's 250gp advance, plus a sack of his own gold he's proud of—see *The Eagles*).
 
 > *Brundt walks like a man who has never had anywhere to be. He stops to look at things — a milestone, a fence, a field under cultivation — with frank, slow curiosity, the way you'd look at the inside of a house you'd only ever seen from the road. Once, watching smoke rise from a distant farmstead chimney, he stands still long enough that you have to call him on.*
 
@@ -103,7 +103,7 @@ Then he reaches for his *own* sack — the gold he's been proud of, hauling arou
 
 > *When the first sack runs low, Brundt reaches for his own — a fat purse he's carried with quiet pride all day, gold he's saved, gold he means to spend on something good. He counts a coin into the merchant's palm. The merchant frowns. Turns it over. Scratches the surface with a thumbnail — and beneath the gold wash, a dull grey gleam. Lead. He points to the little eagle stamped on one face and the warning worked around its edge. “Eagles,” he says, in the voice you use near a large animal. “Barony scrip. Not gold. Not legal coin here.”*
 
-**The drama — and the load-bearing beat of the whole scene:** Brundt's gold, the sack he was proud of, is **Eagles: the Black Eagle Barony's gold-washed lead scrip.** The tokens can be spent through the Barony's own system, but are not Karameikan legal tender and the lead itself is worth less than a copper. The bugbears paid him the sack for muscle, believing it was gold because the Barony had paid it to them for slaves. Brundt believed them. He's been carrying the financial trail from the slave pipeline around like treasure.
+**The drama — and the load-bearing beat of the whole scene:** Brundt's gold, the sack he was proud of, is **Eagles: the Black Eagle Barony's gold-washed lead scrip.** The tokens can be spent through the Barony's own system, but are not Karameikan legal tender and the lead itself is worth less than a copper. The bugbears paid him the sack for muscle and treated it as gold because visiting Black Eagle traders accept Eagles for goods—while making the bugbears vastly overpay. Brundt believed their valuation, but he has no access to those traders. He's been accumulating the financial trail from the slave pipeline without any way to spend it.
 
 Eagles are familiar this close to the Barony. Duke Stefan knows they exist, traders occasionally receive them innocently, and the [Loan Bank](../locations/keep/11-loan-bank.md#eagles--black-eagle-barony-scrip) is vigilant about catching them in mixed coin. A single Eagle is not proof of wrongdoing. Passing one as gold is fraud; finding a whole pay sack can also point toward employment or trade connected to the Black Eagle Barony. Locals sometimes call worn examples **“black eagles”** after the dark lead showing through their rubbed-away wash.
 
@@ -121,7 +121,7 @@ Brundt has *every excuse the stories say a monster needs.* He's been cheated, hu
 
 If you ever need to convince a skeptic at the Keep — Valerian, the captain, a grieving widow — *why the Duke is right to bet on these people,* you don't make a speech. You tell them what the ogre did when he found the fake coins. He had every reason the stories demand, and he behaved better than the men who cheated him.
 
-**Practical note:** there's no damage. No one is hurt. The party may want to help—cover the loss, find a trader willing to redeem the Eagles, or ask Brundt who paid him. He answers plainly: **the bugbears, for muscle.** That does not prove what the Barony bought from them, but it is the party's first clean financial thread into the [Iron Ring](the-iron-ring.md). The emotional beat is complete the moment Brundt sets the coins down and apologizes; let it breathe before turning the sack into evidence.
+**Practical note:** there's no damage. No one is hurt. The party may want to help—cover the loss, seek someone connected to the Barony's closed trade channel, or ask Brundt who paid him. He answers plainly: **the bugbears, for muscle.** That does not prove what the Barony bought from them, but it is the party's first clean financial thread into the [Iron Ring](the-iron-ring.md). The emotional beat is complete the moment Brundt sets the coins down and apologizes; let it breathe before turning the sack into evidence.
 
 ---
 

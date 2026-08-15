@@ -4,6 +4,12 @@ Three of the caves' ugliest behaviors — slavery, prisoner-keeping, and eating 
 
 > **The governing principle:** you don't moralize the caves out of these behaviors. You make the behavior *uneconomical* by putting something better on the cart. Self-interest does the rest — the same way it does for everyone. **The lone exception is the Iron Ring,** which has a richer buyer than grain can outbid, so it doesn't resolve at the cave level at all.
 
+## Coin without a market
+
+None of the cave communities can spend money easily. They accumulate coin from travelers, raids, old hoards, and payments, but have almost nowhere safe to exchange it for food, tools, cloth, medicine, or comfort. A gold piece in the ravine is potential value without a dependable market. This is why access to the Keep's merchants is transformative: it turns stored metal into choices.
+
+The bugbears have one private exception. When Black Eagle representatives come to collect captives, they bring trade goods and accept **Eagles** in payment. The Eagles therefore have real purchasing power for the bugbears—but only through a market controlled entirely by their customer. The Barony sets the prices, the bugbears vastly overpay, and most of the nominal value returns to the same people who issued it.
+
 ---
 
 ## Part 1 — Captivity: two puzzles that share a word
@@ -15,7 +21,7 @@ Both the bugbears and the hobgoblins hold captives. The word "prisoner" hides th
 
 In this campaign they are **witting Iron Ring** — their slave-station is the **intake** end of the Black Eagle's pipeline. That's what makes them the one living faction you *can't* integrate: they've chosen the worst side freely, and they weaponize their welcome to betray the peace.
 
-The Barony pays them in **Eagles**, gold-washed lead scrip that the bugbears mistake for real gold. They use some of those coins to hire [Brundt](../characters/brundt-the-ogre.md) as muscle, and he makes the same mistake. This is the pipeline's smallest working model: the Baron buys people with a promise he controls, the bugbears pass the false value downward, and Brundt unknowingly carries the financial trail into the Keep.
+The Barony pays them in **Eagles**, gold-washed lead scrip that the bugbears regard as gold because the Barony's visiting traders accept it for goods. They use some of those coins to hire [Brundt](../characters/brundt-the-ogre.md) as muscle, and he accepts them on the same understanding. This is the pipeline's smallest working model: the Baron buys people with a promise he controls, recaptures that promise through inflated trade prices, and lets the apparent value flow downward. Brundt unknowingly carries the financial trail into the Keep—but unlike the bugbears, he has no access to the Barony trade visits through which the Eagles can be spent.
 
 - **Why trade can't fix it — the buy-and-free trap:** their slaves are priced *above what the food market can pay* (proof of a richer buyer upcountry). The party can't afford to buy-and-free — and even if they could, **paying slavers for slaves funds the next capture.** The bugbear slavery doesn't resolve in the ravine. It resolves **upcountry, at the Baron.** The bugbears are the symptom; the Black Eagle is the disease. *(Pays off toward [beat 8](../narrative/progression.md).)*
 - **You fight them, you don't feed them.** This is the deliberate hard "no" that makes the leeway elsewhere mean something.

@@ -38,11 +38,11 @@ Run it forward: aggression has a structurally worse return than defense everywhe
 
 ## The bag (his characterization in one prop)
 
-Brundt sits on a great leather bag of seven sacks: silver, copper, electrum, gold — and a **hard cheese**, a **keg of brandy**, and a sack of **Eagles**, the Black Eagle Barony's gold-washed lead scrip. The bugbears paid him this sack for muscle and told him it was gold. They believed that themselves: the Barony paid them in Eagles for slaves, and they passed part of that payment on to Brundt. He hauled the sack home, mixed it with his real money, and has been sitting on it ever since. The tokens have value only where the Barony's “company stores” and associated traders agree to honor them; the lead in each is worth less than a copper.
+Brundt sits on a great leather bag of seven sacks: silver, copper, electrum, gold — and a **hard cheese**, a **keg of brandy**, and a sack of **Eagles**, the Black Eagle Barony's gold-washed lead scrip. The bugbears paid him this sack for muscle and treated it as gold. From their point of view it spends: when Black Eagle representatives visit to collect slaves, they bring trade goods and accept Eagles in payment—at punishing prices. Brundt has no access to those visits. He hauled the sack home, mixed it with his real money, and has been accumulating coins he cannot redeem. The lead in each is physically worth less than a copper.
 
 Read it closely and it tells you everything:
 - The cheese and brandy mean he's not a hoarder in any grieving sense. He's an **appetite** with a coin-sorting instinct. He keeps what he likes and what shines.
-- The Eagles mean he's been **cheated without knowing it.** The bugbears thought they were paying him in gold because the Barony had deceived them first. Brundt took the coins on the same faith they did. The whole slave pipeline is exploiting everyone below the Baron, and Brundt is sitting on the evidence.
+- The Eagles mean he's been **cheated without anyone at his end necessarily intending the cheat.** The bugbears receive goods for Eagles and therefore treat them as valuable coin, even though the Barony makes them vastly overpay. Brundt accepted the coins on the same faith but lacks even that captive trade channel. The whole slave pipeline extracts value from everyone below the Baron, and Brundt is sitting on the evidence.
 
 When the Keep identifies the Eagles, Brundt acquires a live, personal fear of *currency that doesn't spend.* From then on, part of every transaction is a check on whether the other party's money is real—or another sack of Eagles dressed up as gold.
 
