@@ -61,8 +61,9 @@
 
 | Name | Pronouns | Role | Recognition |
 |---|---|---|---|
-| Hadrian Voss | he/him | Prosperous Merchants' Guild jewel merchant; buys gems and finances valuable trade. | Well-fed, carefully dressed, and unfailingly courteous until money or Maren's safety is involved. |
-| Maren Voss | she/her | Hadrian's wife, jewelry appraiser, and experienced fisher. | River-weathered hands contrast with expensive jewelry; listens sharply whenever anyone describes the marsh. |
+| Hadrian Voss | he/him | Guild-contracted gem and precious-metal appraiser; independent frontier dealer. | Well-fed, carefully dressed, and unfailingly courteous until money or Maren's safety is involved. |
+| Maren Voss | she/her | Hadrian's wife and business partner; experienced fisher and judge of finished jewelry. | River-weathered hands contrast with the one expensive necklace she still wears; listens sharply whenever anyone describes the marsh. |
+| Niko Voss | he/him | Fifteen-year-old son; apprentice gem sorter and avid fisherman. | Dark-haired and long-limbed, with a tackle knife at his belt; goes quiet whenever his mother's lost necklace is mentioned. |
 | Ilyan Rostov | he/him | Private household guard; handler of Harrow, a trained war dog. | A heavy-lidded man with a broken nose; Harrow watches wherever he looks. |
 | Sabina Kouris | she/her | Private household guard; handler of Mica, a trained war dog. | Tall and impeccably alert; gives Mica commands with tiny movements of two fingers. |
 
@@ -78,12 +79,15 @@ Ilyan's trained war dog is **Harrow**; Sabina's is **Mica**. The five small-apar
 
 ## 7a. Jewel merchant
 
-- The merchant is **Hadrian Voss**, a prosperous member of the Merchants' Guild; his wife and fellow appraiser is **Maren Voss**.
-- Hadrian is influential but does not run the local Guild House. That office belongs to **[Mihail Radu](16-guild-house.md)**, Anton Radu's frontier factor.
+- **Hadrian Voss** is a gem and precious-metal expert retained by the Merchants' Guild. When travelers offer gems, jewelry, ingots, or unfamiliar coin through the Guild House, Hadrian authenticates the material, judges workmanship, and supplies the value on which dues and offers are based.
+- The Guild pays for his appraisals, but Hadrian is not merely its employee. His private business buys desirable finds before they travel inland, then resells them through his own contacts across Karameikos and into neighboring markets. Living at the frontier gives him first refusal on goods from adventurers, prospectors, caravans, and ruins; acting before settled-city dealers even hear of a find has made him wealthy.
+- Hadrian is influential but does not run the local Guild House. That office belongs to **[Mihail Radu](16-guild-house.md)**, Anton Radu's frontier factor. Mihail controls Guild access and dues; Hadrian supplies specialist judgment and sometimes becomes the buyer.
+- **Maren Voss** is Hadrian's Traladaran wife and business partner. She understands finished jewelry and waterways, but Hadrian is the household's specialist in loose stones and precious metal.
+- Their fifteen-year-old son **Niko** sorts stones, records weights, and would rather be fishing. He knows the channels near the Keep better than either guard.
 - Buys gems for 60%-90% of value and sells for 110%-140%.
-- The merchant's spouse wears valuable jewelry that is also for sale.
+- Maren came to the Keep with **two necklaces**. She now wears one jeweled necklace worth 1,200 gp, available for sale with her bracelet and earrings. The other—her late mother's necklace, worth 1,100 gp—was taken in the marsh and is now worn by the largest lizardfolk warrior.
 - Two Fighter 2 guards in chain and shield protect the household; each controls a trained war dog.
-- The household is waiting for a caravan back toward more settled lands.
+- The apartment is the Voss family's frontier base. Hadrian sends purchases inland with guarded caravans and sometimes travels with an especially valuable shipment, but the family is here by commercial choice rather than merely waiting to leave.
 
 **DM-only:** An iron box holds 200 pp and 100 gp. Ten 100-gp gems are concealed in the merchant's belt. The guards have hp 17 and 12; the dogs have AC 6, HD 3, hp 12 and 11.
 

@@ -1,6 +1,6 @@
 # Civilians of the Keep
 
-> **At a glance:** 100 named civilian and non-garrison occupants. This is the settled working population currently available for play, not the Keep's maximum capacity or everyone passing through its gate.
+> **At a glance:** 101 named civilian and non-garrison occupants. This is the settled working population currently available for play, not the Keep's maximum capacity or everyone passing through its gate.
 
 Use this sheet when a player addresses the person behind the counter, asks who took a horse, follows a servant into the fortress, or decides that the laundry runner is suddenly important. Each entry gives enough visual or behavioral detail to establish the person without inventing a biography during play.
 
@@ -17,7 +17,7 @@ Not included are Valerian's [223-person garrison](garrison.md), unnamed traveler
 | [3. Entry Yard](03-entry-yard.md) | 1 |
 | [4. Common Stable](04-common-stable.md) | 8 |
 | [6. Bailiff's Tower](06-bailiffs-tower.md) | 2 |
-| [7. Private Apartments](07-private-apartments.md) | 27 |
+| [7. Private Apartments](07-private-apartments.md) | 28 |
 | [8. Smithy and Armorer](08-smithy-and-armorer.md) | 6 |
 | [9. Provisioner](09-provisioner.md) | 4 |
 | [10. Trader](10-trader.md) | 3 |
@@ -28,7 +28,7 @@ Not included are Valerian's [223-person garrison](garrison.md), unnamed traveler
 | [17. Chapel](17-chapel.md) | 4 |
 | [22. Cavalry Stables](22-cavalry-stables.md) | 2 |
 | [24. Keep Fortress](24-keep-fortress.md) | 20 |
-| **Total** | **100** |
+| **Total** | **101** |
 
 ## Population mix
 
@@ -36,9 +36,9 @@ Not included are Valerian's [223-person garrison](garrison.md), unnamed traveler
 
 | Pronouns | People | Share |
 |---|---:|---:|
-| she/her | 50 | 50.0% |
-| he/him | 50 | 50.0% |
-| **Total** | **100** | **100.0%** |
+| she/her | 50 | 49.5% |
+| he/him | 51 | 50.5% |
+| **Total** | **101** | **100.0%** |
 
 ### Heritage and origin
 
@@ -46,14 +46,14 @@ Not included are Valerian's [223-person garrison](garrison.md), unnamed traveler
 |---|---:|
 | Traladaran | 49 |
 | Thyatian | 27 |
-| Mixed Thyatian-Traladaran | 17 |
+| Mixed Thyatian-Traladaran | 18 |
 | Foreign; origin concealed | 2 |
 | Callarii elf | 1 |
 | Darokinian | 1 |
 | Saragóner (claimed) | 1 |
 | Highforge gnome | 1 |
 | Minrothad islander | 1 |
-| **Total** | **100** |
+| **Total** | **101** |
 
 ## People most likely to be asked for
 
@@ -65,7 +65,7 @@ Not included are Valerian's [223-person garrison](garrison.md), unnamed traveler
 | Repairs or metalwork | **Mihail Stancu**, smith |
 | Ordinary expedition gear | **Stoyan Iliev**, provisioner |
 | Arms, armor, furs, or bulk goods | **Gavros Melas**, trader |
-| Gems or valuable jewelry | **Hadrian Voss** and **Maren Voss** |
+| Gems, precious metal, or valuable jewelry | **Hadrian Voss** |
 | Coin, loans, storage, or counterfeit money | **Octavius Teren**, banker |
 | Room or returning-party observations | **Elena Varga**, innkeeper |
 | Meal, drink, or rumor | **Gregor Kresnik**, taverner |
@@ -113,7 +113,7 @@ The bailiff and scribe are civil officials. The twelve-person escort is listed i
 | Cassian Vardos | he/him | Thyatian | Bailiff; superintendent and civil magistrate of the outer bailey. | A square-built veteran in immaculate clothes; listens without expression and then states what will happen. |
 | Nadia Rusan | she/her | Traladaran | Bailiff's scribe; prepares orders, receipts, and property records. | Small, quick-eyed, and usually carrying three differently colored sticks of sealing wax. |
 
-### 7. Private Apartments — 27
+### 7. Private Apartments — 28
 
 **Location:** [7. Private Apartments](07-private-apartments.md)
 
@@ -168,8 +168,9 @@ Twenty people occupy the five small apartments. The two larger suites hold the V
 
 | Name | Pronouns | Heritage | Work or connection | Recognition |
 |---|---|---|---|---|
-| Hadrian Voss | he/him | Thyatian | Prosperous Merchants' Guild jewel merchant; buys gems and finances valuable trade. | Well-fed, carefully dressed, and unfailingly courteous until money or Maren's safety is involved. |
-| Maren Voss | she/her | Traladaran | Hadrian's wife, jewelry appraiser, and experienced fisher. | River-weathered hands contrast with expensive jewelry; listens sharply whenever anyone describes the marsh. |
+| Hadrian Voss | he/him | Thyatian | Guild-contracted gem and precious-metal appraiser; independent frontier dealer. | Well-fed, carefully dressed, and unfailingly courteous until money or Maren's safety is involved. |
+| Maren Voss | she/her | Traladaran | Hadrian's wife and business partner; experienced fisher and judge of finished jewelry. | River-weathered hands contrast with the one expensive necklace she still wears; listens sharply whenever anyone describes the marsh. |
+| Niko Voss | he/him | Mixed Thyatian-Traladaran | Fifteen-year-old son; apprentice gem sorter and avid fisherman. | Dark-haired and long-limbed, with a tackle knife at his belt; goes quiet whenever his mother's lost necklace is mentioned. |
 | Ilyan Rostov | he/him | Traladaran | Private household guard; handler of Harrow, a trained war dog. | A heavy-lidded man with a broken nose; Harrow watches wherever he looks. |
 | Sabina Kouris | she/her | Thyatian | Private household guard; handler of Mica, a trained war dog. | Tall and impeccably alert; gives Mica commands with tiny movements of two fingers. |
 
@@ -382,7 +383,7 @@ The module's 'score of servants' becomes a complete working household supporting
 ## DM-only identities and campaign connections
 
 - **[Father Ariston Vale](../../characters/father-ariston-vale.md), Corin, and Sera** are the visiting hostile clerics from B2 area 7b. They serve Thanatos and intend to sabotage a cave expedition at a crucial moment. Their geniality and discipline are camouflage, not clues; Saragón, Seren, and the Open Lantern are Ariston's invented cover.
-- **Hadrian and Maren Voss** are the merchant couple tied to [the lost-necklace mission](../../campaign/the-lizardfolk-of-the-marsh.md). Maren understands fishing and waterways; Hadrian initially reports the lizardfolk toll as an attack and robbery.
+- **Hadrian, Maren, and Niko Voss** are tied to [the lost-necklace mission](../../campaign/the-lizardfolk-of-the-marsh.md). Niko returned late from fishing by a different channel after Maren had gone looking for him; Maren encountered the lizardfolk, who took one of her two necklaces and released her. Hadrian reported the event to the Castellan as robbery. He also serves as the Merchants' Guild's local specialist for gems and precious metal while making independent first-look deals on frontier finds.
 - **Mihail Radu** represents Anton Radu's Merchants' Guild at the Keep. He can approve a limited commercial trial, but any lasting caves-Keep trade compact becomes a matter of Guild monopoly, dues, caravan protection, and realm-level Radu politics.
 - **Father Branislav** is the Keep's Curate and the moral counterweight to Valerian. His three acolytes admire Father Ariston despite Branislav's distrust.
 - **Emmet and Teska**, if rescued from the caves, are later Guild contacts rather than baseline residents. See [The Prisoners](../../campaign/the-prisoners.md).

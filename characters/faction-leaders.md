@@ -107,7 +107,7 @@ What the party has to read, fast:
 **The negotiation — don't bring human feelings.** Approach Sessrik as a pragmatist among pragmatists and she's reasonable. Moralize at her and you'll get nowhere; she doesn't share the premise. Peace is genuinely on the table.
 
 **Player hooks:**
-- **[Valerian's necklace mission](../campaign/the-keep-arrival-and-hub.md).** The "lizard that attacked people from the Keep" is Sessrik's people, and they hold the lost necklace. Kill them (the Castellan's way) or **parley** (the Duke's way) — and recover the necklace *through peace* for the best early proof you can hand Valerian. The thesis in miniature, with stakes.
+- **[Valerian's necklace mission](../campaign/the-keep-arrival-and-hub.md).** The Keep knows lizard people inhabit the swamp but almost nothing about them. Sessrik's people took one of Maren Voss's two necklaces when she crossed their unmarked boundary while searching for her son. Recover it by force (the expected frontier answer) or **parley** (the Duke's way)—and bring back both the necklace and reliable knowledge for the best early proof you can hand Valerian.
 - **The kinship bridge.** [Yiznak the kobold](#kobold-chief--yiznak-the-deepwright) can broker cave-and-marsh kin into one bloc — a quiet, elegant alliance the party unlocks by respecting the two most-overlooked leaders in the region.
 
 ---

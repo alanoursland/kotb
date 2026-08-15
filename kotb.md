@@ -249,7 +249,7 @@ Information from inhabitants of the KEEP might be gained by player characters. Y
 
 The false rumors are noted by an 'F' after the number. 1. 2.F 3. 4. 5. 6.F 7. 8. 9.F 10.F II. 12. 13. 14.F 15.F 16. 17. 18. 19.F 20.
 
-## RUMOR TABLE
+##### RUMOR TABLE
 
 |  | Rumor |
 |---:|---|

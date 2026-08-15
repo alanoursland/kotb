@@ -22,9 +22,9 @@
 
 ## What the module gives you
 
-*Low confidence on the B2-specific portrayal — verify against the text.* Recollection: lizard men in the swamp, living in **mud burrows**, using **crude weapons**, written fairly low on the intelligence scale. I wouldn't swear to the stat block. The broader-lore reading below is the more useful frame regardless, and nothing in it requires them to be unintelligent — "crude weapons" is what a people with no metallurgy *would* carry, not evidence of stupidity.
+B2 places a nocturnal tribe of lizard men in muddy burrows beneath a mound in the fens. They use crude weapons, and the largest male wears a **necklace worth 1,100 gp**. Separately, the jewel merchant's wife in Keep area 7a wears valuable jewelry, including a **necklace worth 1,200 gp**.
 
-There's also the module hook: lizardfolk took a **necklace** from a Keep resident. That incident is the key to their whole characterization — see *The Necklace*, below.
+The module does **not** connect those necklaces and says the lizard men are unknown to residents of the Keep. This campaign joins the two details into a local incident: Maren arrived with two necklaces, the lizardfolk took the 1,100-gp heirloom, and the 1,200-gp necklace remains with her. Her report means the Keep now knows that lizard people inhabit the swamp, though nobody there knows their numbers, home, language, leader, or customs.
 
 ---
 
@@ -75,7 +75,7 @@ A self-sufficient people only trades for what their environment **cannot produce
 - Materials: reptile and amphibian hides, leather, feathers, bone.
 
 **What the marsh *cannot* produce (their deep wants):**
-- **Metal, above all.** No forge, no mine, no smith. Metal tools, blades, arrowheads, fishhooks, pots — anything smithed — they cannot make and would value enormously. **Metal is the lizardfolk's gold.** (This is why the toll took a *necklace* and a set of *steel fishhooks* — worked metal is the category the swamp can't create.)
+- **Metal, above all.** No forge, no mine, no smith. Metal tools, blades, arrowheads, fishhooks, pots — anything smithed — they cannot make and would value enormously. **Metal is the lizardfolk's gold.** (This is why the toll took a metal-and-gem *necklace* rather than food or clothing.)
 - **Salt.** Easy to overlook and historically *the* wetland trade good — a marsh has water and food but often no way to *preserve* it. Salt for curing fish and meat would be precious. Coastal Karameikos has it.
 - **Worked craft generally:** pottery, woven cloth, glass, finished leather goods, rope.
 - **The big intangible — recognition of the border.** Costs the Duke nothing, worth everything to them. A credible promise not to drain the marsh, log its edges, or road through it. *They mostly want to be left alone, so the most valuable thing the federation can offer is a credible promise to do exactly that.*
@@ -88,21 +88,25 @@ A self-sufficient people only trades for what their environment **cannot produce
 
 ## The Necklace — their characterization in one incident
 
-**The incident (who and why):** **Maren**, wife of the prosperous Guild merchant **Hadrian Voss**, is common-born and grew up on the water; she still slips out to **fish** for the quiet of it. She drifted too far up a marsh channel — *maybe lost, certainly past a border she had no way to know existed* — and the lizardfolk surrounded her. They took her late mother's **necklace** and her fine **steel fishhooks and tackle**, and **let her go, unharmed.** Hadrian reports it at the Keep as a *lizardman attack and robbery* — which is the misreading the whole encounter exists to correct.
+**The incident (who and why):** **Niko Voss**, the fifteen-year-old son of Guild appraiser **Hadrian Voss** and his wife **Maren**, went fishing and did not return when expected. Maren grew up on the water and knew his usual channels, so she went looking before anyone could organize a larger search. Niko had followed the fishing into a side channel, lost track of time, and returned safely by another route after she left.
 
-A people who aren't hungry and don't raid took *two specific worked-metal valuables* and harmed no one — which is a puzzle, and the resolution *is* the lizardfolk's whole character.
+Maren continued into the marsh, past a border she had no way to recognize. The lizardfolk surrounded her. They took one of the **two necklaces** she wore—her late mother's necklace, worth 1,100 gp—and **let her go unharmed**. She now has one necklace, the 1,200-gp jeweled piece that remains part of the Voss household's sale stock. Hadrian reported the encounter to Castellan Valerian as theft by the swamp lizard people, and Valerian added it to the Keep's list of local issues requiring investigation.
 
-**It wasn't a theft. It was a passage toll.** Maren was "just fishing," with no idea the channel was claimed. The lizardfolk surrounded her (terrifying — an "attack"), **collected the toll** (the metal), and **set her free, unharmed.** From their side, the transaction was *clean, lawful, and complete*: a trespasser entered, the fee was charged, the trespasser was released. No grievance on their end. By their own law, they behaved *honorably.*
+A people who aren't hungry and don't raid took *one specific worked-metal valuable*, left the other, and harmed no one—which is a puzzle, and the resolution *is* the lizardfolk's whole character.
+
+**It wasn't a theft by lizardfolk law. It was a passage toll.** Maren was searching for her son, with no idea the channel was claimed. The lizardfolk surrounded her, **collected the toll** in portable worked metal, and **set her free unharmed**. From their side, the transaction was clean, lawful, and complete: a trespasser entered, the fee was charged, and the trespasser was released. No grievance remains on their end. By their own law, they behaved honorably.
 
 **The "set free" detail is the key that unlocks everything. Raiders and monsters don't release their victims. A customs post does.**
 
 **The violence is entirely in the translation failure.** Same event, two incompatible accounts:
-- *Human (Hadrian / Maren):* "She was attacked by swamp monsters and robbed."
+- *Human (Hadrian / Maren):* "She went looking for our son and the swamp people robbed her."
 - *Lizardfolk:* "A trespasser paid the toll and left in peace."
 
 There was no shared tongue to say *this is the border, the fee is one valuable, you may pass.* (The *[speak languages](../characters/father-demetrios-kallistos.md)* problem, made concrete.) Nothing actually went wrong except that two peoples have no way to talk. This is **the whole campaign in a thimble** — a "monster attack" that was a lawful transaction the victim couldn't read — and it's the gentlest possible place for the party to learn it, *because nobody got hurt.*
 
-**Why specifically metal?** A forge-less people charges passage in **the one thing they can't make** — worked metal. The necklace and the hooks weren't grabbed at random; *metalwork is exactly what the toll is for.* The "theft" is the symptom that reveals what they value in trade.
+**Why specifically the necklace?** A forge-less people charges passage in **the one thing they cannot make**—worked metal. Maren wore two necklaces; taking one was a finite assessment rather than indiscriminate looting. The choice reveals both what the lizardfolk value in trade and that they believed they were collecting a fee, not stripping a victim.
+
+**What Niko contributes:** he never saw the lizardfolk. He can show the party the family's small boat, his normal fishing route, the side channel he took home, and the point beyond which Maren must have continued. He is embarrassed and frightened by what his lateness caused, and will volunteer to guide the party unless his parents forbid it.
 
 ---
 
@@ -152,7 +156,7 @@ Lizardfolk *probably* eat humans, but on a **third logic** — not desperation (
 
 ---
 
-*Everything above is interpretation layered on the B2 lizard men and the necklace hook — taking a territorial, self-sufficient marsh people seriously instead of reading a "monster attack" at face value. The kobold-kinship and the toll-custom are campaign inventions; nothing else contradicts the module.*
+*Everything above connects B2's separate merchant-wife and lizard-man necklaces into one incident. Niko, Maren's search, the Keep's partial knowledge, the kobold kinship, and the toll custom are campaign inventions; the lizardfolk mound and both necklace values come directly from the module.*
 
 ## Links
 - Their leader: [Sessrik, the Marsh Matriarch](../characters/faction-leaders.md#lizardfolk-leader--sessrik-the-marsh-matriarch)

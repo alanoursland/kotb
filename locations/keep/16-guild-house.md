@@ -12,6 +12,7 @@ This is a frontier office of the **Merchants' Guild of Karameikos**, the powerfu
 - Traders pay dues equal to 5% of their merchandise's value and receive Guild protection.
 - Craftspeople need Guild permission to enter or leave the region, paying 2d6 gp according to the value of their trade.
 - Guild protection includes contracts, convoy intelligence, access to guarded caravans, and recourse through the Guild's substantial private security force.
+- Gems, jewelry, ingots, and questionable precious-metal goods are referred to **[Hadrian Voss](07-private-apartments.md#7a--voss-jewel-household)** for specialist appraisal before the Guild records a value or makes an offer.
 - The lower floor holds the Guild Master's quarters, two clerks' rooms, and the office.
 - The upper floor has two private guest rooms and a dormitory.
 - Four loyal men-at-arms are always on duty, two on each floor.
@@ -50,6 +51,8 @@ This is the practical engine of a future caves-Keep market. The Guild can:
 - recognize that safer roads and new labor create profit.
 
 A temporary experiment can be approved locally. A permanent trade compact with the caves creates a new class of customer and caravan destination inside territory the Guild considers its commercial sphere; Mihail will report that precedent to Anton Radu and seek terms that preserve Guild dues and control.
+
+**Hadrian Voss is the office's outside expert, not its master.** The Guild pays him to authenticate gems and precious metal offered by travelers, but he is also permitted to trade on his own account. His frontier advantage is information: he sees valuable finds before merchants in Specularum, Kelvin, Darokin, or Thyatis know they exist. Mihail values his judgment and watches his private purchases closely.
 
 The food bridge is possible because the Keep is supplied. The conflict is who authorizes the extension, who pays, and whether the Guild treats the caves as customers, contractors, or enemies receiving tribute.
 

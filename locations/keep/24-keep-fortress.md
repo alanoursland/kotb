@@ -133,6 +133,7 @@ The Grand Duchy supplies the Keep regularly and well. The fortress cellars and w
 - Reports after each ravine expedition.
 - Requests to admit, shelter, employ, or trade with a cave-dweller.
 - Assignment of the lizardfolk, bandit, hermit, and road-security missions.
+- Open local issue: Maren Voss reports that known but poorly understood swamp lizard people took one of her necklaces while she searched for her overdue son; Valerian wants the property recovered and the threat assessed.
 - Negotiation of the eventual food bridge as payroll for patrol and frontier service.
 
 ## Exits
