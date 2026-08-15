@@ -25,4 +25,4 @@
 
 ## Source
 
-- [B2 area 5](../../reference/kotb.md#5-kobold-chieftains-room)
+- [B2 area 5](../../reference/caves-a-kobolds.md#5-kobold-chieftains-room)

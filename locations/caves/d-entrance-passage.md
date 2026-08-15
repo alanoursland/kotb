@@ -17,4 +17,4 @@
 
 ## Source
 
-- [B2 goblin lair](../../reference/kotb.md#d-goblin-lair)
+- [B2 goblin lair](../../reference/caves-d-goblins.md#d-goblin-lair)

@@ -46,4 +46,4 @@ The innkeeper and family are normal people with no meaningful fighting ability. 
 
 ## Source
 
-- [B2 area 14](../../kotb.md#14-travelers-inn)
+- [B2 area 14](../../reference/keep.md#14-travelers-inn)

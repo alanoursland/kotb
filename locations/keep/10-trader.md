@@ -39,5 +39,5 @@ The three residents are normal people with hp 2, 3, and 3. Hidden beneath their 
 
 ## Source
 
-- [B2 area 10](../../kotb.md#10-trader)
+- [B2 area 10](../../reference/keep.md#10-trader)
 - [Campaign market demonstration](../../campaign/the-ogre-goes-to-the-keep.md#part-5--he-spends-the-250)

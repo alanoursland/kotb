@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 21](../../reference/kotb.md#21-storage-chamber)
+- [B2 area 21](../../reference/caves-d-goblins.md#21-storage-chamber)

@@ -21,4 +21,4 @@
 
 ## Source
 
-- [B2 area 11](../../reference/kotb.md#11-storage-chamber)
+- [B2 area 11](../../reference/caves-b-orcs.md#11-storage-chamber)

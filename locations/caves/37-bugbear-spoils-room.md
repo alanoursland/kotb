@@ -22,4 +22,4 @@
 
 ## Source
 
-- [B2 area 37](../../reference/kotb.md#37-spoils-room)
+- [B2 area 37](../../reference/caves-h-bugbears.md#37-spoils-room)

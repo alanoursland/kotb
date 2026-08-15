@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 28](../../reference/kotb.md#28-storeroom)
+- [B2 area 28](../../reference/caves-f-hobgoblins.md#28-storeroom)

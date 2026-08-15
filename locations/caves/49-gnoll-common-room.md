@@ -20,4 +20,4 @@
 
 ## Source
 
-- [B2 area 49](../../reference/kotb.md#49-common-room)
+- [B2 area 49](../../reference/caves-j-gnolls.md#49-common-room)

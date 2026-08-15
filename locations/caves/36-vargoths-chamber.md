@@ -1,6 +1,6 @@
 # 36. Vargoth's Chamber
 
-**Faction:** Iron Ring bugbear cell | **Resident:** [Vargoth “the Welcomer”](../../characters/faction-leaders.md#bugbear-chief--vargoth-the-welcomer) | **Secret:** stone route to area 45
+**Faction:** Iron Ring bugbear cell | **Resident:** [Vargoth “the Welcomer”](../../characters/faction-leaders.md#bugbear-chief--vargoth-the-welcomer) | **Secret:** stone route to area 43
 
 > Crude battered furnishings surround a powerful old bugbear and his equally dangerous companion. Silk is mixed into the bedding; a gray chest rests on a ledge near the ceiling.
 
@@ -17,13 +17,13 @@
 
 ## Secret route
 
-Vargoth knows the door to [area 45](45-khaeros-cavern.md) and may flee through it. The campaign replaces B2's slave-for-service arrangement: Khaeros does **not** willingly serve a slaver cell and treats an armed bugbear incursion as an attack.
+Vargoth knows the concealed door to [area 43](43-fire-beetle-cave.md) and may flee through it into the minotaur's labyrinth. The route does not open directly into Khaeros's cavern. Khaeros knows about this back way and treats armed bugbears using it as enemies.
 
 ## Exits
 
 - [Return to the Upper Living Passage](h-upper-passage.md) - Leave through the visible door.
-- [Use the secret stone route to Khaeros's Cavern](45-khaeros-cavern.md) - Only after discovering or operating the concealed door.
+- [Use the secret stone route to the First Fire-Beetle Cave](43-fire-beetle-cave.md) - Operate the concealed door and emerge beside the red-glowing beetles.
 
 ## Source
 
-- [B2 area 36](../../reference/kotb.md#36-chieftains-room)
+- [B2 area 36](../../reference/caves-h-bugbears.md#36-chieftains-room)

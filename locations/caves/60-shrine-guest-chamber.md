@@ -16,4 +16,4 @@
 
 ## Source
 
-- [B2 area 60](../../reference/kotb.md#60-guest-chamber)
+- [B2 area 60](../../reference/caves-k-shrine.md#60-guest-chamber)

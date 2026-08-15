@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 34](../../reference/kotb.md#34-owl-bears-den)
+- [B2 area 34](../../reference/caves-g-shunned-cavern.md#34-owl-bears-den)

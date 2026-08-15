@@ -48,4 +48,4 @@ The captain carries 20 pp, 11 gp, and 8 sp. A silver flagon and tankard in the c
 
 ## Source
 
-- [B2 area 12](../../kotb.md#12-watch-tower)
+- [B2 area 12](../../reference/keep.md#12-watch-tower)

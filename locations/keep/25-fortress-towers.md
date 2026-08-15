@@ -43,4 +43,4 @@ These are the same sixteen fortress guards listed in [area 24](24-keep-fortress.
 
 ## Source
 
-- [B2 area 25](../../kotb.md#25-tower)
+- [B2 area 25](../../reference/keep.md#25-tower)

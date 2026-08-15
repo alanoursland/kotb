@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 26](../../reference/kotb.md#26-guard-room)
+- [B2 area 26](../../reference/caves-f-hobgoblins.md#26-guard-room)

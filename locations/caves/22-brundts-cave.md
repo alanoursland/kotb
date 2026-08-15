@@ -29,4 +29,4 @@ Under southern bones: six arrows +1, potion of invisibility, and cleric scroll w
 
 ## Source
 
-- [B2 area 22](../../reference/kotb.md#22)
+- [B2 area 22](../../reference/caves-e-ogre.md#22)

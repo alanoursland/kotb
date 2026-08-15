@@ -49,4 +49,4 @@ Mounted troops and other off-watch sections use the ground later in the day. Tre
 
 ## Source
 
-- [B2 area 21](../../kotb.md#21-inner-bailey)
+- [B2 area 21](../../reference/keep.md#21-inner-bailey)

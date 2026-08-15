@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 7](../../reference/kotb.md#7-guard-room)
+- [B2 area 7](../../reference/caves-b-orcs.md#7-guard-room)

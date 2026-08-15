@@ -24,4 +24,4 @@
 
 ## Source
 
-- [B2 area 12](../../reference/kotb.md#12-orc-leaders-room)
+- [B2 area 12](../../reference/caves-b-orcs.md#12-orc-leaders-room)

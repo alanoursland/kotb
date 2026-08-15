@@ -36,11 +36,11 @@ G  Ravine—32—33 / 34
 
 H  Ravine—[H entry]
              ├─35—[H upper passage]—36 / 37 / 38 / 39
-             │                         └─36—secret—45
+             │                         └─36—secret—43
              └─39—[H lower passage]—40 / 41
 
 I  Ravine—[I labyrinth entry]—42—[I labyrinth depths]—43 / 44 / 45
-                                                        └─45—secret—36
+                                                        └─43—secret—36
 
 J  Ravine—[J entry]—46—[J inner passage]—47 / 48 / 49 / 50
                                                       └─50—secret—63
@@ -59,7 +59,7 @@ K  Ravine—[K entry]
 - [Area 12](12-gorraks-chamber.md) and [area 16](16-ushkas-chamber.md) reach the private [orc moot room, area 13](13-orc-moot-room.md), through concealed doors.
 - [Area 18](18-goblin-ogre-guard.md) has the goblins' secret payment door into [Brundt's cave, area 22](22-brundts-cave.md).
 - [Area 17](17-goblin-entry-guard.md) reaches [area 23](23-hobgoblin-common-room.md) by stairs; [area 21](21-goblin-storage.md) reaches [area 28](28-hobgoblin-storeroom.md) by the hobgoblins' secret route.
-- [Area 36](36-vargoths-chamber.md) opens secretly into [Khaeros's cavern, area 45](45-khaeros-cavern.md).
+- [Area 36](36-vargoths-chamber.md) opens secretly into [the first fire-beetle cave, area 43](43-fire-beetle-cave.md). [Khaeros](45-khaeros-cavern.md) knows about the passage, but it does not open into his cavern.
 - [Area 50](50-maruks-chamber.md) secretly reaches [the Shrine storeroom, area 63](63-shrine-storeroom.md). The gnolls do not know the door exists.
 
 ## Navigation convention

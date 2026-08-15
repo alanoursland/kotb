@@ -1,0 +1,9 @@
+# E. OGRE CAVE:
+
+Persons entering this place will notice a strong, sour odor and then notice what appears to be a huge bear sprawled asleep in the southwestern part of the cave. This is nothing more than the skin of a huge bear which the ogre killed and uses as a bed, making it more comfortable by heaping leaves underneath. The ogre sits in the eastern portion of his lair, and noise will certainly bring him ready to do battle. This huge Ogre has AC 4 due to his thick hide and another thick bearskin he wears for protection. Because of his high strength, he hits opponents for 3-12 (1d10+2) points of damage (AC 4, HD 4 + I, hp 25, D 3-12, MV (30'), Save F 4, ML IO). The ogre has grown wealthy by serving as a mercenary - generally on the side of the goblins (and their occasional allies, the hobgoblins), although he has been bought off by the orcs and gnolls from time to time. He will rush to aid the goblins when they toss him the sack of coins (see 18., above). If anyone offers him a greater fee - one which he can actually see and feel - it is 90% likely that he will simply take it (and the goblins' money too!), and return to his lair.
+
+## 22.
+
+The ogre sits here on top of a great leather bag. In this bag are seven large sacks which contain: #1: 287 silver pieces; #2: a hard cheese; #3: 182 copper pieces and 91 electrum pieces; #4: 289 gold pieces; #5: a keg of brandy (value 80 gold pieces); #6: 303 copper pieces; #7: 241 gold pieces (actually lead coins with a wash of gold, so value of each is only I copper!).
+
+If intruders offer him a bribe of 20 or more gold piece value, the ogre will be 90% likely to allow them to leave unmolested, but if he catches them again, he will attempt to kill them, whatever the offers. Hidden under a heap of old bones in the southern portion of his cave are 6 magic arrows +1, a potion of invisibility, and a magic scroll with 2 cleric spells - cure light wounds, hold person.

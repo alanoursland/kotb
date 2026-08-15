@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 51](../../reference/kotb.md#51-boulder-filled-passage)
+- [B2 area 51](../../reference/caves-k-shrine.md#51-boulder-filled-passage)

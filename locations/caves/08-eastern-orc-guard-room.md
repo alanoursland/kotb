@@ -17,4 +17,4 @@
 
 ## Source
 
-- [B2 area 8](../../reference/kotb.md#8)
+- [B2 area 8](../../reference/caves-b-orcs.md#8)

@@ -111,5 +111,5 @@ Ilyan's trained war dog is **Harrow**; Sabina's is **Mica**. The five small-apar
 
 ## Source
 
-- [B2 area 7](../../kotb.md#7-private-apartments)
+- [B2 area 7](../../reference/keep.md#7-private-apartments)
 - [Father Ariston's full profile](../../characters/father-ariston-vale.md)

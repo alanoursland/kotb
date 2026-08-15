@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 32](../../reference/kotb.md#32-empty-gallery)
+- [B2 area 32](../../reference/caves-g-shunned-cavern.md#32-empty-gallery)

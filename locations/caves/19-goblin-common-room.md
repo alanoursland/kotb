@@ -20,4 +20,4 @@
 
 ## Source
 
-- [B2 area 19](../../reference/kotb.md#19-common-room)
+- [B2 area 19](../../reference/caves-d-goblins.md#19-common-room)

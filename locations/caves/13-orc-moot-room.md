@@ -23,4 +23,4 @@ If the party brokers peace, hold the first two-chief meeting here. It lets recon
 
 ## Source
 
-- [B2 area 13](../../reference/kotb.md#13-forgotten-room)
+- [B2 area 13](../../reference/caves-c-orcs.md#13-forgotten-room)

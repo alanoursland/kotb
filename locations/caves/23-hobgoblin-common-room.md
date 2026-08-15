@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 23](../../reference/kotb.md#23-common-room)
+- [B2 area 23](../../reference/caves-f-hobgoblins.md#23-common-room)

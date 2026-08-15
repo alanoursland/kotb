@@ -17,4 +17,4 @@
 
 ## Source
 
-- [B2 bugbear lair](../../reference/kotb.md#h-bugbear-lair)
+- [B2 bugbear lair](../../reference/caves-h-bugbears.md#h-bugbear-lair)

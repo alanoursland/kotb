@@ -30,4 +30,4 @@
 
 ## Source
 
-- [B2 area 58](../../reference/kotb.md#58-temple-of-evil-chaos)
+- [B2 area 58](../../reference/caves-k-shrine.md#58-temple-of-evil-chaos)

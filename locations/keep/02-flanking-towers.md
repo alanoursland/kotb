@@ -78,4 +78,4 @@ If violence begins at the gate, these crews make the danger obvious before initi
 
 ## Source
 
-- [B2 area 2](../../kotb.md#2-flanking-towers)
+- [B2 area 2](../../reference/keep.md#2-flanking-towers)

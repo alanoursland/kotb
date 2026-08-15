@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 15](../../reference/kotb.md#15-common-hall)
+- [B2 area 15](../../reference/caves-c-orcs.md#15-common-hall)

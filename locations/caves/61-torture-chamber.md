@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 61](../../reference/kotb.md#61-torture-chamber)
+- [B2 area 61](../../reference/caves-k-shrine.md#61-torture-chamber)

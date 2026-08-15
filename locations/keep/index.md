@@ -63,4 +63,4 @@ Access requires invitation, military business, or a special permit.
 
 - [Arrival, hub, debrief loop, and missions](../../campaign/the-keep-arrival-and-hub.md)
 - [The campaign's borderland premise](../../campaign/the-borderland.md)
-- [Original B2 Keep descriptions](../../kotb.md#areas-of-the-keep)
+- [Original B2 Keep descriptions](../../reference/keep.md#areas-of-the-keep)

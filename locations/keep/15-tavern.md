@@ -71,4 +71,4 @@ The tavern household sleeps in loft and cellar spaces. In danger, the owner and 
 
 ## Source
 
-- [B2 area 15](../../kotb.md#15-tavern)
+- [B2 area 15](../../reference/keep.md#15-tavern)

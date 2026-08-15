@@ -61,4 +61,4 @@ The bailiff and the office scribe are civilians for roster purposes; the twelve 
 
 ## Source
 
-- [B2 area 6](../../kotb.md#6-bailiffs-tower)
+- [B2 area 6](../../reference/keep.md#6-bailiffs-tower)

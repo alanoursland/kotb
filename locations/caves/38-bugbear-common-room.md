@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 38](../../reference/kotb.md#38-common-room)
+- [B2 area 38](../../reference/caves-h-bugbears.md#38-common-room)

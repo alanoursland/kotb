@@ -26,4 +26,4 @@
 
 ## Source
 
-- [B2 area 24](../../reference/kotb.md#24-torture-chamberplayroomfood-storage)
+- [B2 area 24](../../reference/caves-f-hobgoblins.md#24-torture-chamberplayroomfood-storage)

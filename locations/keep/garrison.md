@@ -495,4 +495,4 @@ Two light riders keep the Keep connected to the Grand Duchy's supply and command
 - [The Keep — arrival, hub, debrief loop, and Valerian's missions](../../campaign/the-keep-arrival-and-hub.md)
 - [Castellan Valerian](../../characters/castellan-valerian.md)
 - [Captain Bohdan — “the Wall”](../../characters/captain-bohdan.md)
-- [Original B2 Keep descriptions](../../kotb.md#areas-of-the-keep)
+- [Original B2 Keep descriptions](../../reference/keep.md#areas-of-the-keep)

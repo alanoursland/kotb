@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 hobgoblin lair](../../reference/kotb.md#f-hobgoblin-lair)
+- [B2 hobgoblin lair](../../reference/caves-f-hobgoblins.md#f-hobgoblin-lair)

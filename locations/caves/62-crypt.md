@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 62](../../reference/kotb.md#62-the-crypt)
+- [B2 area 62](../../reference/caves-k-shrine.md#62-the-crypt)

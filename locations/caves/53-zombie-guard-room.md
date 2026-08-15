@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 53](../../reference/kotb.md#53-guard-room)
+- [B2 area 53](../../reference/caves-k-shrine.md#53-guard-room)

@@ -46,5 +46,5 @@ The gate should feel formidable, not hostile. Its soldiers are correctly cautiou
 
 ## Source
 
-- [B2 area 1](../../kotb.md#1-main-gate)
+- [B2 area 1](../../reference/keep.md#1-main-gate)
 - [Campaign arrival and hub](../../campaign/the-keep-arrival-and-hub.md)

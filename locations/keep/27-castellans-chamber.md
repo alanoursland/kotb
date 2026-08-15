@@ -42,5 +42,5 @@ Do not use this room merely because the Castellan is present. Moving a scene ups
 
 ## Source
 
-- [B2 area 27](../../kotb.md#27-castellans-chamber)
+- [B2 area 27](../../reference/keep.md#27-castellans-chamber)
 - [Campaign arrival, debriefs, and Castellan arc](../../campaign/the-keep-arrival-and-hub.md)

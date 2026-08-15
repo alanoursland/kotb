@@ -59,5 +59,5 @@ This is the Keep's procedural heartbeat. Use the ledger to establish who came an
 
 ## Source
 
-- [B2 area 3](../../kotb.md#3-entry-yard)
+- [B2 area 3](../../reference/keep.md#3-entry-yard)
 - [Campaign debrief loop](../../campaign/the-keep-arrival-and-hub.md#part-2--the-keep-as-hub-the-debrief-loop)

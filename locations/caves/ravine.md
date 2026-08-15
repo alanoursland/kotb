@@ -32,4 +32,4 @@ This is diplomatic territory as much as a dungeon exterior. Track who sees the p
 
 ## Source
 
-- [B2 Caves start](../../reference/kotb.md#start-1)
+- [B2 Caves start](../../reference/caves-overview.md#start)

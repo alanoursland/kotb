@@ -20,4 +20,4 @@
 
 ## Source
 
-- [B2 area 56](../../reference/kotb.md#56-adepts-chamber)
+- [B2 area 56](../../reference/caves-k-shrine.md#56-adepts-chamber)

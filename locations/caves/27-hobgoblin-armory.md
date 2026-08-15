@@ -28,4 +28,4 @@
 
 ## Source
 
-- [B2 area 27](../../reference/kotb.md#27-armory)
+- [B2 area 27](../../reference/caves-f-hobgoblins.md#27-armory)

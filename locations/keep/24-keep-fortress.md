@@ -150,5 +150,5 @@ The special guest rooms provide a controlled alternative when an unusual visitor
 
 ## Source
 
-- [B2 area 24](../../kotb.md#24-the-keep-fortress)
+- [B2 area 24](../../reference/keep.md#24-the-keep-fortress)
 - [Campaign arrival and debrief structure](../../campaign/the-keep-arrival-and-hub.md)

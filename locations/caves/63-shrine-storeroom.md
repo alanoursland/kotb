@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 63](../../reference/kotb.md#63-storage-chamber)
+- [B2 area 63](../../reference/caves-k-shrine.md#63-storage-chamber)

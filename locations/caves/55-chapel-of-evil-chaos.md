@@ -25,4 +25,4 @@
 
 ## Source
 
-- [B2 area 55](../../reference/kotb.md#55-chapel-of-evil-chaos)
+- [B2 area 55](../../reference/caves-k-shrine.md#55-chapel-of-evil-chaos)

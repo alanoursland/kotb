@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 14](../../reference/kotb.md#14-common-chamber)
+- [B2 area 14](../../reference/caves-c-orcs.md#14-common-chamber)

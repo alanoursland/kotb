@@ -25,4 +25,4 @@
 
 ## Source
 
-- [B2 area 40](../../reference/kotb.md#40-slave-pen)
+- [B2 area 40](../../reference/caves-h-bugbears.md#40-slave-pen)

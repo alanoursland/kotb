@@ -21,4 +21,4 @@
 
 ## Source
 
-- [B2 area 48](../../reference/kotb.md#48-locked-room)
+- [B2 area 48](../../reference/caves-j-gnolls.md#48-locked-room)

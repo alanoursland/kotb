@@ -24,4 +24,4 @@
 
 ## Source
 
-- [B2 area 20](../../reference/kotb.md#20-chieftains-room)
+- [B2 area 20](../../reference/caves-d-goblins.md#20-chieftains-room)

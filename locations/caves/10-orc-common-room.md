@@ -20,4 +20,4 @@
 
 ## Source
 
-- [B2 area 10](../../reference/kotb.md#10-common-room)
+- [B2 area 10](../../reference/caves-b-orcs.md#10-common-room)

@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 46](../../reference/kotb.md#46-guard-room)
+- [B2 area 46](../../reference/caves-j-gnolls.md#46-guard-room)

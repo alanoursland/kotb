@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 42](../../reference/kotb.md#42-stirge-cave)
+- [B2 area 42](../../reference/caves-i-minotaur.md#42-stirge-cave)

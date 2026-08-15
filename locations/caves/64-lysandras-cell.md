@@ -25,4 +25,4 @@
 
 ## Source
 
-- [B2 area 64](../../reference/kotb.md#64-cell)
+- [B2 area 64](../../reference/caves-k-shrine.md#64-cell)

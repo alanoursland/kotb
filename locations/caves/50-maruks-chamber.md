@@ -25,4 +25,4 @@
 
 ## Source
 
-- [B2 area 50](../../reference/kotb.md#50-gnoll-chieftains-quarters)
+- [B2 area 50](../../reference/caves-j-gnolls.md#50-gnoll-chieftains-quarters)

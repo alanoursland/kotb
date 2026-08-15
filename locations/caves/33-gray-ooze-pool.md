@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 33](../../reference/kotb.md#33-shallow-pool)
+- [B2 area 33](../../reference/caves-g-shunned-cavern.md#33-shallow-pool)

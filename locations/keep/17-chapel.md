@@ -85,6 +85,6 @@ Beneath the offering-box pedestal is a secret compartment found only by moving t
 
 ## Source
 
-- [B2 area 17](../../kotb.md#17-chapel)
+- [B2 area 17](../../reference/keep.md#17-chapel)
 - [Campaign role of the Curate](../../characters/the-curate.md)
 - [“Church of Traladara,” Jennifer Guerra](https://pandius.ix.iq.pl/trlchrch.html) — campaign reference supplied by the GM

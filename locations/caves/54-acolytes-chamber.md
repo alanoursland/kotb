@@ -25,4 +25,4 @@
 
 ## Source
 
-- [B2 area 54](../../reference/kotb.md#54-acolytes-chamber)
+- [B2 area 54](../../reference/caves-k-shrine.md#54-acolytes-chamber)

@@ -72,4 +72,4 @@ The two twelve-person reserve detachments are off duty only in the sense that th
 
 ## Source
 
-- [B2 area 26](../../kotb.md#26-central-towers)
+- [B2 area 26](../../reference/keep.md#26-central-towers)

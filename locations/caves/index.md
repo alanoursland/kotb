@@ -29,4 +29,4 @@ Start at the [Ravine Floor](ravine.md). When the party enters a cave mouth, foll
 
 ## Source
 
-- [B2: The Caves of Chaos](../../reference/kotb.md#the-caves-of-chaos)
+- [B2: The Caves of Chaos](../../reference/caves-overview.md#the-caves-of-chaos)

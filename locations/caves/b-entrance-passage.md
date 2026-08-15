@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 orc lair B](../../reference/kotb.md#b-orc-lair)
+- [B2 orc lair B](../../reference/caves-b-orcs.md#b-orc-lair)

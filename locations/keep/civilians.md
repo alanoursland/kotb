@@ -393,5 +393,5 @@ The module's 'score of servants' becomes a complete working household supporting
 
 - [The Keep location index](index.md)
 - [Garrison of the Keep](garrison.md)
-- [Original B2 Keep descriptions](../../kotb.md#areas-of-the-keep)
+- [Original B2 Keep descriptions](../../reference/keep.md#areas-of-the-keep)
 - [The Keep as campaign hub](../../campaign/the-keep-arrival-and-hub.md)

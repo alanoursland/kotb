@@ -24,7 +24,7 @@
 
 ## At the table
 
-- Resolve ordinary purchases quickly from the [reference equipment tables](../../kotb.md#cost-of-equipment-and-weapons).
+- Resolve ordinary purchases quickly from the [reference equipment tables](../../reference/reference-tables.md#cost-of-equipment-and-weapons).
 - Use the shopkeeper to point players toward the correct specialist instead of saying only “not available.”
 - This is where expedition plans become visible through shopping lists: oil and rope suggest one plan; sacks and trade goods suggest another.
 
@@ -41,4 +41,4 @@ The proprietor is a normal person with hp 3. If the walls are threatened, leathe
 
 ## Source
 
-- [B2 area 9](../../kotb.md#9-provisioner)
+- [B2 area 9](../../reference/keep.md#9-provisioner)

@@ -11,4 +11,4 @@
 
 ## Source
 
-- [B2 gnoll lair](../../reference/kotb.md#j-gnoll-lair)
+- [B2 gnoll lair](../../reference/caves-j-gnolls.md#j-gnoll-lair)

@@ -30,4 +30,4 @@
 
 ## Source
 
-- [B2 area 59](../../reference/kotb.md#59-the-chambers-of-the-evil-priest)
+- [B2 area 59](../../reference/caves-k-shrine.md#59-the-chambers-of-the-evil-priest)

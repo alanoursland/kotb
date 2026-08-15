@@ -23,4 +23,4 @@
 
 ## Source
 
-- [B2 area 57](../../reference/kotb.md#57-hall-of-undead-warriors)
+- [B2 area 57](../../reference/caves-k-shrine.md#57-hall-of-undead-warriors)

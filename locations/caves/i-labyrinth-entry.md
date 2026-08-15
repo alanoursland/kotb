@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 caves of the minotaur](../../reference/kotb.md#i-caves-of-the-minotaur)
+- [B2 caves of the minotaur](../../reference/caves-i-minotaur.md#i-caves-of-the-minotaur)

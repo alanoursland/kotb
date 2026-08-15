@@ -23,4 +23,4 @@
 
 ## Source
 
-- [B2 area 30](../../reference/kotb.md#30-hobgoblin-chiefs-quarters)
+- [B2 area 30](../../reference/caves-f-hobgoblins.md#30-hobgoblin-chiefs-quarters)

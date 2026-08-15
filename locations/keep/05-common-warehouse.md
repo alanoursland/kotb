@@ -48,5 +48,5 @@ This is where the campaign's political economy becomes physical: grain, wagons, 
 
 ## Source
 
-- [B2 area 5](../../kotb.md#5-common-warehouse)
+- [B2 area 5](../../reference/keep.md#5-common-warehouse)
 - [Campaign supply-line politics](../../campaign/the-keep-arrival-and-hub.md#part-2--the-keep-as-hub-the-debrief-loop)

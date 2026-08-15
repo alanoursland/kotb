@@ -82,5 +82,5 @@ Mihail carries a gold Guild ring and coin; a strongbox under his bed holds 712 g
 
 ## Source
 
-- [B2 area 16](../../kotb.md#16-guild-house)
+- [B2 area 16](../../reference/keep.md#16-guild-house)
 - [Campaign supply-line politics](../../narrative/progression.md#7--buying-the-peace--political--convergence)

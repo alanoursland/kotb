@@ -93,4 +93,4 @@ Kiril and Ariadne tend the horses but are not enlisted. Helena Aquila and Cassia
 
 ## Source
 
-- [B2 area 22](../../kotb.md#22-cavalry-stables)
+- [B2 area 22](../../reference/keep.md#22-cavalry-stables)

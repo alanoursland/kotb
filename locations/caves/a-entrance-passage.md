@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 kobold lair](../../reference/kotb.md#a-kobold-lair)
+- [B2 kobold lair](../../reference/caves-a-kobolds.md#a-kobold-lair)

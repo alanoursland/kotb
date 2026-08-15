@@ -17,4 +17,4 @@
 
 ## Source
 
-- [B2 area 3](../../reference/kotb.md#3-food-storage-room)
+- [B2 area 3](../../reference/caves-a-kobolds.md#3-food-storage-room)

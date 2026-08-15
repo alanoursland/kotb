@@ -49,5 +49,5 @@ Run public demonstrations here: the first peaceful cave-dweller crossing the Kee
 
 ## Source
 
-- [B2 area 13](../../kotb.md#13-fountain-square)
+- [B2 area 13](../../reference/keep.md#13-fountain-square)
 - [Campaign market scene](../../campaign/the-ogre-goes-to-the-keep.md#part-4--the-escort)

@@ -45,7 +45,7 @@ This campaign can involve hunger, prejudice, colonial rule, religious conflict, 
 
 ## Dungeon Masters
 
-This repository is a working, table-facing reconstruction of B2 rather than a replacement rulebook or a polished standalone module. The original room descriptions are preserved in [reference/kotb.md](reference/kotb.md); the other files interpret, connect, name, and reorganize that material for this campaign.
+This repository is a working, table-facing reconstruction of B2 rather than a replacement rulebook or a polished standalone module. The original room descriptions are preserved in [reference/README.md](reference/README.md); the other files interpret, connect, name, and reorganize that material for this campaign.
 
 The central change is simple: take the social behavior in B2 seriously. The Caves contain populations, leaders, dependents, alliances, trades, grudges, and a working balance of power. Treat them as frontier polities before treating them as encounter areas. The adventure then becomes an attempt to build and feed a peace while discovering who benefits from the violence.
 
@@ -85,7 +85,7 @@ The essential scene sequence is:
 | Navigate the Caves live | [locations/caves/](locations/caves/index.md) |
 | Find any named Keep resident | [civilian roster](locations/keep/civilians.md) |
 | Find a soldier, rank, duty, or post | [garrison roster](locations/keep/garrison.md) |
-| Check the source module text | [reference/kotb.md](reference/kotb.md) |
+| Check the source module text | [reference/README.md](reference/README.md) |
 | Use the compact repository hub | [index.md](index.md) |
 
 The [Keep location pages](locations/keep/index.md) and [Caves location pages](locations/caves/index.md) are organized like text adventures. Every area has descriptive exit links. Start at the [Main Gate](locations/keep/01-main-gate.md) in Riverfork or the [Ravine Floor](locations/caves/ravine.md) in the Caves and follow those links during play. The rosters are lookup tools; do not try to memorize 223 soldiers and 101 civilians.

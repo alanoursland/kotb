@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 25](../../reference/kotb.md#25-common-chamber)
+- [B2 area 25](../../reference/caves-f-hobgoblins.md#25-common-chamber)

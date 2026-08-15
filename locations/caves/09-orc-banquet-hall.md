@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 9](../../reference/kotb.md#9-banquet-area)
+- [B2 area 9](../../reference/caves-b-orcs.md#9-banquet-area)

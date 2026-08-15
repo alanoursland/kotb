@@ -55,4 +55,4 @@ The corporal has AC 0, Fighter 1, hp 9, sword, dagger +1, and morale 11. The tow
 
 ## Source
 
-- [B2 area 20](../../kotb.md#20-guard-tower)
+- [B2 area 20](../../reference/keep.md#20-guard-tower)

@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 Shrine of Evil Chaos](../../reference/kotb.md#k-shrine-of-evil-chaos)
+- [B2 Shrine of Evil Chaos](../../reference/caves-k-shrine.md#k-shrine-of-evil-chaos)

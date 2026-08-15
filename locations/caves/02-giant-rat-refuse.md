@@ -20,4 +20,4 @@
 
 ## Source
 
-- [B2 area 2](../../reference/kotb.md#2-giant-rats-amidst-garbage-and-waste)
+- [B2 area 2](../../reference/caves-a-kobolds.md#2-giant-rats-amidst-garbage-and-waste)

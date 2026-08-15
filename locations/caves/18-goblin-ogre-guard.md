@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 18](../../reference/kotb.md#18-guard-chamber)
+- [B2 area 18](../../reference/caves-d-goblins.md#18-guard-chamber)

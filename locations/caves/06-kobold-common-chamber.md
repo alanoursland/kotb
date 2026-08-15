@@ -21,4 +21,4 @@
 
 ## Source
 
-- [B2 area 6](../../reference/kotb.md#6-common-chamber)
+- [B2 area 6](../../reference/caves-a-kobolds.md#6-common-chamber)

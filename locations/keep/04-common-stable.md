@@ -47,4 +47,4 @@ Stable hands are unarmored, with 1-4 hp each. They defend animals and one anothe
 
 ## Source
 
-- [B2 area 4](../../kotb.md#4-common-stable)
+- [B2 area 4](../../reference/keep.md#4-common-stable)

@@ -55,4 +55,4 @@ The Great Tower is a strongpoint, not a social location. It locks down the north
 
 ## Source
 
-- [B2 area 23](../../kotb.md#23-great-tower)
+- [B2 area 23](../../reference/keep.md#23-great-tower)

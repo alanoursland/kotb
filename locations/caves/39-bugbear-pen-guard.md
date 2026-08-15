@@ -20,4 +20,4 @@
 
 ## Source
 
-- [B2 area 39](../../reference/kotb.md#39-guard-room)
+- [B2 area 39](../../reference/caves-h-bugbears.md#39-guard-room)

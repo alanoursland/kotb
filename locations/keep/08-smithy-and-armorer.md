@@ -44,4 +44,4 @@
 
 ## Source
 
-- [B2 area 8](../../kotb.md#8-smithy-and-armorer)
+- [B2 area 8](../../reference/keep.md#8-smithy-and-armorer)

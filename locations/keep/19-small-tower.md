@@ -38,4 +38,4 @@ The tower covers the [Entry Yard](03-entry-yard.md), eastern outer bailey, and a
 
 ## Source
 
-- [B2 area 19](../../kotb.md#19-small-tower)
+- [B2 area 19](../../reference/keep.md#19-small-tower)

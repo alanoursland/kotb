@@ -76,4 +76,4 @@ The sergeant has a potion of healing hidden beneath a spare cape. The captain so
 
 ## Source
 
-- [B2 area 18](../../kotb.md#18-inner-gatehouse)
+- [B2 area 18](../../reference/keep.md#18-inner-gatehouse)

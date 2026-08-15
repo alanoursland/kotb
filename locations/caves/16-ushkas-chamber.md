@@ -25,4 +25,4 @@
 
 ## Source
 
-- [B2 area 16](../../reference/kotb.md#16-leaders-room)
+- [B2 area 16](../../reference/caves-c-orcs.md#16-leaders-room)

@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 44](../../reference/kotb.md#44-fire-beetles)
+- [B2 area 44](../../reference/caves-i-minotaur.md#44-fire-beetles)

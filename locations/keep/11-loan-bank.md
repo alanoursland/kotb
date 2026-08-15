@@ -41,7 +41,7 @@ The pawned goods range from honest bargains to hopeful overpricing: an ivory tus
 
 ## DM-only: the vault
 
-The cellar strong room has twelve separately locked compartments, each protected by a poison needle. Contents include coin, gems, a valuable altar service, an art object, trapped compartments, sleeping gas, four pit vipers, and an arrow trap. Use the [full vault table](../../kotb.md#11-loan-bank) if the vault becomes active play.
+The cellar strong room has twelve separately locked compartments, each protected by a poison needle. Contents include coin, gems, a valuable altar service, an art object, trapped compartments, sleeping gas, four pit vipers, and an arrow trap. Use the [full vault table](../../reference/keep.md#11-loan-bank) if the vault becomes active play.
 
 ## Garrison overwatch
 
@@ -56,5 +56,5 @@ The cellar strong room has twelve separately locked compartments, each protected
 
 ## Source
 
-- [B2 area 11](../../kotb.md#11-loan-bank)
+- [B2 area 11](../../reference/keep.md#11-loan-bank)
 - [Campaign Eagle-scrip beat](../../campaign/the-ogre-goes-to-the-keep.md#part-6--the-eagles)

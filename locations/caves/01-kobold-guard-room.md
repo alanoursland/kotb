@@ -19,4 +19,4 @@
 
 ## Source
 
-- [B2 area 1](../../reference/kotb.md#1-guard-room)
+- [B2 area 1](../../reference/caves-a-kobolds.md#1-guard-room)

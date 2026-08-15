@@ -18,4 +18,4 @@
 
 ## Source
 
-- [B2 area 52](../../reference/kotb.md#52-hall-of-skeletons)
+- [B2 area 52](../../reference/caves-k-shrine.md#52-hall-of-skeletons)
