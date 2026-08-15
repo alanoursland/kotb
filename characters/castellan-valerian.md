@@ -63,7 +63,7 @@ His right hand at the wall is **[Captain Bohdan, "the Wall"](captain-bohdan.md)*
 ## Running him at the table
 
 - **Blunt, professional, respectful.** He says what he thinks plainly and then does his duty. Never a cartoon hawk; a competent man with a defensible position.
-- **He argues, then salutes.** Voice the dissent strongly — and then *comply.* He does not sabotage; the institution working as designed is his whole role. If you want opposition that *fights* the party, that's the [visiting Priest](the-curate.md), not Valerian.
+- **He argues, then salutes.** Voice the dissent strongly — and then *comply.* He does not sabotage; the institution working as designed is his whole role. If you want opposition that *fights* the party, that's [Father Ariston](father-ariston-vale.md), not Valerian.
 - **Frame things as a soldier hears them.** Safety, supply, defensible ground, holding what you can't garrison — he engages. Reframe tribute as **payroll for patrol work** (hiring auxiliaries to hold ground he can't) and you're speaking his language; that's the move most likely to win him to the food bridge.
 - **He won't talk Baron easily.** Hold it close. Make the party earn every word, and let the cost of his speaking be real.
 - **He is exactly what he appears.** In a campaign of hidden identities and mistaken labels, Valerian is the one major figure with nothing to uncover. His only secret he keeps from *duty,* not deceit. Let that steadiness read as its own kind of integrity.

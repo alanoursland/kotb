@@ -50,7 +50,7 @@ Mercenaries have leather, shield, sword, and dagger: AC 6, Fighter 1, hp 5 each,
 
 ## Familiar faces
 
-Each has a 10% chance to be present: **Tavian Radu** (watch corporal), **Cosmas Acastus** (watch captain), the bailiff, the visiting priest, 2-4 soldiers drawn from the [garrison roster](garrison.md), **Eudokia Vatatzes** (master sergeant), or an equipped wandering adventurer. Named soldiers retain the recognition cues in their home location sheets.
+Each has a 10% chance to be present: **Tavian Radu** (watch corporal), **Cosmas Acastus** (watch captain), the bailiff, [Father Ariston](../../characters/father-ariston-vale.md), 2-4 soldiers drawn from the [garrison roster](garrison.md), **Eudokia Vatatzes** (master sergeant), or an equipped wandering adventurer. Named soldiers retain the recognition cues in their home location sheets.
 
 ## Campaign use
 

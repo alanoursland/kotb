@@ -50,7 +50,7 @@ Not included are Valerian's [223-person garrison](garrison.md), unnamed traveler
 | Foreign; origin concealed | 2 |
 | Callarii elf | 1 |
 | Darokinian | 1 |
-| Foreign; origin deliberately vague | 1 |
+| Saragóner (claimed) | 1 |
 | Highforge gnome | 1 |
 | Minrothad islander | 1 |
 | **Total** | **100** |
@@ -177,7 +177,7 @@ Twenty people occupy the five small apartments. The two larger suites hold the V
 
 | Name | Pronouns | Heritage | Work or connection | Recognition |
 |---|---|---|---|---|
-| Father Ariston Vale | he/him | Foreign; origin deliberately vague | Visiting priest and apparently genial opponent of evil. | Robust, silver-haired, warm-eyed, and remarkably good at making another person feel heard. |
+| [Father Ariston Vale](../../characters/father-ariston-vale.md) | he/him | Saragóner (claimed) | Visiting priest of the Open Lantern and apparently genial opponent of evil. | Robust, silver-haired, warm-eyed, and remarkably good at making another person feel heard. |
 | Corin | he/him | Foreign; origin concealed | Silent acolyte and armed assistant to Father Ariston. | Broad-shouldered and serene, with a shaved head; his eyes move whenever Ariston appears relaxed. |
 | Sera | she/her | Foreign; origin concealed | Silent acolyte and armed assistant to Father Ariston. | Strong-featured, dark-haired, and outwardly tranquil; never accepts food she did not watch being served. |
 
@@ -381,7 +381,7 @@ The module's 'score of servants' becomes a complete working household supporting
 
 ## DM-only identities and campaign connections
 
-- **Father Ariston Vale, Corin, and Sera** are the visiting hostile clerics from B2 area 7b. They serve Thanatos and intend to sabotage a cave expedition at a crucial moment. Their geniality and discipline are camouflage, not clues.
+- **[Father Ariston Vale](../../characters/father-ariston-vale.md), Corin, and Sera** are the visiting hostile clerics from B2 area 7b. They serve Thanatos and intend to sabotage a cave expedition at a crucial moment. Their geniality and discipline are camouflage, not clues; Saragón, Seren, and the Open Lantern are Ariston's invented cover.
 - **Hadrian and Maren Voss** are the merchant couple tied to [the lost-necklace mission](../../campaign/the-lizardfolk-of-the-marsh.md). Maren understands fishing and waterways; Hadrian initially reports the lizardfolk toll as an attack and robbery.
 - **Mihail Radu** represents Anton Radu's Merchants' Guild at the Keep. He can approve a limited commercial trial, but any lasting caves-Keep trade compact becomes a matter of Guild monopoly, dues, caravan protection, and realm-level Radu politics.
 - **Father Branislav** is the Keep's Curate and the moral counterweight to Valerian. His three acolytes admire Father Ariston despite Branislav's distrust.

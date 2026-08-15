@@ -20,7 +20,7 @@
 | Petar Balan | he/him | Acolyte; altar service, maintenance, and sick visits. | A narrow face, pale gray eyes, and hair tied back with plain cord; knows the day's convoy and meal schedules by heart. |
 | Milena Radu | she/her | Acolyte; offerings, music, and children's instruction. | Straight black hair, watchful brown eyes, and a quick half-smile; keeps a small piece of chalk behind one ear. |
 
-All four live in the chapel cellar. Branislav's three acolytes admire the visiting Father Ariston despite their Curate's distrust.
+All four live in the chapel cellar. Branislav's three acolytes admire the visiting [Father Ariston](../../characters/father-ariston-vale.md) despite their Curate's distrust.
 
 ## The Curate
 
@@ -29,7 +29,7 @@ All four live in the chapel cellar. Branislav's three acolytes admire the visiti
 - Usually carries a ring of protection and a snake staff; armor appears only when the Keep is threatened.
 - Prepared spells: *cure light wounds, detect magic, bless,* and *hold person*.
 - Healing normally goes first to members of the congregation. Trust can widen that circle.
-- Questioned closely by a friend, may reveal distrust of the visiting priest in [area 7](07-private-apartments.md).
+- Questioned closely by a friend, may reveal distrust of [Father Ariston](../../characters/father-ariston-vale.md), the visiting priest in [area 7](07-private-apartments.md).
 
 ## Campaign function
 

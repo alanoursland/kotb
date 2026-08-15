@@ -70,7 +70,7 @@
 
 | Name | Pronouns | Role | Recognition |
 |---|---|---|---|
-| Father Ariston Vale | he/him | Visiting priest and apparently genial opponent of evil. | Robust, silver-haired, warm-eyed, and remarkably good at making another person feel heard. |
+| [Father Ariston Vale](../../characters/father-ariston-vale.md) | he/him | Visiting priest of the Open Lantern and apparently genial opponent of evil. | Robust, silver-haired, warm-eyed, and remarkably good at making another person feel heard. |
 | Corin | he/him | Silent acolyte and armed assistant to Father Ariston. | Broad-shouldered and serene, with a shaved head; his eyes move whenever Ariston appears relaxed. |
 | Sera | she/her | Silent acolyte and armed assistant to Father Ariston. | Strong-featured, dark-haired, and outwardly tranquil; never accepts food she did not watch being served. |
 
@@ -90,6 +90,7 @@ Ilyan's trained war dog is **Harrow**; Sabina's is **Mica**. The five small-apar
 ## 7b. Visiting priest
 
 - Jovial, generous with drink, an excellent listener, and loudly opposed to evil.
+- Claims to come from distant Saragón and evangelize the young Fellowship of the Open Lantern, devoted to Seren, the Kindly Wayfarer.
 - Offers to accompany expeditions to the Caves.
 - The two robust acolytes never speak; their silence is presented as a religious vow.
 - The chapel's Curate distrusts this visitor, while the Curate's own acolytes admire him.
@@ -107,4 +108,4 @@ Ilyan's trained war dog is **Harrow**; Sabina's is **Mica**. The five small-apar
 ## Source
 
 - [B2 area 7](../../kotb.md#7-private-apartments)
-- [Campaign treatment of the visiting priest](../../characters/the-curate.md#the-visiting-priest--what-he-is-working-direction-written-later)
+- [Father Ariston's full profile](../../characters/father-ariston-vale.md)
