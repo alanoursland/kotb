@@ -4,6 +4,8 @@ The polities of the ravine, sorted by the only questions that matter: **Is it a 
 
 > Reference for **[spine beat 4 — Walking the Caves](../narrative/progression.md)**. Populations are the published B2 figures, kept as-is.
 
+> **Live room navigation:** start at the [Ravine Floor](../locations/caves/ravine.md), use the [Caves location index](../locations/caves/index.md), or audit connections on the [topological map](../locations/caves/topology.md).
+
 ## The sorting
 
 | Category | Faction | Pop. | One-line |
