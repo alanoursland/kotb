@@ -4,6 +4,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 
 ## Pages
 
+- **[Weekend Cut — 16-Hour Schedule](weekend-cut-schedule.md)** — the practical run-plan for a marathon session: what to run in full, what to montage, what to cut, with time budgets and checkpoints. Start here if you're prepping to actually play.
 - **[The Borderland](the-borderland.md)** — where the Keep sits and why: the SW frontier on the Black Eagle Barony's edge, and the smuggling corridor the caves sit on. The setting decision everything else assumes.
 - **[The Audience with Duke Stefan](audience-with-duke-stefan.md)** — the opening scene. The commission, the open hand and closed fist. *(Spine beat 1.)*
 - **[The Keep — Arrival, Hub, and Valerian's Missions](the-keep-arrival-and-hub.md)** — first contact with the Castellan, the recurring debrief loop, and the traditional-D&D side-board. *(Spine beat 2.)*
