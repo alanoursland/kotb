@@ -1,6 +1,8 @@
-# The Keep
+# Riverfork Keep
 
-The Keep is a well-supported ducal frontier post and a safe stopping place for soldiers, merchants, craftspeople, and adventurers. Regular convoys keep its garrison supplied; travelers find beds, meals, stabling, repairs, banking, and a small but vigorous market behind formidable walls.
+This campaign identifies B2's fortress as **Riverfork Keep**, an isolated ducal post in the western river country north of Blight Swamp. The published B2 wilderness map is its immediate hinterland: the Keep stands in the southwest, the broad river and lizardfolk fens lie to the south, and the Caves of Chaos rise to the northeast. It is a well-supported frontier military post and a safe stopping place for soldiers, merchants, craftspeople, and adventurers. Regular convoys keep its garrison supplied; travelers find beds, meals, stabling, repairs, banking, and a small but vigorous market behind formidable walls.
+
+At this point in history, Riverfork is treated primarily as a road, river, and frontier-security garrison. Its officers know the Black Eagle Baron is troublesome, but they do not suspect that one of his covert routes reaches this far north through the fens. The campaign's evidence is what turns scattered local incidents into the Duchy's first organized inquiry and later helps give Radlebb Keep its deliberate anti-Baron mandate.
 
 Use these pages as a text-adventure map. Exit links describe an action and a direction. North is the top of the published Keep map.
 

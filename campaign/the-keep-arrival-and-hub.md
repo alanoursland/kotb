@@ -1,8 +1,10 @@
-# The Keep — Arrival, Hub, and Valerian's Missions
+# Riverfork Keep — Arrival, Hub, and Valerian's Missions
 
 *Beat 2. The first conversation that decides whether the political track is a wall or a door — and the home base the party returns to for the rest of the campaign.*
 
 **Spine beat:** [2 — The Keep and the Castellan](../narrative/progression.md) · **Type:** social / hub · **Key NPC:** [Castellan Valerian](../characters/castellan-valerian.md)
+
+**Location:** Riverfork Keep, an isolated ducal post in the western river country north of Blight Swamp. The published B2 wilderness map is its immediate hinterland. This is early in the Duchy's struggle with the Black Eagle Baron: Riverfork watches roads, waterways, and the humanoid frontier, but has not yet recognized the organized traffic moving through the fens around it.
 
 > **The payload:** Valerian is not an enemy and not a pushover. He's an incredulous good soldier who has to *understand* the mission before he'll back it — and understanding takes time and results, not a good speech. Winning him is a slow campaign-long arc, not a single roll. This page is where that arc starts and where it's tracked.
 

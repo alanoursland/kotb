@@ -1,4 +1,4 @@
-# Garrison of the Keep
+# Garrison of Riverfork Keep
 
 > **At a glance:** 223 uniformed personnel. This is a well-paid, regularly supplied ducal garrison, not a starving levy. The soldiers protect a frontier rest stop, keep the road open, escort supply traffic, and provide the Grand Duchy's armed presence in the district.
 

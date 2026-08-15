@@ -138,13 +138,13 @@ Mara supplies facts, not the solution to the conspiracy.
 |---|---|
 | The Shrine deliberately sent undead to destroy cave food stores and game. | That the famine ultimately serves the Black Eagle Baron. |
 | Vesna described the destruction as denying supplies to future ducal auxiliaries and provoking resistance to Thyatian expansion. | That Bargle is the intelligence behind the operation. |
-| Orders, coin, equipment, and iron-ring pendants arrived from “friends in the west,” sometimes through the bugbears. | The name or structure of the Iron Ring. |
+| Orders, coin, equipment, and iron-ring pendants arrived from “friends beyond the southern fens,” sometimes through the bugbears. | The name or structure of the Iron Ring. |
 | Vesna sincerely believed those patrons supported Traladaran liberation. | Who those patrons really were. |
 | The cult's inner rites invoke Thanatos and teach that Entropy can be turned against an occupying order. | Thanatos's larger purpose, or how completely Vesna had been deceived. |
 | Which undead used which exits, which stores were marked, and when the next night raids were planned. | Where every courier went after leaving the ravine. |
 | Vesna intended to die rather than be captured and called that death an ascent. | Exactly what Vesna would become or how to prevent the return. |
 
-Her testimony proves that the famine was intentional and that Vesna was not receiving orders from any recognized Traladaran authority. It does **not** by itself prove the Black Eagle connection. The rings, bugbear evidence, Khaeros, Skarn, and the western route must still be assembled.
+Her testimony proves that the famine was intentional and that Vesna was not receiving orders from any recognized Traladaran authority. It does **not** by itself prove the Black Eagle connection. The rings, bugbear evidence, Khaeros, Skarn, and the route through the southern fens must still be assembled.
 
 ## After the Shrine
 

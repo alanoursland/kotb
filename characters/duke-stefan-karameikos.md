@@ -2,7 +2,7 @@
 
 **Role:** the patron · **Title:** Grand Duke of Karameikos · **Seat:** Specularum · **Heritage:** Thyatian, House Karameikos · **Class:** high-level Fighter
 
-> **What he's for:** the commission and the conscience behind it. Stefan is the man who means *both halves* of "open relations, or clear them out" — and never resolves the contradiction. He sits at the top of the campaign's vertical not as a conspirator but as its most sympathetic figure: a good ruler whose sincere refusal to believe the worst of his cousin is the same denial that recurs, less forgivably, in Specularum and Darokin. He's an ally with a wound, not a villain.
+> **What he's for:** the commission and the conscience behind it. Stefan is the man who means *both halves* of "open relations, or clear them out"—and never resolves the contradiction. He sits at the top of the campaign's vertical not as a conspirator but as its most sympathetic figure: a good ruler who has given his cousin too much benefit of the doubt because no one has yet assembled the frontier's scattered warnings into a case. The party changes that.
 
 ---
 
@@ -13,7 +13,7 @@
 | **Who** | A Thyatian noble who gave up his ancestral estates to carve a new realm out of wild Traladara, and now tries to forge one nation from settlers and natives. |
 | **Wants** | A unified, lawful, prosperous Karameikos — the borderland *brought in,* not emptied. He believes peoples thrive by contributing what each does best. |
 | **The contradiction** | Sincere about diplomacy **and** willing to issue the order to clear the caves. Not secretly cruel. Genuinely both. |
-| **The blind spot** | He will not believe the worst about his cousin, the **Black Eagle Baron** — because believing it would cost him too much, and because he doesn't *want* it true. |
+| **The blind spot** | He treats reports about his cousin, the **Black Eagle Baron**, as disconnected frontier trouble. Family loyalty makes ordinary explanations too easy to accept. |
 | **Voice** | Measured, honest, a touch weary. Speaks plainly about hard things. Doesn't pretend power is clean. |
 
 ---
@@ -32,14 +32,14 @@ See the full scene: **[The Audience with Duke Stefan](../campaign/audience-with-
 
 - **Means every word, both halves.** Never wink. The discomfort is the design.
 - **Honest about power.** If pressed on his right to tame the borderland, he doesn't bluster — he tells the truth about grants and conquest, and offers the caves the same bargain he took.
-- **The Baron is his wound.** If players raise the slaver-baron rumors, he deflects — heard them, doesn't condone what he's heard, fighting a hundred battles, doesn't *want* it true. Play it as a good man's blind spot, **not** a villain's cover-up. This denial is load-bearing for the whole conspiracy.
-- **He doesn't seek proof — on purpose.** The deeper cut: Stefan hasn't *looked* for evidence, because proof would *oblige* him to act against his own **cousin**, against **political and familial** ties, and against a **genuine need** for someone to hold that corner of the realm. He's not complicit; he's compromised — the bargain good men make. But he **would** act on hard proof he couldn't ignore, which is exactly the lever the party can pull. See [The Iron Ring](../campaign/the-iron-ring.md).
+- **The Baron is his blind spot.** Stefan has heard ugly stories but not a coherent accusation supported by independent evidence. He does not want the worst to be true, and his cousin receives more benefit of the doubt than an unrelated baron would. Play it as complacency and familial bias, **not** a cover-up.
+- **The party gives him a reason to look.** Before this campaign, the warnings are refugee stories, road crime, humanoid raids, and suspicious commerce—serious but disconnected. The assembled evidence makes those pieces predict one organization. Stefan first authorizes sustained scrutiny from Riverfork, then broadens it toward Radlebb and the Baron's northern approaches. See [The Iron Ring](../campaign/the-iron-ring.md).
 - **He'd rather know his neighbors.** His closing note is sincere: a borderland brought under one banner is a greater victory than an emptied one repopulated by strangers he understands even less.
 
 ## Relationships
 
 - **Father Demetrios Kallistos** — the cleric Stefan sends with the party. Stefan trusts his sincerity and uses him (consciously or not) as the Church's presence in the field. → [profile](father-demetrios-kallistos.md)
-- **Baron Ludwig von Hendriks, the Black Eagle Baron** — his cousin, granted the southwestern barony, now a slaver-despot tied to **Bargle** and the **Iron Ring.** Stefan's willful non-investigation of him is the keystone of the campaign's vertical, and the thing the party's evidence can finally break. See [The Iron Ring](../campaign/the-iron-ring.md). *(Profile — TBD.)*
+- **Baron Ludwig von Hendriks, the Black Eagle Baron** — his cousin, granted the southwestern barony, secretly a slaver-despot tied to **Bargle** and the **Iron Ring.** The party's evidence is what first turns frontier suspicion into an official pattern Stefan must investigate. See [The Iron Ring](../campaign/the-iron-ring.md). *(Profile — TBD.)*
 - **The Church of Karameikos** — the state faith he backs; the absorbed **Church of Traladar** is the suppressed truth-teller that becomes crucial against the cult. See [Overview](../overview.md).
 
 ## Stats (B/X — light)
@@ -50,7 +50,7 @@ See the full scene: **[The Audience with Duke Stefan](../campaign/audience-with-
 ## DM notes
 
 - **He's the moral frame, not a quest-giver to optimize.** The payload is his *idea* and his *contradiction.* Don't let the audience scene become a shopping list.
-- **Top of the vertical.** His blind spot about the Baron is the same denial at three scales (Caves → Specularum → Darokin). Keep his version *sympathetic* so the pattern reads as systemic, not personal villainy. See [Overview → the vertical](../overview.md).
+- **Top of the vertical.** His blind spot about the Baron is a failure to connect distributed evidence, repeated at three scales (Caves → Specularum → Darokin). Keep his version *sympathetic* so the pattern reads as systemic, not personal villainy. See [Overview → the vertical](../overview.md).
 - **Canon note:** drawn from GAZ1, *The Grand Duchy of Karameikos.* Adapt freely; flag me if your table's timeline or family details differ and I'll reconcile.
 
 ## Links

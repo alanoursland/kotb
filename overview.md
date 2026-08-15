@@ -51,10 +51,10 @@ So the most devastating weapon against the cult isn't the sword — it's the **t
 
 The frontier is the whole society in miniature. Follow the iron-ring evidence and the same rot wears a different face at every altitude:
 
-| Scale | Power as | Function | The denial |
+| Scale | Power as | Function | The blind spot |
 |---|---|---|---|
 | **The Caves of Chaos** | strength & hunger | capture (intake) | "the cult is a *human* problem, not ours" |
-| **Specularum** | blood & wall | shipping (the port) | the Duke won't believe the rumors about his own baron |
+| **Specularum** | blood & wall | shipping (the port) | the court has never assembled scattered frontier reports into a case against the Duke's own baron |
 | **Darokin City** | money & guild | laundering (the market) | the republic won't trace the goods — it would threaten the credit the whole city runs on |
 
 The maps wear it openly. Specularum's poor are labeled **The Nest**; Darokin files its citizens by metal — **Gold Class, Silver Class, Copper Class** — and zones them by riverbank. Nobody had to invent the stratification. It's printed on the cartography.

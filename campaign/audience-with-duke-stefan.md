@@ -52,7 +52,7 @@ Drop these as texture. Let the players decide what matters. Each pays off later.
 | **"One way or another."** | Say it once, plainly, move on. | The campaign's whole moral tension; returns when the party finds people in the caves worth saving. |
 | **The Duke's own legitimacy** | If asked by what right he tames the borderland, be *honest* — his title traces to a grant, and he knows what grants are built on. He's offering the caves the same deal he took: lose some autonomy, gain a place inside something that would otherwise roll over you. Not charity. | The whole "who draws the line between person and monster" thread. |
 | **The Church comes along** | He's sending **[Father Demetrios Kallistos](../characters/father-demetrios-kallistos.md)**, a cleric of the **Church of Karameikos** — for healing and the *speak languages* staff they'll need to parley at all. Genuine generosity, and a genuine ally. | If you want a faint undertone: even good-faith help arrives speaking the empire's language. Optional color, never a betrayal. |
-| **Don't mention the Black Eagle** | If a player raises the slaver-baron rumors, he deflects — heard them, doesn't condone what he's heard, fighting a hundred battles, doesn't *want* it true. A good man's blind spot, not a villain's cover-up. | His denial is the keystone the later conspiracy rests on — the same denial Darokin's guilds will have about their ledgers. |
+| **The Black Eagle is background trouble** | If a player raises accusations against the Baron, Stefan says he has heard ugly stories but has no case—only border rumor, refugees, and crimes with other plausible culprits. He gives his cousin too much benefit of the doubt, but he is not concealing an investigation. | The party will assemble the first evidence strong enough to begin one. |
 
 ## What the Duke offers (practical terms)
 
@@ -76,8 +76,8 @@ Then the dismissal: the Keep's castellan — **[Valerian](../characters/castella
 - **The player seat is still open, and this scene sets it.** Are they Stefan's loyal envoys, or freelancers who might broker *for* the caves against the crown? Don't force it — let how they react to "one way or another" tell you which way they lean, and let the politics follow.
 - **Keep it short.** The Duke's *idea* is the payload. Legitimacy, the Church, the Baron are each one sentence, planted and not watered.
 - **Provisional trust cuts both ways.** He's testing whether they can do something subtle. If they're murder-hobos, this scene is where you find that out — useful information, not a problem to fix. The caves teach the lesson regardless.
-- **Top of the vertical.** The Duke's denial about the Baron here is the *same denial* Darokin's guilds will have about their ledgers — one blind spot at three scales. See [Overview → the vertical](../overview.md).
-- **The job points at the Baron and the Duke can't see it.** The "raids on the borderland road" are unknowingly disruption on the **Black Eagle's smuggling corridor** — the Keep sits on the Barony's edge. Stefan is sending the party to clean up his most dangerous vassal's supply line and calling it a monster problem. See [The Borderland](the-borderland.md).
+- **Top of the vertical.** The Duke's failure is institutional attention: information exists as scattered incidents, but power has not assembled it into a pattern. Darokin's guilds will later fail in the same way with their ledgers. See [Overview → the vertical](../overview.md).
+- **The job points at the Baron and nobody knows it yet.** The “raids on the borderland road” occur around a concealed **Black Eagle collection route** in the river and fen country near Riverfork Keep. Stefan is sending the party to solve a monster problem; their work creates the first organized reason to investigate his most dangerous vassal. See [The Borderland](the-borderland.md).
 
 ## Links
 

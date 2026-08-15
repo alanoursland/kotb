@@ -5,7 +5,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 ## Pages
 
 - **[Weekend Cut — 16-Hour Schedule](weekend-cut-schedule.md)** — the practical run-plan for a marathon session: what to run in full, what to montage, what to cut, with time budgets and checkpoints. Start here if you're prepping to actually play.
-- **[The Borderland](the-borderland.md)** — where the Keep sits and why: the SW frontier on the Black Eagle Barony's edge, and the smuggling corridor the caves sit on. The setting decision everything else assumes.
+- **[The Borderland](the-borderland.md)** — where Riverfork Keep sits and why: the isolated western river frontier, the B2 wilderness map around it, and the hidden Black Eagle route through its fens. The setting decision everything else assumes.
 - **[The Audience with Duke Stefan](audience-with-duke-stefan.md)** — the opening scene. The commission, the open hand and closed fist. *(Spine beat 1.)*
 - **[The Keep — Arrival, Hub, and Valerian's Missions](the-keep-arrival-and-hub.md)** — first contact with the Castellan, the recurring debrief loop, and the traditional-D&D side-board. *(Spine beat 2.)*
 - **[First Contact — The Ogre at the Ravine](first-contact-the-ogre.md)** — the run-at-the-table scene for meeting Brundt: the menace-to-merchant flip and his sincerity test. *(Spine beat 3.)*
@@ -18,7 +18,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 - **[The Prisoners](the-prisoners.md)** — the control group: five freed captives who prove the thesis with the party's own hands. Circumstance predicts behavior; species predicts nothing.
 - **[The Lizardfolk of the Marsh](the-lizardfolk-of-the-marsh.md)** — the sovereignty case: a self-sufficient marsh people who only want to be left alone, and the gentlest tutorial in *the violence is in the misreading* (the necklace was a toll, not a theft).
 - **[The Bandit Camp](the-bandit-camp.md)** — the thesis in reverse: twelve starving human misfits doing what the caves are blamed for, led by the soldier who lost Khaeros. The human mirror, a conspiracy node, and the integration case for the desperate.
-- **[The Iron Ring & the Black Eagle](the-iron-ring.md)** — the conspiracy layer: the DM truth, the evidence trail as a puzzle, the Duke's willful blindness, and the road to a Duke–Baron confrontation.
+- **[The Iron Ring & the Black Eagle](the-iron-ring.md)** — the conspiracy layer: the DM truth, the evidence trail as a puzzle, and how the party causes the Duchy to begin watching the Baron.
 
 ### Planned
 - **The citizenship ladder** *(TBD)* — Karameikos's tiers of legal status (freeman and below). Load-bearing: the *freeman* rung is the deal the Duke offers both the caves and Khaeros — "you are not a monster here." Wanted by [Khaeros](../characters/khaeros-the-minotaur.md) and the [Audience scene](audience-with-duke-stefan.md).

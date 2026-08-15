@@ -39,7 +39,7 @@ She is a creature whose curse makes **proximity lethal and eye contact fatal.** 
 
 ## Where she's from (origin — keep it legendary, keep the conspiracy out)
 
-The cult **recently took** her with zombie guards, so she was *nearby and reachable* — living or passing through the **Cruth Lowlands / Radlebb frontier** ([the borderland](../campaign/the-borderland.md)) when their reach closed on her. Recommended origin:
+The cult **recently took** her with zombie guards, so she was *nearby and reachable* — living or passing through the **Cruth Lowlands / Riverfork frontier** ([the borderland](../campaign/the-borderland.md)) when their reach closed on her. Recommended origin:
 
 **A borderland solitary — the last, or near-last, of a cursed line from some fallen ruin in the southern wilds.** Beautiful and powerful once; now a hated, hunted thing that petrifies anyone who looks. This does three things at once:
 

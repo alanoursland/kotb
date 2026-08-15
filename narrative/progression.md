@@ -31,7 +31,7 @@ Both sit on top of **the hidden engine** below, which neither the party nor the 
 - The cult doesn't know it either — they think they serve Traladar. They are in fact a node of the **Iron Ring**, the slaving network run out of the **Black Eagle Barony**. **Bargle** — the Baron's mage, a secret Thanatos worshipper — is likely the real hand behind it. So the cult's rage is real and **aimed exactly wrong.**
 - **The players never meet Thanatos.** This is not an Immortals campaign. He's the root, off-stage, forever. The win is to *name and hold* his work, never to kill the patient thing itself.
 
-*Full detail, the evidence trail (built as a puzzle), and the Duke's willful blindness: **[The Iron Ring & the Black Eagle](../campaign/the-iron-ring.md).***
+*Full detail, the evidence trail (built as a puzzle), and how the Duchy begins watching the Baron: **[The Iron Ring & the Black Eagle](../campaign/the-iron-ring.md).***
 
 ---
 
@@ -63,7 +63,7 @@ The wide, exploratory heart. Meet the polities, discover the working détente, a
 - Easy integrations (kobolds, gnolls, orcs) and hard cases (hobgoblins, bugbears); the **Shunned Caverns** wildlife as concrete favors (clear the owlbear → earn trust without a speech). Each polity has a leader — the diplomacy runs through them: see **[The Faction Leaders](../characters/faction-leaders.md)** (Karrgan, Yiznak, the feuding orcs, Maruk, Vargoth, Sessrik). The chiefs **convene** and, asked to march on the cult, **decline — "that's a human problem":** the caves have *foreign policy.*
 - The **[prisoners](../campaign/the-prisoners.md)** in the pens are the control group — a lesson, not a fight: circumstance predicts behavior, species predicts nothing (the loyal bugbear Skarn and the murderous human "Hero" share the same pen).
 - **Captivity and cannibalism sort into separate economic puzzles** — see [Captivity & Hunger](../campaign/captivity-and-hunger.md). Most resolve by *feeding* (subsistence behaviors downstream of the famine); only the **bugbear slave-station** doesn't — it's Iron Ring intake that resolves at the Baron, not the cave. Freeing **[Skarn the rebel bugbear](../characters/skarn-the-rebel-bugbear.md)** here recruits an insider witness and the wedge into that fight — and is a clue path toward the conspiracy.
-- **[Khaeros the minotaur](../characters/khaeros-the-minotaur.md)** lairs here — an escaped Black Eagle slave who just wants to go home free, and the hardest single negotiation in the ravine. He is also the witness the Duke's denial about the Baron cannot survive. *Befriending him and indicting the Baron are the same quest.* Reach him only through Brundt → **[First Contact — The Minotaur](../campaign/first-contact-the-minotaur.md)** (the "yes" is that he *eats*).
+- **[Khaeros the minotaur](../characters/khaeros-the-minotaur.md)** lairs here—an escaped Black Eagle slave who just wants to go home free, and the hardest single negotiation in the ravine. He is also the witness who turns rumor about the Baron into an investigation. *Befriending him and building the first case against the Baron are the same quest.* Reach him only through Brundt → **[First Contact — The Minotaur](../campaign/first-contact-the-minotaur.md)** (the "yes" is that he *eats*).
 - **Gate out (soft):** the party learns the caves are *starving and raid to survive* — the question that opens beat 5.
 - **Approaches:** this beat is nearly all leeway — order of contact, who they ally with first, fight vs. trade vs. favor, per faction.
 

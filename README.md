@@ -10,7 +10,7 @@ Karameikos is a young country still deciding what it is.
 
 A generation ago, the Thyatian noble Stefan Karameikos exchanged his ancestral estates for authority over wild Traladara. He now rules from the port of Specularum as Grand Duke, trying to turn Thyatian settlers and administrators and the native Traladaran population into one realm. The roads, laws, churches, guilds, noble families, and military posts all participate in that project—and they do not agree about what the new country should become.
 
-The campaign begins when Duke Stefan summons your party and sends you west to a fortified Keep on a troubled frontier. Travelers have been attacked near a ravine known as the Caves of Chaos. The Duke needs the road made safe, but he is not asking for a routine extermination. He wants you to discover who lives there, whether they have leaders, what they need, and whether relations can be opened.
+The campaign begins when Duke Stefan summons your party and sends you west to **Riverfork Keep**, an isolated fortified post in the river country north of Blight Swamp. Travelers have been attacked near a ravine known as the Caves of Chaos. The Duke needs the road made safe, but he is not asking for a routine extermination. He wants you to discover who lives there, whether they have leaders, what they need, and whether relations can be opened.
 
 If they will speak, you have authority to negotiate. If they will not, you have authority to use force.
 
@@ -55,7 +55,7 @@ For a first understanding pass, read these in order:
 
 1. **[Overview](overview.md)** — the campaign's thesis, tone, moral controls, and full conspiracy. This is the north star.
 2. **[Narrative progression](narrative/progression.md)** — the eight-beat spine, the political and cave tracks, optional threads, and remaining decisions.
-3. **[The Borderland](campaign/the-borderland.md)** — where the Keep sits in Karameikos and why its position near the Black Eagle Barony matters.
+3. **[The Borderland](campaign/the-borderland.md)** — why B2's Keep is Riverfork Keep, how the published wilderness map fits around it, and how the party's discoveries begin the Duchy's scrutiny of the Black Eagle Barony.
 4. **[The Campaign index](campaign/index.md)** — the prepared scenes and encounter references that implement the spine.
 
 Those four pages explain what the campaign is. Do not begin by reading every room, soldier, or NPC biography.
