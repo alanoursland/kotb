@@ -9,7 +9,6 @@
 - The fountain is the easiest neutral meeting place in the Keep.
 - On holidays, farmers and tradespeople set up booths around the square.
 - On ordinary days, the square still draws messengers, children, off-duty soldiers, servants, and anyone waiting for somebody else.
-- A conspicuous outsider is seen here by almost everyone. Reactions can range from fear and refusal to curiosity and eager commerce.
 
 ## Familiar daytime faces
 
