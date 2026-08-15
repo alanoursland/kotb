@@ -38,13 +38,13 @@ Run it forward: aggression has a structurally worse return than defense everywhe
 
 ## The bag (his characterization in one prop)
 
-Brundt sits on a great leather bag of seven sacks: silver, copper, electrum, gold — and a **hard cheese**, a **keg of brandy**, and a sack of **Eagles**, the Black Eagle Barony's gold-washed lead scrip. Somebody passed them to him as real gold, and he kept the sack anyway, hauled it around with the real money, sits on the whole pile. The tokens have value only where the Barony's “company stores” and associated traders agree to honor them; the lead in each is worth less than a copper.
+Brundt sits on a great leather bag of seven sacks: silver, copper, electrum, gold — and a **hard cheese**, a **keg of brandy**, and a sack of **Eagles**, the Black Eagle Barony's gold-washed lead scrip. The bugbears paid him this sack for muscle and told him it was gold. They believed that themselves: the Barony paid them in Eagles for slaves, and they passed part of that payment on to Brundt. He hauled the sack home, mixed it with his real money, and has been sitting on it ever since. The tokens have value only where the Barony's “company stores” and associated traders agree to honor them; the lead in each is worth less than a copper.
 
 Read it closely and it tells you everything:
 - The cheese and brandy mean he's not a hoarder in any grieving sense. He's an **appetite** with a coin-sorting instinct. He keeps what he likes and what shines.
-- The Eagles mean he's been **cheated**: the scrip is genuine, but someone let him believe it was gold. He either doesn't know (a creature who takes coin on faith) or knows and keeps it as a grudge he's literally sitting on. Both readings are good; both give him a live, personal fear of *currency that doesn't spend.*
+- The Eagles mean he's been **cheated without knowing it.** The bugbears thought they were paying him in gold because the Barony had deceived them first. Brundt took the coins on the same faith they did. The whole slave pipeline is exploiting everyone below the Baron, and Brundt is sitting on the evidence.
 
-That fear matters later: when he tests the humans, part of what he's checking is whether *his* money is real money to them — whether the economy they're offering is another sack of Eagles dressed up as gold.
+When the Keep identifies the Eagles, Brundt acquires a live, personal fear of *currency that doesn't spend.* From then on, part of every transaction is a check on whether the other party's money is real—or another sack of Eagles dressed up as gold.
 
 ## His arc: the glow-up
 *Run-at-the-table scene: [The Ogre Goes to the Keep](../campaign/the-ogre-goes-to-the-keep.md).*

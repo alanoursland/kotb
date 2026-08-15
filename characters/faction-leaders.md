@@ -88,11 +88,14 @@ What the party has to read, fast:
 
 **What he wants:** profit and power, and to keep the carts moving upcountry. He will **feign peace** to gather intelligence on the federation and betray it when it pays.
 
+**How he is paid:** the Barony gives Vargoth **Eagles** for captives. Vargoth knows who his customer is and what business he is conducting, but he does not know the “gold” is lead scrip; he cannot read or does not understand the marks declaring it non-tender. He has paid some of those Eagles to [Brundt](brundt-the-ogre.md) for muscle, passing the Baron's deception down to another unwitting recipient.
+
 **The negotiation — there isn't one.** Vargoth is the deliberate hard "no": the chief the party *fights,* because he's freely chosen the worst side and his slaves are priced above what any food market can pay. Talk to him and he's measuring you for a chain.
 
 **Player hooks:**
 - **He caged [Skarn](skarn-the-rebel-bugbear.md)** for refusing the Iron Ring oath — so Vargoth is personally the reason Skarn is a defector, and Skarn is the witness against him. Free the one, indict the other.
 - **He's the local boss of the conspiracy** — beating him is the ravine-end of the pipeline, and his lair holds the [puzzle-clues](../campaign/the-iron-ring.md) that point at Fort Doom.
+- **His treasury and Brundt's hoard match.** Both contain the same Eagles. Vargoth calls them gold and is genuinely furious if shown otherwise—a slaver discovering that his own patron regards him as exploitable stock.
 - **Keep him from defining his species.** Vargoth is *this cell,* not "bugbears" — which is exactly why [Skarn](skarn-the-rebel-bugbear.md) and other non-Ring bugbears must stay visible beside him.
 
 ---

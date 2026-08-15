@@ -103,7 +103,7 @@ Then he reaches for his *own* sack — the gold he's been proud of, hauling arou
 
 > *When the first sack runs low, Brundt reaches for his own — a fat purse he's carried with quiet pride all day, gold he's saved, gold he means to spend on something good. He counts a coin into the merchant's palm. The merchant frowns. Turns it over. Scratches the surface with a thumbnail — and beneath the gold wash, a dull grey gleam. Lead. He points to the little eagle stamped on one face and the warning worked around its edge. “Eagles,” he says, in the voice you use near a large animal. “Barony scrip. Not gold. Not legal coin here.”*
 
-**The drama — and the load-bearing beat of the whole scene:** Brundt's gold, the sack he was proud of, is **Eagles: the Black Eagle Barony's gold-washed lead scrip.** The tokens can be spent through the Barony's own system, but are not Karameikan legal tender and the lead itself is worth less than a copper. Somebody paid him in Eagles as though they were gold, long ago, and he never knew. He's been carrying another ruler's promise around like treasure.
+**The drama — and the load-bearing beat of the whole scene:** Brundt's gold, the sack he was proud of, is **Eagles: the Black Eagle Barony's gold-washed lead scrip.** The tokens can be spent through the Barony's own system, but are not Karameikan legal tender and the lead itself is worth less than a copper. The bugbears paid him the sack for muscle, believing it was gold because the Barony had paid it to them for slaves. Brundt believed them. He's been carrying the financial trail from the slave pipeline around like treasure.
 
 Eagles are familiar this close to the Barony. Duke Stefan knows they exist, traders occasionally receive them innocently, and the [Loan Bank](../locations/keep/11-loan-bank.md#eagles--black-eagle-barony-scrip) is vigilant about catching them in mixed coin. A single Eagle is not proof of wrongdoing. Passing one as gold is fraud; finding a whole pay sack can also point toward employment or trade connected to the Black Eagle Barony. Locals sometimes call worn examples **“black eagles”** after the dark lead showing through their rubbed-away wash.
 
@@ -121,7 +121,7 @@ Brundt has *every excuse the stories say a monster needs.* He's been cheated, hu
 
 If you ever need to convince a skeptic at the Keep — Valerian, the captain, a grieving widow — *why the Duke is right to bet on these people,* you don't make a speech. You tell them what the ogre did when he found the fake coins. He had every reason the stories demand, and he behaved better than the men who cheated him.
 
-**Practical note:** there's no damage. No one is hurt. The party may want to help — cover the loss, find a trader willing to redeem the Eagles, or investigate who passed a Barony pay sack to an ogre as gold (and whether it connects to the [Iron Ring](the-iron-ring.md)). All of that is good. But the *beat* is complete the moment Brundt sets the coins down and apologizes. Let it breathe before you move on.
+**Practical note:** there's no damage. No one is hurt. The party may want to help—cover the loss, find a trader willing to redeem the Eagles, or ask Brundt who paid him. He answers plainly: **the bugbears, for muscle.** That does not prove what the Barony bought from them, but it is the party's first clean financial thread into the [Iron Ring](the-iron-ring.md). The emotional beat is complete the moment Brundt sets the coins down and apologizes; let it breathe before turning the sack into evidence.
 
 ---
 
