@@ -17,7 +17,7 @@
 | **Who** | The old Curate who runs the Keep's chapel — keeper of the suppressed **Church of Traladar**, not the state Church of Karameikos. |
 | **What only he can do** | Read the cult's symbols as **alien to the faith**, name what Vesna became, and cleanse the Shrine **with Traladaran legitimacy** (so the win isn't read as the Duke attacking native religion). |
 | **Why he's distrusted** | He knows Thanatos too well. To the assimilated and the fearful, deep knowledge of the enemy *looks like* kinship with it. The man who can save them resembles the threat. |
-| **His clue** | He distrusts the **visiting Priest** the others adore — and he's the campaign's thesis in miniature: *listen to the distrusted native, not the charming outsider.* |
+| **His clue** | He distrusts **[Father Ariston Vale](father-ariston-vale.md)**, the visiting priest the others adore — and he's the campaign's thesis in miniature: *listen to the distrusted native, not the charming outsider.* |
 | **His weight** | The most influential person in the Keep after the **Castellan.** A real political counterweight on the moral axis. |
 
 ---
@@ -42,7 +42,7 @@ He is old, careful, and parochial in the way a keeper of a dwindling thing becom
 
 **The chapel's hidden treasury:** in a secret compartment under the offering-box pedestal (found only by moving the pedestal; two locks — **the Curate and the Castellan hold the only keys**): 3 *potions of healing*, 1 *ESP*, 1 *gaseous form*, and a scroll (*cure disease*, *hold person*, ×3 *cure light wounds*).
 
-**The planted clue:** questioned closely by a friend, the Curate **(50%)** reveals his **distrust of the visiting Priest** (7b) who comes to the Keep regularly. The **Acolytes think highly** of that Priest and will say so. *(See the fork below — in B2 the Priest is a disguised evil cleric, and the Curate is right.)*
+**The planted clue:** questioned closely by a friend, the Curate **(50%)** reveals his **distrust of [Father Ariston Vale](father-ariston-vale.md)** (7b), who comes to the Keep regularly. The **Acolytes think highly** of Ariston and will say so. *(In B2 the Priest is a disguised evil cleric, and the Curate is right.)*
 
 ---
 
@@ -54,19 +54,17 @@ He is old, careful, and parochial in the way a keeper of a dwindling thing becom
 
 ---
 
-## The visiting Priest — what he is (working direction, written later)
+## The visiting Priest — Father Ariston Vale
 
-The Curate's distrust points at a real, unbuilt figure — and he's right, though not for the reason canon assumes.
+The Curate's distrust points at **[Father Ariston Vale](father-ariston-vale.md)**, and he is right.
 
-**Working direction:** the visiting Priest is a **foreign agent of Thanatos himself** — from neither Thyatis nor Traladara, here on Entropy's orders. He is *not* part of the cult, the Baron, or the Iron Ring. He's a **separate thread of Thanatos's plot**: a spy sent to watch and to **confound the party's success.**
+Ariston is a **foreign agent of Thanatos himself** — from neither Thyatis nor Traladara, here on Entropy's orders. He is *not* part of the cult, the Baron, or the Iron Ring. He is a **separate thread of Thanatos's plot**: a spy sent to watch and to **confound the party's success.** His claimed religion, history, methods, and table-ready betrayal are detailed in [his profile](father-ariston-vale.md).
 
 Why it's good:
 
 - **Thanatos works through both witting and unwitting hands.** The cult is an *unwitting* node (Iron Ring, believes it serves Traladaran liberation); the Priest is a *witting* agent (serves Entropy directly, knows exactly what he is). They're uncoordinated — two hands of the same root reaching in separately. **Killing the cult doesn't remove the Priest** — a persistent, mobile antagonist who outlives the Shrine and keeps working against the peace.
 - **It sharpens Branislav.** He distrusts the Priest because he can *smell the Entropy* on him. The very knowledge that makes others distrust the Curate is what lets him correctly flag the real threat — the distrusted keeper is right about the charming outsider, and right *because* of the thing he's distrusted for.
 - **It preserves the canon clue** (Curate distrusts / Acolytes adore / the Priest works against the party) while giving him a distinct allegiance: **Thanatos, not the Iron Ring.**
-
-*Stubbed in the [character index](index.md); full profile to come.*
 
 ---
 
@@ -100,4 +98,4 @@ Provisional **Father Branislav / Branko** (Traladaran/Slavic). Like the cast's o
 - The cleanse he legitimizes: [Progression — beat 6](../narrative/progression.md) · [Roster → the Shrine](../campaign/caves-of-chaos.md)
 - The tragedy he reveals: [Vesna, the Hierophant](the-hierophant.md)
 - His counterpart in the party: [Father Demetrios](father-demetrios-kallistos.md) (Karameikos; can't read the symbols)
-- The figure he distrusts: the **visiting Priest** *(profile TBD — a foreign Thanatos spy; see the working direction above)*
+- The figure he distrusts: **[Father Ariston Vale](father-ariston-vale.md)** — the visiting false priest and foreign Thanatos agent
