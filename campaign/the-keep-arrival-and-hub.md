@@ -15,14 +15,14 @@ The party presents the **[Duke's letter of authority](audience-with-duke-stefan.
 Then the real scene: a conversation about what they're actually here to do. Play the friction honestly —
 
 - **The incredulity.** "Open relations with the *Caves of Chaos.*" Valerian has buried people killed on that road. To him the sentence barely parses — it sounds like the Duke has been talked into something foolish by clever envoys, or like the envoys are naive. He's not hostile; he's *baffled,* and a little worried for them.
-- **The misunderstandings.** He'll assume things: that "diplomacy" means tribute (rewarding the killers), that feeding the caves means starving his garrison, that the party are dreamers who'll get themselves killed and leave him to clean it up. Let these surface and let the party correct them — that *is* the scene.
+- **The misunderstandings.** He'll assume things: that "diplomacy" means tribute (rewarding the killers), that feeding the caves means turning a military supply line into an open-ended subsidy, that the party are dreamers who'll get themselves killed and leave him to clean it up. Let these surface and let the party correct them — that *is* the scene.
 - **The argument he keeps making.** He'll grant the Duke's authority and *still* press his own case: let him muster the men and do it the clean way — a raid, end the raids by force. He's not defying the Duke; he's a soldier advocating up the chain before he salutes.
 
 **He comes around when he *understands,* not when he's out-argued.** There's no single persuasion check. What moves him in this first scene is competence and a frame he respects: not "these creatures deserve mercy" (idealism slides off him) but "your road stays raided until someone fixes *why* they raid, and the sword doesn't fix why." Reframe the mission in a soldier's terms — intelligence-gathering, securing a frontier you can't garrison, fewer dead either way — and you'll get him to *provisional* cooperation. Full belief comes later, from results (Part 2).
 
 **Gate out (soft):** Valerian extends the Duke's-sanctioned support — quarters, the Keep as a base, what intelligence he has, the gate open to them and (eventually) their strange guests. He stays skeptical. That's fine; skeptical-but-cooperating is the win here.
 
-**Establish quietly, for later:** the chapel is the **[Church of Traladar](../characters/the-curate.md)** under old Father Branislav (the man who'll matter at the Shrine); the Keep has **no food surplus** (the austerity problem behind beat 7); and Valerian holds half the keys to the chapel's treasury. Plant, don't water.
+**Establish quietly, for later:** the chapel is the **[Church of Traladar](../characters/the-curate.md)** under old Father Branislav (the man who'll matter at the Shrine); the Keep is a **regularly supplied ducal outpost** whose road and warehouses can become the practical bridge to feeding the caves; and Valerian holds half the keys to the chapel's treasury. Plant, don't water.
 
 ---
 
@@ -33,7 +33,7 @@ From here on, the Keep is home base, and **every return runs through Valerian.**
 The debrief does real work:
 
 - **It's the meter for his arc.** Valerian moves on *results.* Each debrief, he reacts to what actually happened: raids down? He leans in. The ogre rolled home fed and peaceful? A crack in the skepticism. People dead, nothing to show? He feels vindicated and pushes harder for the raid. **Track his disposition across debriefs** — it's the live gauge of the political track and the run-up to his beat-7 buy-in.
-- **It's the pressure valve.** Austerity, grumbling soldiers, a sergeant who won't feed monsters — surface it here. The party's choices ease or worsen it.
+- **It's the pressure valve.** Supply schedules, merchant objections, soldiers who resent ducal provisions going to former raiders, and a sergeant who won't feed monsters — surface them here. The party's choices ease or worsen the politics, not a shortage inside the Keep.
 - **It's where missions get handed out** (Part 3).
 - **It's a structural heartbeat.** Ravine expedition → return → debrief → resupply → out again. The rhythm of the mid-game.
 

@@ -18,7 +18,7 @@ The campaign's core narrative as a sequence of goals with leeway around each —
 
 The campaign braids two tracks that converge:
 
-- **The political track (the Keep)** — winning the Castellan, paying for peace, holding the Keep through austerity. Talk and leverage.
+- **The political track (the Keep)** — winning the Castellan, paying for peace, and redirecting ducal logistics toward a frontier settlement nobody planned to supply. Talk and leverage.
 - **The investigation track (the Caves)** — making contact, mapping the polities, and uncovering why everyone is starving. Exploration and diplomacy.
 
 Both sit on top of **the hidden engine** below, which neither the party nor the caves understand at the start. The whole mystery is *why is there a famine,* and the answer is the campaign's dark root.
@@ -46,7 +46,7 @@ The Duke points the party at the caves: open relations, or clear them out. → *
 
 ### 2 — The Keep and the Castellan · *political* · **developed**
 Arrive at the Keep and run into the politics. The **[Castellan Valerian](../characters/castellan-valerian.md)** is loyal to the Duke and will follow orders, but he's charged with *keeping the area safe* and has strong feelings about a mission of *peace* with raiders — his instinct is the clean raid. The party has to navigate him, and they won't talk him round: he moves on *results,* not rhetoric. From here the Keep is **home base** — every return runs through a debrief, and Valerian hands out traditional-D&D side-missions that build his trust and burn the party's time. → **[The Keep — Arrival, Hub, and Valerian's Missions](../campaign/the-keep-arrival-and-hub.md)**
-- **Establish quietly:** the chapel is the **[Church of Traladar](../characters/the-curate.md)** under old Father Branislav (matters enormously at the Shrine, easy to overlook now); the Keep has no surplus, so feeding the caves means **austerity** until Specularum resupplies; and the **undead-at-night** the Castellan shrugs off as ordinary gothic Traladar is the famine engine, pre-camouflaged.
+- **Establish quietly:** the chapel is the **[Church of Traladar](../characters/the-curate.md)** under old Father Branislav (matters enormously at the Shrine, easy to overlook now); the Keep is a comfortable, regularly supplied ducal outpost whose logistics can become a **food bridge** if the Castellan and Duke authorize it; and the **undead-at-night** the Castellan shrugs off as ordinary gothic Traladar is the famine engine, pre-camouflaged.
 - **Gate out (soft):** the party gets enough cover/clearance to work the caves. Valerian can be skeptical without blocking them.
 - **Approaches:** the Duke's letter (authority); demonstrating early success (the ogre, beat 3); evidence the raids have a cause; enlisting the Church of Traladar; simply proving competent.
 - **Thread:** Valerian's missions (the swamp lizardmen + lost necklace, the bandits, the hermit) — see the hub page and *Optional threads.* Helping him is a lever for his beat-7 buy-in.
@@ -81,9 +81,9 @@ The one cave where the playbook fails. Entropy wants what everyone has and offer
 - **Curdle:** even a clean win curdles on a delay → beat 8.
 
 ### 7 — Buying the Peace · *political* · **convergence**
-The tracks meet. Killing the cult stops the *manufactured* famine, but the caves are already starving and the raiding *was* the food source — so peace requires a **food bridge from the Keep** while real **trade relations** are built. Trade is **out of scope** for this campaign (it takes years) — so the achievable win is the bridge plus the Castellan's buy-in plus the Keep enduring **austerity** until Specularum resupplies.
+The tracks meet. Killing the cult stops the *manufactured* famine, but the caves are already starving and the raiding *was* the food source — so peace requires a **food bridge through the Keep's established ducal supply line** while real **trade relations** are built. Trade is **out of scope** for this campaign (it takes years) — so the achievable win is the bridge plus the Castellan's buy-in plus formal authorization to expand regular deliveries from Specularum.
 - **Gate out (soft):** [Valerian](../characters/castellan-valerian.md) commits to feeding the caves as *payroll, not tribute* (food for patrol work / holding ground he can't garrison) — a soldier's logic he can say yes to.
-- **Approaches:** reframe tribute as payroll; demonstrated peace (Brundt rolling home); the Church of Traladar's blessing; the Duke's authority; austerity sold as temporary. The Castellan moves on results, so the diplomatic wins in the ravine are what unlock the political one here.
+- **Approaches:** reframe tribute as payroll; demonstrated peace (Brundt rolling home); the Church of Traladar's blessing; the Duke's authority; a concrete convoy and accounting plan. The Castellan moves on results, so the diplomatic wins in the ravine are what unlock the political one here.
 
 ### 8 — The Horizon · *curdle / ending*
 The win is **named and held, not final.** Weeks later the evidence carried out of the Shrine resolves — the **iron-ring cord-symbols** and other trappings *don't* match real Thanatos worship *or* the Traladaran faith; the Church of Traladar names what the party couldn't, and the conspiracy finally gets a name: **the Iron Ring.** Assembled with the **bugbear-lair clues**, Khaeros's route, and the rebel bugbear's testimony, it becomes a case that points at **Bargle** and the **Black Eagle Barony** — hard enough that the Duke can no longer *not look.* The party touched the edge of something national, was carrying its emblem the whole time, and may have just lit the fuse on a **Duke–Baron confrontation.** → [The Iron Ring](../campaign/the-iron-ring.md) The ending isn't "evil destroyed" — it's "the living remembered, for now, that their real enemies were never each other."

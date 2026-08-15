@@ -1,0 +1,41 @@
+# 11. Loan Bank
+
+**Zone:** southwestern outer bailey | **Access:** public; heavily guarded | **Primary use:** exchange, deposits, loans, appraisals, and secure storage
+
+> A plain sign promises the Keep's direct protection. Inside, a clerk's counter faces a plate-armored guard and a display of pawned valuables. The nearby watch tower has a clear shot at the door.
+
+## Services
+
+- Changes coin or gems for a 10% fee.
+- Stores wealth free if left for at least one month; shorter storage costs 10%.
+- Lends up to 5 gp unsecured at 10% interest per month.
+- Larger loans require collateral worth at least twice the amount borrowed.
+- Can weigh, test, and discuss suspicious coinage. This makes the bank the best place to confirm that gold-washed lead is counterfeit and to preserve it as evidence.
+
+## People here
+
+- Retired Fighter 3 banker: hp 12, sword at hand; plate and shield upstairs.
+- Scrawny clerk: Magic-user 2, hp 5, with *sleep* and *ventriloquism* ready.
+- Mercenary door guard: AC 3, Fighter 1, hp 7, battle axe and crossbow.
+- A chain-armored archer in the [Watch Tower](12-watch-tower.md) covers the building.
+
+## Display case
+
+The pawned goods range from honest bargains to hopeful overpricing: an ivory tusk, silver cup, crystal decanter, jade ring, jeweled dagger, fur-trimmed cape, blank vellum books, gold-and-silver belt, thief's tools, and an iron box with a secret lock.
+
+## DM-only: the vault
+
+The cellar strong room has twelve separately locked compartments, each protected by a poison needle. Contents include coin, gems, a valuable altar service, an art object, trapped compartments, sleeping gas, four pit vipers, and an arrow trap. Use the [full vault table](../../kotb.md#11-loan-bank) if the vault becomes active play.
+
+## Exits
+
+- [Go northeast to the Trader](10-trader.md) - Return to the shop row to spend or appraise funds.
+- [Go northwest to Fountain Square](13-fountain-square.md) - Follow the public path toward the fountain.
+- [Go west to the Watch Tower](12-watch-tower.md) - Approach the military tower that protects the bank; official access only.
+- [Go east along the Private Apartments](07-private-apartments.md) - Follow the south wall toward the residents' doors.
+
+## Source
+
+- [B2 area 11](../../kotb.md#11-loan-bank)
+- [Campaign counterfeit-gold beat](../../campaign/the-ogre-goes-to-the-keep.md#part-6--the-fake-gold)
+
