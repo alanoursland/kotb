@@ -10,7 +10,15 @@
 - Stores wealth free if left for at least one month; shorter storage costs 10%.
 - Lends up to 5 gp unsecured at 10% interest per month.
 - Larger loans require collateral worth at least twice the amount borrowed.
-- Can weigh, test, and discuss suspicious coinage. This makes the bank the best place to confirm that gold-washed lead is counterfeit and to preserve it as evidence.
+- Can weigh, test, and discuss suspicious coinage. This makes the bank the best place to identify **Eagles**, determine whether they were honestly offered as Barony scrip or fraudulently passed as gold, and preserve suspicious lots as evidence.
+
+## Eagles — Black Eagle Barony scrip
+
+The **Black Eagle Barony** pays soldiers, laborers, suppliers, and others in its service with proprietary coins called **Eagles**. The Barony's “company stores” and participating traders accept them in payment, allowing the Baron to create liquidity without releasing an equal value of ducal coin from his treasury. Duke Stefan and the Karameikan authorities know the system exists. Eagles are not illegal, but they are expressly marked as **not legal tender outside the Barony's own system**.
+
+An Eagle is a lead token under a thin gold wash. Its markings distinguish it from a lawful Karameikan gold piece if someone actually examines it, but at a glance—or mixed into a large payment—it can pass for gold. Worn Eagles are easier to spot: handling rubs away the wash and exposes the dark lead beneath. This has given them the derogatory nickname **“black eagles.”** The lead itself is worth less than one copper; any greater value depends entirely upon the Barony and its associated merchants continuing to honor the scrip.
+
+Because the Keep stands near the Black Eagle Barony, Eagles appear here regularly. Most arrive innocently in mixed purses, pay packets, or traders' coffers; others are deliberately passed to the inattentive as gold. Octavius and Pavel inspect every unfamiliar gold coin, watch for dark edges and suspicious weight, and keep known examples under the counter for comparison. The bank does **not** count Eagles as Karameikan coin or accept them at their stamped value. Possessing one proves very little. A concealed sack, altered markings, or an attempt to pass Eagles as gold is another matter.
 
 ## People here
 
@@ -49,4 +57,4 @@ The cellar strong room has twelve separately locked compartments, each protected
 ## Source
 
 - [B2 area 11](../../kotb.md#11-loan-bank)
-- [Campaign counterfeit-gold beat](../../campaign/the-ogre-goes-to-the-keep.md#part-6--the-fake-gold)
+- [Campaign Eagle-scrip beat](../../campaign/the-ogre-goes-to-the-keep.md#part-6--the-eagles)

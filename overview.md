@@ -28,7 +28,7 @@ The campaign is not "will the party kill the monsters." It's: **can a fragile, m
 
 ## The cast (a sampling)
 
-- **Brundt the ogre** — a defense-biased mercenary whose venality has accidentally kept the peace; the swing vote nobody can cheaply buy. First contact, first easy "yes." Goes to the Keep, gets a bath and a bed, civilizes himself the instant a market exists for it — and discovers his counterfeit coins are fake, gets angry, and *apologizes to the merchant anyway.* The proof of concept, rolling home on a cart.
+- **Brundt the ogre** — a defense-biased mercenary whose venality has accidentally kept the peace; the swing vote nobody can cheaply buy. First contact, first easy "yes." Goes to the Keep, gets a bath and a bed, civilizes himself the instant a market exists for it — and discovers his supposed gold is Black Eagle Barony scrip, gets angry, and *apologizes to the merchant anyway.* The proof of concept, rolling home on a cart.
 - **Khaeros the minotaur** — a Thyatian-born captive who escaped a slave ship bound for the Black Eagle. Wealthy, armored, trained, "attacks first" — because the last time he didn't, he was chained. His hoard is unspent passage money: he has the means to go home and not the map, and home would call him a monster anyway. Karameikos can offer the one thing his birthplace won't — to be recognized as a person. The exile choosing whether *standing among strangers* outweighs *belonging among his own*.
 - **The chiefs** — who, when asked to march on the cult, decline: *that's a human problem.* Their refusal is the federation behaving like a state — assessing a threat and declining to bleed for it. The caves have foreign policy now.
 

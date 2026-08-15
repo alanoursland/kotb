@@ -38,13 +38,13 @@ Run it forward: aggression has a structurally worse return than defense everywhe
 
 ## The bag (his characterization in one prop)
 
-Brundt sits on a great leather bag of seven sacks: silver, copper, electrum, gold — and a **hard cheese**, a **keg of brandy**, and a sack of **gold-washed lead coins worth one copper each.** Somebody paid him in counterfeit, and he kept the fake sack anyway, hauled it around with the real money, sits on the whole pile.
+Brundt sits on a great leather bag of seven sacks: silver, copper, electrum, gold — and a **hard cheese**, a **keg of brandy**, and a sack of **Eagles**, the Black Eagle Barony's gold-washed lead scrip. Somebody passed them to him as real gold, and he kept the sack anyway, hauled it around with the real money, sits on the whole pile. The tokens have value only where the Barony's “company stores” and associated traders agree to honor them; the lead in each is worth less than a copper.
 
 Read it closely and it tells you everything:
 - The cheese and brandy mean he's not a hoarder in any grieving sense. He's an **appetite** with a coin-sorting instinct. He keeps what he likes and what shines.
-- The counterfeit means he's been **cheated**, and either doesn't know (a creature who takes coin on faith) or knows and keeps it as a grudge he's literally sitting on. Both readings are good; both give him a live, personal fear of *currency that doesn't spend.*
+- The Eagles mean he's been **cheated**: the scrip is genuine, but someone let him believe it was gold. He either doesn't know (a creature who takes coin on faith) or knows and keeps it as a grudge he's literally sitting on. Both readings are good; both give him a live, personal fear of *currency that doesn't spend.*
 
-That fear matters later: when he tests the humans, part of what he's checking is whether *his* money is real money to them — whether the economy they're offering is another counterfeit sack.
+That fear matters later: when he tests the humans, part of what he's checking is whether *his* money is real money to them — whether the economy they're offering is another sack of Eagles dressed up as gold.
 
 ## His arc: the glow-up
 *Run-at-the-table scene: [The Ogre Goes to the Keep](../campaign/the-ogre-goes-to-the-keep.md).*
@@ -70,7 +70,7 @@ Crucially: **Brundt knows [Khaeros's](khaeros-the-minotaur.md) history**, and he
 
 ## The leash (and the betrayal seam)
 
-His self-interest points *toward* the federation **only as long as brokering out-earns flipping.** Keep his cut fat and he's the most reliable asset in the ravine. Let the Duchy try to cheap out — pay him in the bureaucratic equivalent of gold-washed lead — and you've taught the one creature who knows every cave's secrets that the humans renege. He resets to hostile *whatever the offers.* The module already told you that's how he ends a relationship.
+His self-interest points *toward* the federation **only as long as brokering out-earns flipping.** Keep his cut fat and he's the most reliable asset in the ravine. Let the Duchy try to cheap out — pay him in the bureaucratic equivalent of Eagles passed as gold — and you've taught the one creature who knows every cave's secrets that the humans renege. He resets to hostile *whatever the offers.* The module already told you that's how he ends a relationship.
 
 There's a quiet shadow worth holding in reserve: a true neutral who profits from the *balance* has an incentive against unification, since unified factions don't bid against each other for his services. The front-man role is what *converts* that leverage instead of destroying it — but if the federation ever stops paying him better than the old swing-vote racket did, the most venal creature in the ravine becomes the one with the most rational reason to want the peace to quietly fail.
 

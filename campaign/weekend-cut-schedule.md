@@ -55,7 +55,7 @@
 
 ## Running the compressed blocks
 
-- **3b, the ogre's shopping trip:** keep the gate tension (Part 2) and the counterfeit-gold beat (Part 6) — that's the scene's emotional core. Narrate the bath/barber/furniture montage in a few sentences. Skip straight from "he's admitted" to "and here's what he buys, one line each" to the fake gold.
+- **3b, the ogre's shopping trip:** keep the gate tension (Part 2) and the Eagle-scrip reveal (Part 6) — that's the scene's emotional core. Narrate the bath/barber/furniture montage in a few sentences. Skip straight from "he's admitted" to "and here's what he buys, one line each" to the false gold.
 - **The caves montage (kobolds/orcs/gnolls):** one line of color, one roll (reaction or negotiation check) if you want stakes, one line of outcome. Example: *"The kobolds are wary but practical — offer them anything and they'll trade tunnel-knowledge for food. Roll it, or just say yes."*
 - **The Shrine:** treat it as 3-4 set-piece rooms, not a level. Abstract the 85 undead into 2-3 "waves" or a mob-rule mass instead of individual stat blocks. Protect three linked moments: [Mara's visible chance to surrender](../characters/mara-sokol.md#if-the-party-is-moving-fast), [the Hierophant's suicide-ascension](../characters/the-hierophant.md), and the [iron-ring symbols](the-iron-ring.md). Together they are the mercy, tragedy, and evidence of the climax.
 - **Buying the Peace:** one conversation with [Valerian](../characters/castellan-valerian.md), using whatever proof-of-concept the table built (Brundt, Khaeros, Skarn). Don't reopen every faction — this is the political climax, not an audit.

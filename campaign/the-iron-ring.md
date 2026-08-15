@@ -39,7 +39,7 @@ Pieces, where they're found, and what each *alone* proves (deliberately: not eno
 
 ### The bugbear-lair clues (keep it a puzzle)
 There are probably tangible links here — but make the party **work to assemble them**, not trip over a confession. Good candidates (pick a few; keep them cryptic):
-- **Payment tokens or coin** not minted for cave use — Barony issue, or marked with the black eagle.
+- **Eagles** — the Black Eagle Barony's gold-washed lead scrip, used to pay soldiers and others in Barony service. Eagles are known near the frontier and lawful to possess, so a few prove nothing; a pay sack or regular flow of them is a paperless financial trail toward the Barony.
 - **A tally / manifest** of "stock" delivered upcountry: counts, dates, a destination glyph the party can't read yet.
 - **Standardized iron-ring fittings** matching the Shrine's cord-symbols — the same supplier behind both faces of the operation.
 - **A courier's route or a name** that means nothing now and everything once the Church of Traladar and Khaeros's story are added.

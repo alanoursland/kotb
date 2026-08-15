@@ -9,7 +9,7 @@ Use these pages as a text-adventure map. Exit links describe an action and a dir
 ## Garrison reference
 
 - [Garrison roster](garrison.md) - command hierarchy, all 223 soldiers, their posts, duties, heritage, and reasons for serving.
-- [Civilian roster](civilians.md) - all 100 fixed civilian and non-garrison occupants, grouped by location with jobs and recognition cues.
+- [Civilian roster](civilians.md) - all 101 fixed civilian and non-garrison occupants, grouped by location with jobs and recognition cues.
 
 ## Public outer bailey
 

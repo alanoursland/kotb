@@ -4,9 +4,9 @@
 
 **Follows:** [beat 3 — First Contact](first-contact-the-ogre.md) (on a "yes") · **Plays at:** the Keep ([beat 2 location](the-keep-arrival-and-hub.md)) · **Key NPCs:** [Brundt](../characters/brundt-the-ogre.md), [Castellan Valerian](../characters/castellan-valerian.md), [Captain Bohdan](../characters/captain-bohdan.md)
 
-> **Sequence:** Travel → Entry at the gate → The Castellan's briefing → Escort through the Keep → He spends the 250 → The fake gold → Cleaned up → The wagon home.
+> **Sequence:** Travel → Entry at the gate → The Castellan's briefing → Escort through the Keep → He spends the 250 → The Eagles → Cleaned up → The wagon home.
 >
-> **The point of the whole scene:** Brundt doesn't buy a weapon. He buys the materials of a *settled life* — and when his money turns out to be counterfeit, he doesn't take it out on the merchants. By the end, the most persuasive argument for the Duke's entire project isn't a speech. It's an ogre with a haircut, pulling his own wagon home.
+> **The point of the whole scene:** Brundt doesn't buy a weapon. He buys the materials of a *settled life* — and when his supposed gold turns out to be Black Eagle Barony scrip, he doesn't take it out on the merchants. By the end, the most persuasive argument for the Duke's entire project isn't a speech. It's an ogre with a haircut, pulling his own wagon home.
 >
 > **Note on timing:** the party has already met Valerian and worked from the Keep ([beat 2](the-keep-arrival-and-hub.md)), so this isn't a first meeting — it's the trust they built there getting stress-tested by a nine-foot ogre at the gate. This is the "Brundt test, in his face" beat from [Valerian's profile](../characters/castellan-valerian.md).
 
@@ -97,13 +97,15 @@ The 250gp goes on these things. He spends it freely, happily, like a man on the 
 
 ---
 
-## Part 6 — The Fake Gold
+## Part 6 — The Eagles
 
 Then he reaches for his *own* sack — the gold he's been proud of, hauling around, maybe the down payment on something bigger, a finer thing he's had his eye on.
 
-> *When the first sack runs low, Brundt reaches for his own — a fat purse he's carried with quiet pride all day, gold he's saved, gold he means to spend on something good. He counts a coin into the merchant's palm. The merchant frowns. Bites it. Frowns deeper. Scratches the surface with a thumbnail — and beneath the gold wash, a dull grey gleam. Lead. He sets it down very carefully and says, in the voice you use near a large animal, that the coin is false. All of it. Counterfeit.*
+> *When the first sack runs low, Brundt reaches for his own — a fat purse he's carried with quiet pride all day, gold he's saved, gold he means to spend on something good. He counts a coin into the merchant's palm. The merchant frowns. Turns it over. Scratches the surface with a thumbnail — and beneath the gold wash, a dull grey gleam. Lead. He points to the little eagle stamped on one face and the warning worked around its edge. “Eagles,” he says, in the voice you use near a large animal. “Barony scrip. Not gold. Not legal coin here.”*
 
-**The drama — and the load-bearing beat of the whole scene:** Brundt's gold, the sack he was proud of, is **gold-washed lead worth a copper a coin.** Somebody paid him in counterfeit, long ago, and he never knew. He's been carrying his own worthlessness around like a treasure.
+**The drama — and the load-bearing beat of the whole scene:** Brundt's gold, the sack he was proud of, is **Eagles: the Black Eagle Barony's gold-washed lead scrip.** The tokens can be spent through the Barony's own system, but are not Karameikan legal tender and the lead itself is worth less than a copper. Somebody paid him in Eagles as though they were gold, long ago, and he never knew. He's been carrying another ruler's promise around like treasure.
+
+Eagles are familiar this close to the Barony. Duke Stefan knows they exist, traders occasionally receive them innocently, and the [Loan Bank](../locations/keep/11-loan-bank.md#eagles--black-eagle-barony-scrip) is vigilant about catching them in mixed coin. A single Eagle is not proof of wrongdoing. Passing one as gold is fraud; finding a whole pay sack can also point toward employment or trade connected to the Black Eagle Barony. Locals sometimes call worn examples **“black eagles”** after the dark lead showing through their rubbed-away wash.
 
 **He gets angry.** Let the table feel the danger spike — a nine-foot ogre, just humiliated, in a market full of people who already feared him, holding fistfuls of fake money. The guards tense. Hands move to weapons. *This* is the moment everyone braced for at the gate. This is where it could all go wrong.
 
@@ -119,7 +121,7 @@ Brundt has *every excuse the stories say a monster needs.* He's been cheated, hu
 
 If you ever need to convince a skeptic at the Keep — Valerian, the captain, a grieving widow — *why the Duke is right to bet on these people,* you don't make a speech. You tell them what the ogre did when he found the fake coins. He had every reason the stories demand, and he behaved better than the men who cheated him.
 
-**Practical note:** there's no damage. No one is hurt. The party may want to help — cover the loss, replace the gold, take the counterfeit to investigate (it's a thread: *who* paid an ogre in [Iron-Ring-adjacent](the-iron-ring.md) funny money, and is it connected to anything?). All of that is good. But the *beat* is complete the moment Brundt sets the coins down and apologizes. Let it breathe before you move on.
+**Practical note:** there's no damage. No one is hurt. The party may want to help — cover the loss, find a trader willing to redeem the Eagles, or investigate who passed a Barony pay sack to an ogre as gold (and whether it connects to the [Iron Ring](the-iron-ring.md)). All of that is good. But the *beat* is complete the moment Brundt sets the coins down and apologizes. Let it breathe before you move on.
 
 ---
 
@@ -146,12 +148,12 @@ The party didn't hire a guide. **They funded a demonstration,** and it's about t
 3. **Castellan** — the Duke's-hall argument in miniature with Valerian; win it by reframing risk as demonstration; he permits it on terms (escort, responsibility). He's watching to see if he's a fool.
 4. **Escort** — [Captain Bohdan](../characters/captain-bohdan.md), wary handler → grudging guide; the market reacts across the full spread (refusal, courtesy, delight).
 5. **Spends the 250** — bath, barber, clothes, furniture, **a bed**, provisions, a wagon. He furnishes a *life,* not an arsenal. The thesis, shown not told.
-6. **Fake gold** — his own sack is counterfeit lead; he's humiliated, *angry,* surrounded — and he distinguishes the merchant from whoever wronged him, apologizes, sets the coins down. The proof the Duke is right. No damage.
+6. **The Eagles** — his supposed gold is Black Eagle Barony scrip; he's humiliated, *angry,* surrounded — and he distinguishes the merchant from whoever wronged him, apologizes, sets the coins down. The proof the Duke is right. No damage.
 7. **Wagon home** — bathed, dressed, settled, pulling his own loaded cart back to the ravine: the proof of concept made visible, and the federation's first visible inequality, rolling into the courtyard.
 
 ## Links
 - The scene this pays off: [First Contact — The Ogre at the Ravine](first-contact-the-ogre.md)
 - Full character: [Brundt "Who-Comes-When-Paid"](../characters/brundt-the-ogre.md)
 - The skeptic it cracks: [Castellan Valerian](../characters/castellan-valerian.md) · the Keep hub: [Arrival & Hub](the-keep-arrival-and-hub.md)
-- The counterfeit-coin thread: [The Iron Ring](the-iron-ring.md)
+- The Eagle-scrip thread: [The Iron Ring](the-iron-ring.md)
 - The inequality it seeds: [Karrgan & the chiefs](../characters/faction-leaders.md) · [Progression — beats 6–7](../narrative/progression.md)
