@@ -51,7 +51,7 @@ Drop these as texture. Let the players decide what matters. Each pays off later.
 |---|---|---|
 | **"One way or another."** | Say it once, plainly, move on. | The campaign's whole moral tension; returns when the party finds people in the caves worth saving. |
 | **The Duke's own legitimacy** | If asked by what right he tames the borderland, be *honest* — his title traces to a grant, and he knows what grants are built on. He's offering the caves the same deal he took: lose some autonomy, gain a place inside something that would otherwise roll over you. Not charity. | The whole "who draws the line between person and monster" thread. |
-| **The Church comes along** | He's sending **[Father Demetrios Kallistos](../characters/father-demetrios-kallistos.md)**, a cleric of the **Church of Karameikos** — for healing and the *speak languages* staff they'll need to parley at all. Genuine generosity, and a genuine ally. | If you want a faint undertone: even good-faith help arrives speaking the empire's language. Optional color, never a betrayal. |
+| **The Church comes along** | He's sending **[Father Demetrios Kallistos](../characters/father-demetrios-kallistos.md)**, a cleric of the **Church of Karameikos**, with a Church of Thyatis artifact that sustains an expanded *speak with monsters* while he concentrates. Its use can break an attack and hold a parley open, but Demetrios is diplomatic support, not a healer or combatant. Genuine generosity, and a genuine ally. | If you want a faint undertone: even good-faith help arrives carrying an imperial Church relic. Optional color, never a betrayal. |
 | **The Black Eagle is background trouble** | If a player raises accusations against the Baron, Stefan says he has heard ugly stories but has no case—only border rumor, refugees, and crimes with other plausible culprits. He gives his cousin too much benefit of the doubt, but he is not concealing an investigation. | The party will assemble the first evidence strong enough to begin one. |
 
 ## What the Duke offers (practical terms)
@@ -59,7 +59,7 @@ Drop these as texture. Let the players decide what matters. Each pays off later.
 Enough to start, not enough to feel safe. He's funding a *negotiation,* not a campaign.
 
 - **A letter of authority** — his sanction. Means something at the Keep, nothing in the caves.
-- **The Karameikos cleric** — translation (*speak languages*) and healing.
+- **The Karameikos cleric** — the Concordant Staff and a protected diplomatic witness. He can open a parley, but he is not assigned as the party's healer or combat support.
 - **Seed resources to open trade** — coin, or the promise of supply from the Keep if they can establish a reason for it. Not a war chest.
 - **Honest intelligence** — the road raids and rough location, plus an admission that he knows almost nothing reliable about who's actually *in* the caves. That ignorance is the point: he's sending them to *find out,* and the finding out is the adventure.
 

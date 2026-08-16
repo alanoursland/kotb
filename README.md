@@ -31,6 +31,8 @@ Talking is not a trick or a failure to engage with the adventure. It is one of i
 
 Characters fit best if they can accept the Duke's commission, work together in public, and remain curious long enough to learn what is happening. They may be loyal ducal agents, skeptical Traladaran locals, Thyatian settlers, guild affiliates, clergy, mercenaries, or ordinary adventurers. They do not need to agree with Stefan—or with one another—but they do need a reason to take the mission seriously.
 
+Use the [player character sheet template](player_characters/character-sheet-template.md) to record a character's Basic D&D statistics, equipment, history, Karameikan ties, and developing relationships.
+
 ### Player content notice
 
 This campaign can involve hunger, prejudice, colonial rule, religious conflict, captivity, slavery, cannibalism, torture, political corruption, and harm to civilians. The campaign examines those subjects rather than treating them as decorative villainy. The group should establish lines, veils, and the desired level of detail before play.

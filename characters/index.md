@@ -5,7 +5,7 @@ NPC and faction profiles, written to be played cold at the table — what they w
 ## Pages
 
 - **[Duke Stefan Karameikos III](duke-stefan-karameikos.md)** — the patron. The commission and the conscience behind it; top of the conspiracy's vertical.
-- **[Father Demetrios Kallistos](father-demetrios-kallistos.md)** — the Duke's cleric on the expedition. The DM's voice in the field; carries the area *Speak Languages* staff; the Church embedded in the party.
+- **[Father Demetrios Kallistos](father-demetrios-kallistos.md)** — the Duke's cleric on the expedition. The DM's voice in the field; carries the Concordant Staff and its expanded *Speak with Monsters* effect; the Church embedded in the party.
 - **[Brundt — "Who-Comes-When-Paid"](brundt-the-ogre.md)** — the ogre. First contact, the proof of concept, the ravine's intelligence broker, and the path to Khaeros. The market made flesh.
 - **[Khaeros — the Minotaur](khaeros-the-minotaur.md)** — the hardest negotiation in the ravine and living evidence of the Baron's slave pipeline. An exile, not a monster. Brundt's opposite number.
 - **[Lysandra — the Medusa](lysandra-the-medusa.md)** — the limit case of the thesis: circumstance can make something real you still can't trust. A gamble, not a rescue. One of two "the label was sometimes right" controls.

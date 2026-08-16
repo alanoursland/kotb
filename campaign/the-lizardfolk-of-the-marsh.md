@@ -102,7 +102,7 @@ A people who aren't hungry and don't raid took *one specific worked-metal valuab
 - *Human (Hadrian / Maren):* "She went looking for our son and the swamp people robbed her."
 - *Lizardfolk:* "A trespasser paid the toll and left in peace."
 
-There was no shared tongue to say *this is the border, the fee is one valuable, you may pass.* (The *[speak languages](../characters/father-demetrios-kallistos.md)* problem, made concrete.) Nothing actually went wrong except that two peoples have no way to talk. This is **the whole campaign in a thimble** — a "monster attack" that was a lawful transaction the victim couldn't read — and it's the gentlest possible place for the party to learn it, *because nobody got hurt.*
+There was no shared tongue to say *this is the border, the fee is one valuable, you may pass.* (The [Concordant Staff](../characters/father-demetrios-kallistos.md#the-concordant-staff) problem, made concrete.) Nothing actually went wrong except that two peoples have no way to talk. This is **the whole campaign in a thimble** — a "monster attack" that was a lawful transaction the victim couldn't read — and it's the gentlest possible place for the party to learn it, *because nobody got hurt.*
 
 **Why specifically the necklace?** A forge-less people charges passage in **the one thing they cannot make**—worked metal. Maren wore two necklaces; taking one was a finite assessment rather than indiscriminate looting. The choice reveals both what the lizardfolk value in trade and that they believed they were collecting a fee, not stripping a victim.
 
