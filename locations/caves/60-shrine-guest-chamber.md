@@ -8,7 +8,10 @@
 
 - The furniture and tapestries have no meaningful sale value despite appearances.
 - The polished mirror is mundane but potentially useful against [Lysandra](64-lysandras-cell.md) if the party thinks to carry it.
-- Use guest traces sparingly: southern-fen mud, unfamiliar boot sizes, a packing cord matching bugbear trade bundles, or ash from correspondence already destroyed. These support the route puzzle without naming the patron.
+- This was the bugbear couriers' room. A tracker can identify broad boot marks made by a very large humanoid; coarse brown-black hair is caught in the bed frame, and crushed catnip remains in a leather fold.
+- A knotted packing cord exactly matches the seals on trade bundles in the [bugbear spoils room](37-bugbear-spoils-room.md). A scrap used to level the table bears welcoming phrases copied in Common, Goblin, Kobold, and Orcish—the same bait displayed in Cave H's [welcome passage](h-entry-passage.md).
+- Southern-fen mud and ash from burned correspondence preserve the wider route puzzle. The physical traces name the visitors as bugbears; they do not identify the bugbears' distant patron.
+- If the party has not visited Cave H, Mara or the torturer can identify the room's regular guests. Otherwise, the repeated welcome text and matching cord make the connection when the party later enters the bugbear cave; do not require a successful check after both examples have been seen.
 
 ## Exits
 

@@ -16,6 +16,17 @@
 - Vesna sincerely believes the Shrine serves Traladaran liberation. They do not know they are an Iron Ring asset.
 - They reposition, rally defenders, and ultimately choose suicide-ascension rather than capture. They cannot provide the conspiracy explanation; Mara and the physical evidence must survive.
 
+## Command papers
+
+A shallow compartment beneath the writing table holds correspondence Vesna intended to burn after the next night raid. These papers are the Shrine's clearest proof of cooperation with the bugbears, but they do **not** name the Iron Ring, Bargle, or the Baron.
+
+- Two messages are signed **“Vargoth, called the Welcomer,”** in a practiced hand unlike the crude marks in the pen tally. They report the capture of **three hobgoblins and three kobolds** and say both groups still believe their missing people were lost in the wilderness.
+- Vargoth offers to provide clothing, insignia, personal tokens, and information learned from the captives. Vesna's reply asks that they be kept alive: their possessions can be planted after attacks to turn Karrgan or Yiznak against the ducal envoys.
+- A later note warns Vargoth that the Duke has sent negotiators and asks him to learn which faction they approach first. In return, the Shrine promises night raids and “signs” placed where blame will do the most harm.
+- Vesna's private marginalia calls Vargoth a coarse but useful local ally. This preserves the deception: Vesna believes they are using a slaver for Traladaran liberation, not serving the same organization that employs him.
+
+Anyone who compares these papers with the prisoners in [areas 40](40-bugbear-slave-pen.md) and [41](41-skarns-slave-pen.md) can match the counts exactly. Showing the papers to Karrgan or Yiznak establishes that the bugbears threatened their people and planned to sabotage negotiations.
+
 ## Room hazards and escape
 
 - Demon idol above the bed topples for 2d6 damage if touched by anyone but Vesna; two gem eyes worth 100 gp each.

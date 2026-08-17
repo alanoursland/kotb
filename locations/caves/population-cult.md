@@ -62,7 +62,20 @@ The anti-turning protection applies to the skeletons in area 52, the zombies in 
 - The cult is **manufacturing the famine** that starves the caves into raiding — the hungrier the caves get, the better it recruits. The kobolds' emptying larder and the hobgoblins' cannibalism fork trace back here.
 - The secret door from [area 63](63-shrine-storeroom.md) into gnoll area 50 is unknown to the gnolls; shrine maps reveal the cult had covert access into Maruk's home.
 - Asked to march on the cult, the federation's chiefs decline — "that's a human problem."
-- Guest-chamber traces (southern-fen mud, cord matching bugbear trade bundles, ash of burned correspondence) tie the shrine to outside patrons.
+- Vargoth's bugbears are the Shrine's local operational partners. They supply cave intelligence, selected captives, and artifacts suitable for planting; the cult supplies warnings, targeted undead harassment, and false signs intended to deepen hostility. Vesna thinks Vargoth is a distasteful ally of Traladaran resistance. Vargoth understands that famine and division protect his slave business.
+- Other cave communities do not know about this arrangement. “Only the bugbears know about the cult” means Vargoth's cell is the sole cave faction knowingly dealing with the Shrine, not that the cult is unaware of its own bugbear couriers.
+
+## Shrine-first evidence route
+
+If the party reaches the cult before Cave H, the Shrine points them directly at Vargoth without resolving the larger conspiracy for them.
+
+1. [Area 60](60-shrine-guest-chamber.md) establishes repeated bugbear visits through tracks, hair, catnip, multilingual welcome text, and matching trade cord.
+2. [Area 61](61-torture-chamber.md) identifies prisoners supplied by Vargoth and records intelligence gathered for a false incident.
+3. [Area 59](59-vesnas-chambers.md#command-papers) names Vargoth, gives exact captive counts, and shows that the Shrine and bugbears were coordinating sabotage.
+4. [Area 63](63-shrine-storeroom.md) contains the prepared framing packets—the physical means of turning Karrgan and Yiznak against the party.
+5. Mara can authenticate the traffic and explain what the cult believed, but cannot name the Iron Ring or the Black Eagle patron.
+
+Showing this evidence to Karrgan or Yiznak before attacking Cave H prevents the attack from costing trust. Freeing and returning their missing people strengthens the case. The bugbear lair must still be searched to uncover the slave operation, Eagles, outside trade channel, and evidence pointing beyond the ravine.
 
 ## Source
 
