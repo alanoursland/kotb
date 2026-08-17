@@ -15,6 +15,7 @@
 - [Inspect the Boulder-Filled Passage](51-boulder-blocked-passage.md) - Take the sealed southwestern branch.
 - [Proceed into the Shrine's Outer Hall](k-outer-hall.md) - Follow the worn floor deeper.
 - [Return to the Ravine Floor](ravine.md) - Withdraw along the path through the trees.
+- [Climb into the Northern Woods](../northern_woods/17-shrineward-escarpment.md) - Follow the undead patrol track through the twisted trees.
 
 ## Source
 

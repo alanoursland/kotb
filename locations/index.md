@@ -4,4 +4,5 @@ Location references are written for live use. Each area page summarizes what is 
 
 - [The Keep](keep/index.md) - the campaign's fortified home base, roadside rest stop, market, chapel, and frontier command.
 - [The Caves of Chaos](caves/index.md) - a room-by-room, text-adventure reference for the ravine and all 64 numbered cave areas.
+- [The Northern Woods](northern_woods/index.md) - an 18-area exploration network north of the road, with the manufactured-famine clue trail, night undead patrols, and the hidden Mad Hermit.
 

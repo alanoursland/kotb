@@ -51,7 +51,7 @@ Valerian *requests help,* and his requests are **traditional-D&D-coded** — con
 | **The bandits** | Raiders hitting travelers; the Castellan knows little and lumps "human and monster raids" together. | The label-lie at Keep scale: a *human* [bandit camp](the-bandit-camp.md) nobody calls "monsters" — the thesis in reverse. |
 | **The caves** | The official problem — "attacks" on the road. | The Duke's actual mission, flattened into a threat report. |
 | **The mad hermit** | A wildcard out in the wilds; rumors, trouble. | [Lucan](../characters/the-mad-hermit.md) — a settler broken by a raid; the federation's care-test, *not* a monster to put down. |
-| **Undead at night** | Mentioned and **shrugged off** — common across wild, gothic Traladar; nothing unusual. | **The famine engine, pre-camouflaged.** See below. |
+| **Undead at night** | Mentioned and **shrugged off** — common across wild, gothic Traladar; nothing unusual. | **The famine engine, pre-camouflaged.** The physical clue trail runs through the [Northern Woods](../locations/northern_woods/index.md). See below. |
 | *(others)* | Whatever fits his sensibilities and the moment. | Time-sinks and trust-builders. |
 
 ### The lizardmen mission is the thesis in miniature

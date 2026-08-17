@@ -68,7 +68,7 @@ The wide, exploratory heart. Meet the polities, discover the working détente, a
 - **Approaches:** this beat is nearly all leeway — order of contact, who they ally with first, fight vs. trade vs. favor, per faction.
 
 ### 5 — The Manufactured Famine · *investigation*
-The turn from diplomacy to mystery. The party discovers the food is being **destroyed at night** — and that it's **undead** doing it, not weather or bad luck. The caves have misdiagnosed it (humans, the land). Tracing the undead points at the Shrine.
+The turn from diplomacy to mystery. The party discovers the food is being **destroyed at night** — and that it's **undead** doing it, not weather or bad luck. The caves have misdiagnosed it (humans, the land). Tracing the undead points at the Shrine. The playable investigation is the [Northern Woods](../locations/northern_woods/index.md), an 18-area clue network with redundant daylight evidence, a guaranteed first-night patrol, and a route back to the Shrine.
 - **Gate out (soft→hard):** connect the famine to the Shrine. *The campaign's engine is hidden here — see Open decisions → clue redundancy. If the party never makes this connection, any peace they broker silently fails.*
 - **Approaches:** night watch/ambush; following the undead; a cave-dweller's testimony; clerical detection; the bugbears' suspicious behavior.
 
@@ -108,7 +108,7 @@ The places where the rails are tight, a thread is thin, or a load-bearing fact i
 
 1. **The hobgoblin cannibalism — subsistence or culture?** This is the hardest diplomatic knot. If it's *subsistence,* trade dissolves it (a live captive worth more than a meal). If it's *cultural,* you're asking them to stop being who they are — the Traladaran problem at maximum. The reading changes whether they're integrable or a genuine hard "no." **Needs a call** (or a deliberate "the party finds out the hard way"). Full analysis: [Captivity & Hunger](../campaign/captivity-and-hunger.md).
 2. **The bandits' identity.** ✓ *Decided:* a [camp of twelve](../campaign/the-bandit-camp.md) starving misfits — some ex-Barony — led by **Aldric Venn**, the sergeant who lost Khaeros. The human mirror of the caves and a buried conspiracy node. *(Remaining sub-fork: is the Quiet One an active Iron Ring member, or is the camp just sediment from the Ring? Pull that thread or not.)*
-3. **Clue redundancy for the famine (beat 5).** The whole engine is hidden behind one discovery. It needs *several* independent paths to the truth, or a peace can succeed locally while the famine grinds on invisibly. Worth designing redundant clues before play.
+3. **Clue redundancy for the famine (beat 5).** ✓ *Decided:* the [Northern Woods](../locations/northern_woods/index.md) supplies several independent paths: animal flight, unharvested kills, accumulated carcasses, organized tracks and rally points, direct night observation, and the converging Shrine route.
 4. **Ogre fallback (beat 3).** First contact funnels through Brundt as guide. If veterans drop him on sight, what's the recovery — a second sympathetic contact, the minotaur, a wounded cave-dweller? Worth one backup.
 5. **The Castellan's buy-in levers (beats 2 & 7).** If his cooperation rides on one persuasion check, the political track is fragile. He wants multiple levers — favors done, evidence, the Church, demonstrated peace. Worth enumerating when we build his profile.
 

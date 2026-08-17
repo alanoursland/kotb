@@ -75,4 +75,5 @@ The whole campaign folded into one map pin: **isolated Riverfork Keep watches ro
 - The conspiracy this geography serves: [The Iron Ring & the Black Eagle](the-iron-ring.md)
 - The witness who escaped down this corridor: [Khaeros](../characters/khaeros-the-minotaur.md)
 - The caves on the supply line: [Roster](caves-of-chaos.md)
+- The playable forest north of the road: [Northern Woods](../locations/northern_woods/index.md)
 - Spine: [Narrative → Progression](../narrative/progression.md)

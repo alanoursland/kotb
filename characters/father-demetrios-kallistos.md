@@ -37,9 +37,9 @@ That makes him an ideal envoy. He extends grace to the caves more readily than a
 
 The staff is a processional artifact of the **Church of Thyatis**, lent for the Duke's mission and entrusted personally to Demetrios. While he holds it upright and does nothing but concentrate and converse, it continuously supplies an expanded form of the 6th-level clerical prayer ***Speak with Monsters*** within 30 feet.
 
-- Demetrios may address living, undead, and even unintelligent creatures.
-- Activating the staff breaks an attack: everyone within 30 feet stops fighting and listens for one full turn. Attackers outside the area are unaffected.
-- Every language-using creature in the area can understand every other such creature and may converse freely. Idiom, lies, motives, etiquette, and cultural assumptions remain untranslated.
+- Demetrios may address any living creature, including unintelligent living creatures. The staff has no effect on undead.
+- Activating the staff breaks an attack by living creatures: every living creature within 30 feet stops fighting and listens for one full turn. Attackers outside the area and undead inside it are unaffected.
+- Every living language-using creature in the area can understand every other such living creature and may converse freely. Idiom, lies, motives, etiquette, and cultural assumptions remain untranslated.
 - Because he is focusing, Demetrios may ask only one question each round. His questions gain +2 on checks to determine whether a recipient answers, but no answer is compelled or guaranteed truthful.
 - After the first turn, Demetrios can stave off renewed attack indefinitely by maintaining concentration and keeping the exchange alive. Hostile or dishonest answers still count; complete refusal to engage does not.
 - It does not charm, compel truth, or force agreement. A creature may defend itself if attacked, and an aggressor cannot exploit the parley for protection.

@@ -24,6 +24,7 @@
 - [Enter Cave I, Khaeros's labyrinth](i-labyrinth-entry.md) - Take the high western mouth into direction-confusing passages.
 - [Enter Cave J, Maruk's gnoll lair](j-entry-passage.md) - Follow the lowest southern shelf to the small cave mouth.
 - [Enter Cave K, the Shrine](k-entry-passage.md) - Take the worn western path through twisted, bloated trees.
+- [Climb to the Northern Woods overlook](../northern_woods/12-ravine-overlook.md) - Take the steep game path above the ravine and observe the cave mouths from cover.
 - [Leave the Caves for Riverfork country](../../campaign/the-borderland.md) - Withdraw east through the forest.
 
 ## DM-only
