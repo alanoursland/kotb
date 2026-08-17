@@ -105,7 +105,7 @@ The live decisions are political:
 - **Equal factions or equal mouths?** Equal wagon shares privilege small groups; per-capita shares require leaders to reveal population.
 - **Need or status?** Serving the visibly starving first is humane but publicly identifies weakness.
 - **Who receives the goblins' food?** Direct delivery limits Karrgan; delivery through him formalizes his rule.
-- **What buys the hobgoblin share?** If their prisoner-eating is subsistence, food can be exchanged for all six captives immediately. If it is cultural, the wagon reveals rather than solves the disagreement.
+- **What buys the hobgoblin share?** Food can be exchanged for all six captives immediately, but the terms must forbid taking replacements and let Karrgan announce the exchange as a stronger provisioning policy.
 - **What happens to the reserve?** Giving it to the strongest faction rewards pressure. Dividing it too early leaves no answer to a genuine counting error.
 
 A defensible default is one agreed ration-equivalent per resident, adjusted openly for size, with each community responsible for internal distribution. Draw lots for order, keep the reserve sealed until the end, and deliver the goblin allotment directly unless the goblins themselves request otherwise.
@@ -191,6 +191,7 @@ The convoy answers **“Can we feed one another without fighting?”** It does n
 
 ## Links
 
+- The bilateral negotiations the convoy cannot replace: [Faction Negotiations](faction-negotiations.md)
 - Why food changes some behaviors but not others: [Captivity & Hunger](captivity-and-hunger.md)
 - The political authorization: [Riverfork Keep — Arrival and Hub](the-keep-arrival-and-hub.md)
 - The factions receiving it: [The Caves of Chaos — Roster](caves-of-chaos.md)

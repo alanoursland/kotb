@@ -1,6 +1,6 @@
 # 24. Hobgoblin Prison-Kitchen
 
-**Faction:** Karrgan's hobgoblins | **Role:** torture, playroom, and food storage | **Campaign issue:** the cannibalism fork
+**Faction:** Karrgan's hobgoblins | **Role:** torture, playroom, and food storage | **Campaign issue:** famine made institutional
 
 > Two enormous hobgoblins preside over a fire pit, torture implements, and six prisoners chained to the walls. Keys hang in the southwest corner.
 
@@ -16,7 +16,7 @@
 
 ## Run this area
 
-- Decide before play whether eating captives is famine-driven or culturally binding. That determines whether Karrgan can end the practice through trade or must surrender part of his authority and identity.
+- Eating captives is famine-driven but has become procedure, status, and public policy. Food can end the material need; the negotiation must let Karrgan replace the policy without appearing to lose command and must forbid taking replacement captives.
 - Keys to all chains are visible on the wall; freeing everyone without assessment creates immediate complications.
 
 ## Exits

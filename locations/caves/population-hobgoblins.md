@@ -45,7 +45,7 @@ Six captives chained to the walls of the [Prison-Kitchen](24-hobgoblin-prison-ki
 | Murz | Orc prisoner | Fights, then flees |
 | Renk | Traumatized gnoll | Attacks his rescuers |
 
-**Campaign issue: the cannibalism fork.** The room is torture chamber, playroom, and food storage at once — decide before play whether eating captives is famine-driven or culturally binding.
+**Campaign reading:** eating captives is famine-driven but has become institutional policy. Dependable food and a live-prisoner exchange can end it, provided Karrgan can present the change as successful command and the agreement forbids taking replacements.
 
 ## Alarm and reinforcement flow
 

@@ -10,6 +10,7 @@ A working GM reference for a reframed run of B2: *The Keep on the Borderlands*, 
 
 - **[Narrative](narrative/index.md)** — the campaign's progression: the critical-path spine and the leeway around it. *Built first; everything else hangs off it.*
 - **[Campaign](campaign/index.md)** — the run-it-at-the-table guide. Locations, encounters, session prep, the Caves themselves.
+- **[Scenarios](scenarios/README.md)** — linked interaction branches for negotiations, complications, investigations, and outcomes.
 - **[Locations](locations/index.md)** - live area references with actionable navigation links.
 - **[Characters](characters/index.md)** — NPC and faction profiles, playable cold.
 - **[Rules](rules/index.md)** — interlinking rules guides and tables for quick lookup during play.

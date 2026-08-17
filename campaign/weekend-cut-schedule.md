@@ -8,12 +8,12 @@
 
 ## Before the table (decide these now, not live)
 
-- **Settle [Karrgan's cannibalism fork](../narrative/progression.md)** — subsistence or cultural? There's no time to improvise something this load-bearing at the table. Pick one before August.
+- **Review [Karrgan's captive exchange](faction-negotiations.md#karrgans-hobgoblingoblin-bloc)** — the campaign default is famine-driven but institutionalized. Know how food ends the practice without rewarding replacement captives or publicly stripping Karrgan's authority.
 - **Pick your faction depth for beat 4** — this schedule assumes Khaeros (full), hobgoblins (full), bugbears (fight), and a fast montage of kobolds/orcs/gnolls. Adjust to taste, but decide in advance which factions get a scene and which get a paragraph.
 - **Pre-write your montage lines.** For everything you're compressing (the ogre's shopping trip, the kobolds, the orcs, the gnolls, the prisoners), write yourself 2-3 sentences of narration in advance. Improvising compression is *harder* than improvising a scene — you need the summary ready so you're not inventing on the clock.
 - **Simplify the Shrine's numbers.** Its 72 undead, living cultists, and hazards will eat your whole weekend if run as individual combatants. Decide now how you're abstracting them (mob rules, "waves" instead of individual zombies, a fixed number of rounds before reinforcements arrive) — see the Shrine block below.
 - **Decide how much table time the [Food Convoy](the-food-convoy.md) gets if proposed.** For a fast run, fold it into Buying the Peace: choose the goblin-allotment question and at most one complication, then narrate the remaining distribution. Do not add another full block unless you cut something else.
-- **Tell your players it's a greatest-hits pass.** Set the expectation before session one: this hits the thesis (Brundt, Khaeros, the cannibalism fork, the Iron Ring reveal) and treats the rest as color. Nobody should be surprised the lizardfolk get ninety seconds.
+- **Tell your players it's a greatest-hits pass.** Set the expectation before session one: this hits the thesis (Brundt, Khaeros, Karrgan's captive exchange, the Iron Ring reveal) and treats the rest as color. Nobody should be surprised the lizardfolk get ninety seconds.
 
 ---
 
@@ -42,7 +42,7 @@
 |---|---|---|
 | [Brundt's Briefing](brundts-briefing.md) | Short — fold into the tail end of block 3, or the top of block 4 | (~10 min, absorbed) |
 | [First Contact — the Minotaur](first-contact-the-minotaur.md) + [Khaeros's safe conduct](the-minotaur-at-the-keep.md) | **Full.** This is the emotional peak of the caves — protect it. | 1.5h |
-| Hobgoblins — [Karrgan](../characters/faction-leaders.md#hobgoblin-chief--karrgan) & the cannibalism fork | **Full scene.** The campaign's central open decision surfaces here. | 1h |
+| Hobgoblins — [Karrgan](../characters/faction-leaders.md#hobgoblin-chief--karrgan) & the captive exchange | **Full scene.** Food can end the practice, but only through terms that prevent replacements and preserve public command. | 1h |
 | Bugbears — fight, free [Skarn](../characters/skarn-the-rebel-bugbear.md) | Decisive, fast combat. No room-by-room clearance. | 1h |
 | Kobolds / Orcs / Gnolls | **Montage.** One roll or one short conversation each; consider giving the gnolls slightly more room since the "cleanest sheet" inversion lands even in 5 minutes. | 1h total |
 | [The Prisoners](the-prisoners.md) | Quick — resolve in one exchange or narrate the outcome. | 0.25h |

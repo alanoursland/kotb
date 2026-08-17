@@ -82,6 +82,7 @@ The essential scene sequence is:
 | Understand the campaign's argument and full secret | [overview.md](overview.md) |
 | See the critical path and what can be skipped | [narrative/progression.md](narrative/progression.md) |
 | Prepare or run a scene | [campaign/](campaign/index.md) |
+| Explore different approaches to an interaction | [scenarios/](scenarios/README.md) |
 | Play an NPC cold | [characters/](characters/index.md) |
 | Navigate the Keep live | [locations/keep/](locations/keep/index.md) |
 | Navigate the Caves live | [locations/caves/](locations/caves/index.md) |
@@ -92,7 +93,7 @@ The essential scene sequence is:
 | Check the source module text | [reference/README.md](reference/README.md) |
 | Use the compact repository hub | [index.md](index.md) |
 
-The [Keep](locations/keep/index.md), [Caves](locations/caves/index.md), [Northern Woods](locations/northern_woods/index.md), and [Southern Forest](locations/southern_forest/index.md) are organized like text adventures. Every area has descriptive exit links. Start at the [Main Gate](locations/keep/01-main-gate.md) in Riverfork, the [Ravine Floor](locations/caves/ravine.md) in the Caves, or either forest's roadside entry and follow those links during play. The rosters are lookup tools; do not try to memorize 223 soldiers and 101 civilians.
+The [Keep](locations/keep/index.md), [Caves](locations/caves/index.md), [Northern Woods](locations/northern_woods/index.md), and [Southern Forest](locations/southern_forest/index.md) are organized like text adventures. Every area has descriptive exit links. The [Scenarios](scenarios/README.md) use the same idea for player choices: follow approaches, complications, investigations, and outcomes instead of geographic exits. Start at the [Main Gate](locations/keep/01-main-gate.md) in Riverfork, the [Ravine Floor](locations/caves/ravine.md) in the Caves, either forest's roadside entry, or a scenario index and follow the relevant links during play. The rosters are lookup tools; do not try to memorize 223 soldiers and 101 civilians.
 
 Character profiles begin with a quick-reference table and then separate public behavior, private motive, table technique, and mechanics. Scene pages distinguish read-aloud text from DM guidance. Links are deliberately redundant so an iPad or browser can move between a person, their location, and the scene in which they matter.
 
@@ -140,9 +141,9 @@ Use a visible clock. When a segment expires, summarize the unresolved portion an
 
 ### Important campaign decisions still open
 
-Before running, review the open decisions at the end of [Narrative Progression](narrative/progression.md#open-decisions-yours-to-make--flagged-seams). The most important is whether the hobgoblins' cannibalism is a response to scarcity or a cultural institution; that choice changes whether trade can solve their hardest problem.
+Before running, review the open decisions at the end of [Narrative Progression](narrative/progression.md#open-decisions-yours-to-make--flagged-seams). Karrgan's captive-eating is now settled as famine-driven but institutionalized; the remaining decisions concern fallback routes, minor conspiracy details, and how much material receives full table time.
 
-Several names and setting interpretations are intentionally campaign-specific, and some profiles still mark provisional details. The [Rules section](rules/index.md) is currently empty. Use B/X or your preferred Basic-compatible rules for anything not specified here.
+Several names and setting interpretations are intentionally campaign-specific, and some profiles still mark provisional details. The [Rules section](rules/index.md) supplies compact Basic-compatible procedures; use B/X or your preferred Basic-compatible rules for anything not specified there.
 
 ## Design and source notes
 

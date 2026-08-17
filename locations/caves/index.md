@@ -15,6 +15,10 @@ Start at the [Ravine Floor](ravine.md). When the party enters a cave mouth, foll
 - [Cave H — Vargoth's bugbears](population-bugbears.md) - 25 total: 22 adults and three young; 17 captives across two pens.
 - [Cave K — the Shrine of Evil Chaos](population-cult.md) - 10 living cultists, 72 undead including the wight, a gelatinous cube, and Lysandra.
 
+## Faction play
+
+- [Faction Negotiations — Running the Caves in Any Order](../../campaign/faction-negotiations.md) - DM-facing interaction plans, terms, sabotage clues, and order-dependent changes for the core factions.
+
 ## Lairs and room navigation
 
 - **A — Kobolds:** [entrance passage](a-entrance-passage.md) · areas [1](01-kobold-guard-room.md), [2](02-giant-rat-refuse.md), [3](03-kobold-food-store.md), [4](04-kobold-inner-guard-room.md), [5](05-yiznaks-chamber.md), [6](06-kobold-common-chamber.md)

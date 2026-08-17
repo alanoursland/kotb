@@ -21,18 +21,15 @@ What the party has to read, fast:
 ---
 
 ## Hobgoblin chief — Karrgan
-*The most important chief: the officer corps, the integration risk, and the cannibalism fork in one person.*
+*The most important chief: the officer corps, the integration risk, and the captive exchange in one person.*
 
 **Pop. 63 hobgoblins; part of a ~89-warrior goblin alliance, plus Brundt.** Karrgan commands the most disciplined, organized, militaristic polity in the ravine — the natural **officer corps** of any federation, and the natural **threat** to it. He is a *commander,* not a brute: he keeps order by hierarchy, drill, and ritual; he respects strength and protocol; he deals with those who treat him as a **peer-commander,** not a supplicant or a monster.
 
 **What he wants:** security, respect, and a place where his discipline is an *asset* instead of a thing the others fear. To keep his people fed and his authority intact — and those two are the same thing.
 
-**The negotiation — the hardest in the ravine, because of the pot.** Karrgan's hobgoblins eat their captives. Whether that knot unties depends on the [open decision](../narrative/progression.md), and Karrgan is where it lives:
+**The negotiation — the hardest in the ravine, because of the pot.** Karrgan's hobgoblins eat their captives. The practice is **famine-driven but institutionalized:** Karrgan turned recurring necessity into procedure, hierarchy, and public feasts. He is essentially a quartermaster whose emergency policy has become part of command. A live captive worth more exchanged than eaten flips the material calculation, but the party must let him announce the change as a successful policy rather than a humiliating moral surrender.
 
-- **If subsistence** (the marsh is thin; meat is meat): Karrgan is essentially a **quartermaster.** A live captive worth more sold-back than eaten flips him on the first trade — he's a rational commander managing scarcity, and food dissolves the practice. Easiest read; cleanest deal.
-- **If cultural/ritual** (the feast is how he marks status, binds loyalty, *is* hobgoblin): you're asking him to stop being who he is, and trade threatens his **authority,** not just his larder. The Traladaran problem at maximum, embodied. Hardest read; maybe a genuine "no."
-
-**Decide which Karrgan is** before an envoy walks in — or let the party discover it the hard way. Either way, he is the chief whose answer most shapes the federation, and the ally most dangerous to over-arm: a hobgoblin officer corps loyal to *Karrgan* is one bad incentive from being a hobgoblin empire.
+Food therefore can end the practice, provided it is dependable and replacement captives are not rewarded. Karrgan remains the chief whose answer most shapes the federation, and the ally most dangerous to over-arm: a hobgoblin officer corps loyal to *Karrgan* is one bad incentive from becoming a hobgoblin empire. See the playable terms in [Faction Negotiations](../campaign/faction-negotiations.md#karrgans-hobgoblingoblin-bloc).
 
 **Player hook:** treating Karrgan as a fellow professional (chain of command, mutual deterrence, payroll-for-patrols) is the language he speaks — the same soldier's frame that wins [Valerian](castellan-valerian.md). The two commanders, human and hobgoblin, are mirror images; a sharp party notices.
 

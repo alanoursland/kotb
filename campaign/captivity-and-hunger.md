@@ -51,12 +51,10 @@ Same logic, but his bag already tells you he's eating better when he can (the ha
 ### Lizardfolk (swamp) — *alien pragmatism. Tradeable.*
 A *probable* yes, on a third logic again: the pragmatic, survival-keyed morality D&D lizardfolk tend toward — the dead are food, sentiment doesn't enter into it. Neither desperation nor cruelty, just practicality that doesn't flatter human feeling. That makes them an **easy federation candidate** — their "evil" is only values that don't comfort us. *(They're a [swamp thread](../narrative/progression.md), framed here as a reptilian offshoot of kobold.)*
 
-### Hobgoblins — *the one to watch. Subsistence or culture?*
-Theirs is **institutional**: prisoners kept specifically for the pot, scheduled banquets, a torture chamber that doubles as food storage. That raises the question the others answer for themselves and they don't —
-- **If subsistence** (the marsh is thin, meat is meat): trade dissolves it like it dissolves Khaeros.
-- **If cultural/ritual** (woven into status, ceremony, how a feast is marked): you're asking the most organized faction in the ravine to *stop being who they are* — the Traladaran problem at maximum, and the knot diplomacy genuinely snags on.
+### Hobgoblins — *subsistence made institutional*
+Theirs is **famine-driven but institutionalized**: prisoners kept specifically for the pot, scheduled banquets, and a torture chamber that doubles as food storage. Karrgan responded to recurring scarcity as a commander—by creating rules, duties, and status around it—until an emergency measure became normal government.
 
-**You must decide which before an envoy walks in.** This is the campaign's biggest open decision → [progression, open decisions](../narrative/progression.md).
+Trade can dissolve the material need, but not by pretending the institution never existed. A live captive worth more exchanged than eaten flips Karrgan's calculation; a dependable food bridge lets him announce a new, more profitable policy. The agreement must forbid replacement captive-taking and let the release read publicly as competent command rather than capitulation. See [Faction Negotiations](faction-negotiations.md#karrgans-hobgoblingoblin-bloc).
 
 ---
 
@@ -67,7 +65,7 @@ Theirs is **institutional**: prisoners kept specifically for the pot, scheduled 
 | **Khaeros** (minotaur) | Subsistence — and says so | Instantly. Proof of concept. |
 | **Brundt** (ogre) | Subsistence — already trading up | Instantly. Easiest case. |
 | **Lizardfolk** | Alien pragmatism | Yes — easy federation candidate. |
-| **Hobgoblins** | Possibly *institutional* | **Only if subsistence.** The open decision. |
+| **Hobgoblins** | Famine-driven, now institutional | **Yes, with dependable food and a no-replacement rule.** |
 | **Bugbears** | Not hunger at all — Iron Ring commerce | **No.** Resolves at the Baron, not the cave. |
 
 ## Links
