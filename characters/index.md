@@ -18,7 +18,7 @@ NPC and faction profiles, written to be played cold at the table — what they w
 - **[Captain Bohdan — "the Wall"](captain-bohdan.md)** — captain of the guard and the biggest man in the Keep, built on a presence the ogre dismantles. The party's day-to-day Keep face; the human echo of the thesis; an early ally who *gets it* before Valerian.
 - **[The Faction Leaders](faction-leaders.md)** — the six cave/marsh chiefs the party negotiates the federation through: Karrgan (hobgoblin), Yiznak (kobold), Gorrak & Ushka (feuding orcs), Maruk (gnoll), Vargoth (bugbear slaver), and Sessrik (marsh lizardfolk).
 - **[Lucan Vael — the Mad Hermit](the-mad-hermit.md)** — the third study in solitary intelligence; a settler broken by grief, ill not evil. The federation's care-category diagnostic: the case with no upside, and the truest test of the thesis.
-- **[Aldric Venn & the bandit camp](../campaign/the-bandit-camp.md)** *(in campaign/)* — the ex-Barony sergeant who lost Khaeros, now leading twelve starving misfits across the road. The human Khaeros; a willing witness against the Baron. Full roster of the twelve on the campaign page.
+- **[Aldric Venn & the bandit camp](../campaign/the-bandit-camp.md)** *(in campaign/)* — the ex-Barony sergeant who lost Khaeros, now leading twelve starving misfits across the road. The human Khaeros; willing to tell the party everything but unwilling to testify or enter ducal custody. Full roster of the twelve on the campaign page.
 
 ### Awaiting your notes
 *(none right now)*

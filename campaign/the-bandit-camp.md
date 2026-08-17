@@ -1,6 +1,6 @@
 # The Bandit Camp — "The Other Side of the Road"
 
-*Not in the module — B2 only suggests bandits as a post-caves complication. Placed here deep in the woods across the road from the caves: a small camp of twelve misfits who can't rejoin lawful society, suffering the same manufactured famine the caves suffer, just as frightened of the nights.*
+*Expanded from B2 wilderness area 3, the raider camp: twelve fighters hidden close enough to watch the Keep and far enough to avoid its patrols. Here they are twelve misfits who cannot rejoin lawful society, suffering the same manufactured famine as the caves and fighting the dead at night.*
 
 **Type:** outside mission / faction (human) · **Where:** deep woods, across the road from the [Caves of Chaos](caves-of-chaos.md) · **Hook:** the Castellan's vague reports of "raids by humans and monsters" — *these are the humans,* and [Valerian](../characters/castellan-valerian.md) knows little about them
 
@@ -10,7 +10,7 @@
 
 ## The core idea
 
-These are not the road's primary problem. They're a **relatively small group — twelve at most** — and they raid because they're **starving, exactly like the caves.** The [cult's undead destroy their food sources at night too](the-iron-ring.md); their nights are scary for the same reason the caves' are. They're a **collection of misfits banded together to survive** — some cast off by the [Black Eagle Barony](the-borderland.md), some from elsewhere, none able to live in normal society for various reasons.
+These are not the road's primary problem. They're a **relatively small group — twelve** — and they raid because they're **starving, exactly like the caves.** The cult's undead have damaged their food sources too, but the bandits have learned to ambush and destroy patrols that enter the southern woods. Their resistance is why the cult's influence south of the road is lighter. They're a **collection of misfits banded together to survive** — some cast off by the [Black Eagle Barony](the-borderland.md), some from elsewhere, none able to live in normal society for various reasons.
 
 They run the campaign's thesis **in reverse.** The party spent the caves learning the "monsters" were hungry people. Here are *humans* preying on the same road for the same reason — and nobody calls them monsters. They're "men who went wrong." Same crime, opposite label, purely by species. **The bandits are where the party stops being able to believe the danger was ever about *what* the predators were, and has to face that it was always about *why* — and the why is the same for monsters and men.**
 
@@ -23,7 +23,7 @@ They run the campaign's thesis **in reverse.** The party spent the caves learnin
 - **Triage, not a kill-box.** Like the caves, the camp sorts: the desperate (reachable — the federation's logic works on them), the ex-Barony (reachable *and* valuable, carrying grudges and knowledge), and the genuinely vicious (the control group — some can't be saved, and the party shouldn't pretend otherwise). The party runs the same sorting they ran in the caves, on their own kind, and finds it comes out the same way.
 - **Conspiracy is buried, not announced.** Some clues link the camp to the Baron, the Iron Ring, and Khaeros's escape. The party can clear the camp without understanding any of it and have the connection detonate *later* (when [Father Branislav](../characters/the-curate.md) — or another authority — reads the iron-ring mark, or [Khaeros](../characters/khaeros-the-minotaur.md) sees a piece of Barony gear and goes still). Don't front-load it.
 - **Keep the primary job clean.** First and most important, the bandits are *just desperate people on the wrong side of a label.* The Barony/minotaur threads are the bonus underneath. Don't let it become "the minotaur-handler dungeon."
-- **They're scared at night.** Play them as people under siege by the dark, not as confident predators. Their raids are desperate, not bold. A party that observes before attacking should see frightened, hungry people — which is the whole point.
+- **They're scared at night, but effective.** Play them as people under siege by the dark who have learned to fight back. They break skeletons, pin zombies, and post armed night watches. Their raids are desperate, not bold. Once they leave, undead activity in the south increases within a few nights.
 
 ---
 
@@ -36,12 +36,12 @@ They run the campaign's thesis **in reverse.** The party spent the caves learnin
 **Why he works as the leader:**
 
 - **He's the human [Khaeros](../characters/khaeros-the-minotaur.md) — the mirror image.** Both are men the Baron's machine chewed up; both fled inland and went to ground in the wilderness on opposite sides of the same road; both are surviving on competence and dread. The difference: Khaeros was the *cargo*, Aldric was the *handler.* They are the two ends of the same crime, and *neither knows the other is a few miles away.* Aldric lost the minotaur; the minotaur is in the caves; the party has met both. (See *The Minotaur Collision*, below.)
-- **He's reachable, but it costs him everything.** Aldric isn't vicious. He's a practical man doing wrong because the alternative was death and his people would starve. The federation's logic *can* reach him — offer his band food, amnesty, honest work, a way to stop running — and he'd take it, because he's tired and he's responsible for twelve people. **But** turning means facing the Baron's reach, testifying to what he did and saw, and carrying the guilt of the men who died when the minotaur broke loose. He's a man who could be redeemed and who isn't sure he deserves to be.
-- **He has the knowledge.** Aldric is the second human intelligence source on the conspiracy (with [Skarn the rebel bugbear](../characters/skarn-the-rebel-bugbear.md) and [Brundt](../characters/brundt-the-ogre.md) as the cave-side sources). He knows the Baron's northern smuggling route, the cove where shipments land, the transfer points where carts give way to boats, how the Iron Ring handles "acquisitions," and—the fact that turns frontier suspicion into a case—that the Black Eagle traffics in *thinking creatures.* He drove the cart. He's testimony with a cart-driver's certainty. See [The Iron Ring](the-iron-ring.md).
+- **He's reachable, but he will not come in.** Aldric isn't vicious. He's a practical man doing wrong because the alternative was death and his people would starve. The federation's logic can reach him far enough to stop the fight, tell the truth, and leave the borderland. It cannot persuade him to enter ducal custody. He believes Stefan's prolonged inaction toward his cousin amounts to complicity, and he knows his own Barony service included crimes under ducal law.
+- **He has the knowledge, but not the standing of a formal witness.** Aldric knows the Baron's northern smuggling route, the cove where shipments land, the transfer points where carts give way to boats, how handlers mark "acquisitions," and that the Black Eagle traffics in thinking creatures. He drove the cart. He will tell the party everything if talk succeeds, and Danica can record it, but he will not testify, sign a confession, or return to Riverfork. Physical evidence and Khaeros must carry the case where Aldric will not. See [The Iron Ring](the-iron-ring.md).
 
 **His tension, the thing that makes him interesting:** Aldric keeps his band alive by being *good at the bad thing.* He's a fair leader of a foul enterprise — he rations honestly, he protects his people, he's killed travelers to feed them and hated it. He's the proof that *competence and decency don't save you from circumstance* — a good sergeant in a bad cause, who ran from a worse cause, and is now running a slightly-less-bad cause because there's nothing else. The party offering him a *way out* is offering him the first non-terrible option he's had in years. Whether he can trust it — whether a man who served the Black Eagle believes the Duke's mercy is real — is the negotiation.
 
-**What he wants:** to keep his people alive, and, somewhere under that, to stop. To not be hunted. To put the cart and the dead men down. He won't say it. A sharp party will see it.
+**What he wants:** to keep his people alive, stop running in this particular forest, and escape both the Baron and the Duke's justice. If released, he gives his word that the band will leave and never return. He keeps it.
 
 ---
 
@@ -75,9 +75,7 @@ They run the campaign's thesis **in reverse.** The party spent the caves learnin
 
 **10. Vash** — Korsk's follower, a younger man being *made* vicious by the company he keeps — not yet irredeemable but heading there fast. *Hook: the fork made flesh — Vash could go either way, and which way depends on whether Korsk or Aldric (or the party) gets to him. The campaign's "[almost-corrupted recruit](../characters/the-hierophant.md)" theme, in human form.*
 
-**11. The Quiet One** — nobody knows much about them; keeps apart, kills efficiently, never explains. Possibly Iron Ring — an actual sworn member who *attached* to this band as cover, or who's watching it, rather than a castoff like the rest. *Hook: the deepest-in, the one who might carry the actual iron-ring sigil. If the camp has a true conspiracy connection beyond Aldric's lost-job knowledge, it's the Quiet One — a planted or hiding Ring member among genuine misfits. Optional: pull this thread if you want the camp actively tied to the Ring rather than just sediment from it.*
-
-**12. (open slot)** — left deliberately empty for a player connection, a recurring NPC, or whoever the table needs. A bandit who recognizes a PC, a former associate of a freed prisoner, a face from the Keep. Fill it at the table.
+**12. The Quiet One** — nobody knows much about them; keeps apart, kills efficiently, never explains. Possibly Iron Ring — an actual sworn member who *attached* to this band as cover, or who's watching it, rather than a castoff like the rest. *Hook: the deepest-in, the one who might carry the actual iron-ring sigil. If the camp has a true conspiracy connection beyond Aldric's lost-job knowledge, it's the Quiet One — a planted or hiding Ring member among genuine misfits. Optional: pull this thread if you want the camp actively tied to the Ring rather than just sediment from it.*
 
 ---
 
@@ -99,9 +97,17 @@ Either way, the camp **closes Khaeros's backstory into the present tense.** The 
 - **Barony gear** — equipment, a badge, livery, a brand that *some* bandits carry (the ex-Barony ones) and others don't, visually sorting the camp.
 - **The iron-ring sigil** — on one or two of the deepest-in (the Quiet One; maybe Hesk). The same mark that's in the temple and the bugbear slave-station, so the [three nodes start to rhyme](the-iron-ring.md).
 - **Orders / correspondence** referencing a shipment, an "acquisition," "the beast," or a failed delivery — manifest-level evidence tying the camp to Khaeros's route and the Baron's corridor.
-- **A spoken grudge** — Aldric, Hesk, or Mother Coll, parleyed with or captured, *talks*, because they hate the man who'd have them killed for one failure. The willing witness.
+- **A spoken grudge** — Aldric, Hesk, or Mother Coll, parleyed with or captured, *talks*, because they hate the man who'd have them killed for one failure. Aldric gives a detailed account but refuses to become a formal witness.
 
 As with every evidence-cache in the campaign: the party can carry these out without understanding them, and let the connection land later.
+
+## Encounter resolution
+
+The [Concordant Staff](../characters/father-demetrios-kallistos.md#the-concordant-staff) works on the living bandits and can break their first attack long enough to begin dialogue. A fight remains likely if the party demands unconditional surrender, Hesk panics, or Korsk forces the issue.
+
+The bandits do **not** fight to extinction. Check morale after their first casualty, when Aldric is incapacitated, and when half the band can no longer fight. A failed group check means surrender; Aldric orders every survivor present to put down arms. He talks after a successful parley or surrender if his people are not being slaughtered.
+
+Whether encountered peacefully, defeated, or merely convinced that the camp has been found, the bandits leave the region. If the party releases them, Aldric promises never to return and keeps his word. They do not become recurring antagonists. After they are gone, the undead they had been destroying begin moving through the southern woods in greater numbers.
 
 ---
 
@@ -114,7 +120,7 @@ As with every evidence-cache in the campaign: the party can carry these out with
 
 ---
 
-*Entirely campaign invention — B2 only suggests bandits exist. Built as the human mirror of the caves: same famine, same fear, same outcast logic, with a buried thread to the Baron, the Iron Ring, and the minotaur's escape.*
+*B2 supplies the twelve-person raider camp, combat array, and basic stores. Aldric, the individual members, the human-mirror framing, the undead suppression, and the connection to the Baron, Iron Ring, and Khaeros are campaign inventions.*
 
 ## Links
 - The mission hook: [The Keep — Valerian's Missions](the-keep-arrival-and-hub.md)
@@ -123,3 +129,4 @@ As with every evidence-cache in the campaign: the party can carry these out with
 - The earlier stage of the same displacement: [The Prisoners](the-prisoners.md)
 - The frontier and the corridor: [The Borderland](the-borderland.md)
 - Spine: [Progression — beat 4 & optional threads](../narrative/progression.md)
+- Live-use location: [Southern Forest and Northern Fens](../locations/southern_forest/index.md)

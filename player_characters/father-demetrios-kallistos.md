@@ -89,13 +89,13 @@ The staff continuously supplies a modified form of the 6th-level clerical prayer
 
 ### Speak with Monsters
 
-Within 30 feet, Demetrios may address any **living** creature. Even unintelligent living creatures understand his questions and can make whatever response they are capable of giving. The staff has no effect on undead.
+Within 30 feet, Demetrios may address any **living creature that possesses a form of language**. The staff translates languages; it does not create language, self-awareness, or a reasoning mind. Ordinary animals—including giant black widow spiders—are unaffected. The staff also has no effect on undead.
 
-Activating the staff **breaks an attack** by living creatures. Every living creature within 30 feet stops attacking and listens for **one full turn**—10 minutes, or 60 combat rounds. This affects living creatures already charging, shooting, or fighting when the invocation is made. It does not interrupt an attacker outside the area, and undead inside the area continue acting normally.
+Activating the staff **breaks an attack** by language-using living creatures. Every eligible creature within 30 feet stops attacking and listens for **one full turn**—10 minutes, or 60 combat rounds. This affects eligible creatures already charging, shooting, or fighting when the invocation is made. Animals, undead, and attackers outside the area continue acting normally.
 
 During that turn:
 
-- Every living language-using creature in the area can understand and be understood by every other living language-using creature there. Everyone except Demetrios may converse freely. The staff translates words, not lies, metaphors, etiquette, motives, or cultural assumptions.
+- Every affected creature in the area can understand and be understood by every other affected creature there. Everyone except Demetrios may converse freely. The staff translates words, not lies, metaphors, etiquette, motives, or cultural assumptions.
 - Demetrios remains limited to one question each round because activating and sustaining the staff consumes his attention.
 - A question asked by Demetrios receives **+2 on any reaction or negotiation check made to determine whether the recipient answers**. If no roll is appropriate, treat the recipient as noticeably more willing to answer than normal.
 - No one is compelled to answer, and an answer may be incomplete, evasive, or deliberately false.
