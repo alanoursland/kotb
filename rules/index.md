@@ -4,7 +4,7 @@ Interlinking guides and tables for quick lookup during play — the mechanical r
 
 ## Pages
 
-*Empty for now. Rules pages and tables get added as we hit a real need for them at the table.*
+- [Running Combat — Basic D&D](combat.md) — side initiative, attack rolls, spells, turning, movement, morale, and a fast table procedure.
 
 ## Related
 
