@@ -11,7 +11,8 @@
 - **Settle [Karrgan's cannibalism fork](../narrative/progression.md)** — subsistence or cultural? There's no time to improvise something this load-bearing at the table. Pick one before August.
 - **Pick your faction depth for beat 4** — this schedule assumes Khaeros (full), hobgoblins (full), bugbears (fight), and a fast montage of kobolds/orcs/gnolls. Adjust to taste, but decide in advance which factions get a scene and which get a paragraph.
 - **Pre-write your montage lines.** For everything you're compressing (the ogre's shopping trip, the kobolds, the orcs, the gnolls, the prisoners), write yourself 2-3 sentences of narration in advance. Improvising compression is *harder* than improvising a scene — you need the summary ready so you're not inventing on the clock.
-- **Simplify the Shrine's numbers.** 85 undead as individual combatants will eat your whole weekend on its own. Decide now how you're abstracting it (mob rules, "waves" instead of individual zombies, a fixed number of rounds before reinforcements arrive) — see the Shrine block below.
+- **Simplify the Shrine's numbers.** Its 72 undead, living cultists, and hazards will eat your whole weekend if run as individual combatants. Decide now how you're abstracting them (mob rules, "waves" instead of individual zombies, a fixed number of rounds before reinforcements arrive) — see the Shrine block below.
+- **Decide how much table time the [Food Convoy](the-food-convoy.md) gets if proposed.** For a fast run, fold it into Buying the Peace: choose the goblin-allotment question and at most one complication, then narrate the remaining distribution. Do not add another full block unless you cut something else.
 - **Tell your players it's a greatest-hits pass.** Set the expectation before session one: this hits the thesis (Brundt, Khaeros, the cannibalism fork, the Iron Ring reveal) and treats the rest as color. Nobody should be surprised the lizardfolk get ninety seconds.
 
 ---
@@ -40,7 +41,7 @@
 | Sub-scene | Treatment | Budget |
 |---|---|---|
 | [Brundt's Briefing](brundts-briefing.md) | Short — fold into the tail end of block 3, or the top of block 4 | (~10 min, absorbed) |
-| [First Contact — the Minotaur](first-contact-the-minotaur.md) + [hiring Khaeros](the-minotaur-at-the-keep.md) | **Full.** This is the emotional peak of the caves — protect it. | 1.5h |
+| [First Contact — the Minotaur](first-contact-the-minotaur.md) + [Khaeros's safe conduct](the-minotaur-at-the-keep.md) | **Full.** This is the emotional peak of the caves — protect it. | 1.5h |
 | Hobgoblins — [Karrgan](../characters/faction-leaders.md#hobgoblin-chief--karrgan) & the cannibalism fork | **Full scene.** The campaign's central open decision surfaces here. | 1h |
 | Bugbears — fight, free [Skarn](../characters/skarn-the-rebel-bugbear.md) | Decisive, fast combat. No room-by-room clearance. | 1h |
 | Kobolds / Orcs / Gnolls | **Montage.** One roll or one short conversation each; consider giving the gnolls slightly more room since the "cleanest sheet" inversion lands even in 5 minutes. | 1h total |
@@ -57,8 +58,8 @@
 
 - **3b, the ogre's shopping trip:** keep the gate tension (Part 2) and the Eagle-scrip reveal (Part 6) — that's the scene's emotional core. Narrate the bath/barber/furniture montage in a few sentences. Skip straight from "he's admitted" to "and here's what he buys, one line each" to the false gold.
 - **The caves montage (kobolds/orcs/gnolls):** one line of color, one roll (reaction or negotiation check) if you want stakes, one line of outcome. Example: *"The kobolds are wary but practical — offer them anything and they'll trade tunnel-knowledge for food. Roll it, or just say yes."*
-- **The Shrine:** treat it as 3-4 set-piece rooms, not a level. Abstract the 85 undead into 2-3 "waves" or a mob-rule mass instead of individual stat blocks. Protect three linked moments: [Mara's visible chance to surrender](../characters/mara-sokol.md#if-the-party-is-moving-fast), [the Hierophant's suicide-ascension](../characters/the-hierophant.md), and the [iron-ring symbols](the-iron-ring.md). Together they are the mercy, tragedy, and evidence of the climax.
-- **Buying the Peace:** one conversation with [Valerian](../characters/castellan-valerian.md), using whatever proof-of-concept the table built (Brundt, Khaeros, Skarn). Don't reopen every faction — this is the political climax, not an audit.
+- **The Shrine:** treat it as 3-4 set-piece rooms, not a level. Abstract the 72 undead into 2-3 "waves" or a mob-rule mass instead of individual stat blocks. Protect three linked moments: [Mara's visible chance to surrender](../characters/mara-sokol.md#if-the-party-is-moving-fast), [the Hierophant's suicide-ascension](../characters/the-hierophant.md), and the [iron-ring symbols](the-iron-ring.md). Together they are the mercy, tragedy, and evidence of the climax.
+- **Buying the Peace:** one conversation with [Valerian](../characters/castellan-valerian.md), using whatever proof-of-concept the table built (Brundt, Khaeros, Skarn). If the players launch [The Food Convoy](the-food-convoy.md), resolve authorization, one distribution choice, and one complication or montage; the delivery is the visual payoff, not a second faction-by-faction audit.
 - **The Horizon:** this is narration, not a scene. The Curate names the Iron Ring; the thread toward Bargle and the Baron opens; end on the campaign's actual thesis line. Ten minutes, maybe less.
 
 ## Multi-character notes

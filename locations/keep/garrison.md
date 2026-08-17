@@ -90,7 +90,7 @@ Their size is their only distinction. They remain low-ranking soldiers under Boh
 - The mounted troop sends short road patrols daily and meets important supply convoys before they reach the Keep. A serious alarm recalls riders and resting tower files.
 - The garrison eats regular ducal issue supplemented by purchases from local merchants. Supply work is routine and professional, not desperate.
 - Not counted here: the bailiff, entry scribe, stable hands, farriers, smiths, warehouse laborers, servants, civilian clergy, inn staff, merchants, or adventurers. They support the post but are not soldiers.
-- [Khaeros](../../characters/khaeros-the-minotaur.md), if the party wins him a place, joins later as a probationary guard under Bohdan and is **not** included in this baseline roster.
+- [Khaeros](../../characters/khaeros-the-minotaur.md), if he later chooses Valerian's probationary offer, serves under Bohdan and is **not** included in this baseline roster. His Writ of Peace and Passage does not depend on accepting the post; his likely first contract is guarding a Guild caravan to Specularum.
 
 ## Roster by post
 

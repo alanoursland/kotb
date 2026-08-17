@@ -10,7 +10,7 @@
 - The corporal of the watch holds the keys and must be summoned for access.
 - Typical contents include two wagons, a cart, foodstuffs, cloth, arrows, bolts, salt, and two tuns of wine.
 - Regular ducal convoys and private caravans make this a busy transfer point. Goods are plentiful, but ownership and manifests still matter.
-- A future food bridge to the caves can run through this building once command authorizes expanded deliveries and the Guild arranges transport and accounting.
+- A future food bridge to the caves can run through this building once command authorizes expanded deliveries and the Guild arranges transport and accounting. The optional mass-delivery scenario is [The Food Convoy](../../campaign/the-food-convoy.md).
 
 ## Useful interactions
 

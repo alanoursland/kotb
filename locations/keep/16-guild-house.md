@@ -56,6 +56,8 @@ A temporary experiment can be approved locally. A permanent trade compact with t
 
 The food bridge is possible because the Keep is supplied. The conflict is who authorizes the extension, who pays, and whether the Guild treats the caves as customers, contractors, or enemies receiving tribute.
 
+If the players propose a public emergency distribution at the ravine, use [The Food Convoy](../../campaign/the-food-convoy.md). Mihail can approve one experiment locally; its success does not settle the Guild's terms for recurring trade.
+
 ## The wider Guild
 
 - Anton Radu's organization operates caravan and shipping networks linking Karameikos to foreign markets.
