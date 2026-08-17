@@ -23,7 +23,7 @@ What the party has to read, fast:
 ## Hobgoblin chief — Karrgan
 *The most important chief: the officer corps, the integration risk, and the cannibalism fork in one person.*
 
-**Pop. ~90 + 1 ogre.** Karrgan commands the most disciplined, organized, militaristic polity in the ravine — the natural **officer corps** of any federation, and the natural **threat** to it. He is a *commander,* not a brute: he keeps order by hierarchy, drill, and ritual; he respects strength and protocol; he deals with those who treat him as a **peer-commander,** not a supplicant or a monster.
+**Pop. 63 hobgoblins; part of a ~89-warrior goblin alliance, plus Brundt.** Karrgan commands the most disciplined, organized, militaristic polity in the ravine — the natural **officer corps** of any federation, and the natural **threat** to it. He is a *commander,* not a brute: he keeps order by hierarchy, drill, and ritual; he respects strength and protocol; he deals with those who treat him as a **peer-commander,** not a supplicant or a monster.
 
 **What he wants:** security, respect, and a place where his discipline is an *asset* instead of a thing the others fear. To keep his people fed and his authority intact — and those two are the same thing.
 
@@ -84,7 +84,7 @@ What the party has to read, fast:
 ## Bugbear chief — Vargoth, "the Welcomer"
 *The villain chief. Not a polity to integrate — a cell to destroy.*
 
-**Pop. ~22.** Vargoth runs the slave-station: welcome signs at the door, chains for the guests who answer. In this campaign he is **witting Iron Ring** — the **intake boss** of the Black Eagle's pipeline (see [The Iron Ring](../campaign/the-iron-ring.md), [Captivity & Hunger](../campaign/captivity-and-hunger.md)). His epithet is his method: hospitality as the bait of a trap.
+**Pop. 25 total: 22 adults and 3 young.** Vargoth runs the slave-station: welcome signs at the door, chains for the guests who answer. In this campaign he is **witting Iron Ring** — the **intake boss** of the Black Eagle's pipeline (see [The Iron Ring](../campaign/the-iron-ring.md), [Captivity & Hunger](../campaign/captivity-and-hunger.md)). His epithet is his method: hospitality as the bait of a trap.
 
 **What he wants:** profit and power, and to keep the carts moving upcountry. He will **feign peace** to gather intelligence on the federation and betray it when it pays.
 

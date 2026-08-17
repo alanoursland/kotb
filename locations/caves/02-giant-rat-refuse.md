@@ -7,7 +7,7 @@
 ## Run this area
 
 - Seventeen giant rats: AC 7, HD 1/2, hp 2, bite 1d3 plus disease, ML 8.
-- Rat leader: AC 5, HD 1-1, hp 4, two bites for 2d4/2d4, ML 8.
+- Rat leader: AC 5, HD 1-1, hp 4, two attacks for 2–4 damage each, ML 8.
 - Each bite carries the module's 1-in-20 disease chance. A failed poison save means either death in 1d6 days (25%) or one month too sick to adventure.
 - The rats rush toward the pit lid closing or fighting in the outer guard room. Their weight does not trigger the pit.
 - The leader wears a silver chain set with five gems: 400 gp as jewelry, or 50 gp chain plus five 50 gp gems.

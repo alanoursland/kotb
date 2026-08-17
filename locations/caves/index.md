@@ -7,6 +7,16 @@ Start at the [Ravine Floor](ravine.md). When the party enters a cave mouth, foll
 ## Topology
 
 - [Topology and connection audit](topology.md) - the complete navigational graph, including secret doors and inter-lair routes.
+
+## Population sheets
+
+- [Cave A — Yiznak's kobolds](population-kobolds.md) - 71 kobolds, the rats, no prisoners.
+- [Cave F — Karrgan's hobgoblins](population-hobgoblins.md) - 63 total: 59 at home and four mobile looters; six prisoners, five of them named.
+- [Cave H — Vargoth's bugbears](population-bugbears.md) - 25 total: 22 adults and three young; 17 captives across two pens.
+- [Cave K — the Shrine of Evil Chaos](population-cult.md) - 10 living cultists, 72 undead including the wight, a gelatinous cube, and Lysandra.
+
+## Lairs and room navigation
+
 - **A — Kobolds:** [entrance passage](a-entrance-passage.md) · areas [1](01-kobold-guard-room.md), [2](02-giant-rat-refuse.md), [3](03-kobold-food-store.md), [4](04-kobold-inner-guard-room.md), [5](05-yiznaks-chamber.md), [6](06-kobold-common-chamber.md)
 - **B — Gorrak's orcs:** [entrance passage](b-entrance-passage.md) · areas [7](07-gorraks-guard-room.md)–[12](12-gorraks-chamber.md)
 - **C — Ushka's orcs:** [entrance passage](c-entrance-passage.md) · areas [13](13-orc-moot-room.md)–[16](16-ushkas-chamber.md)

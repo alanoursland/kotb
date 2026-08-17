@@ -2,7 +2,7 @@
 
 The polities of the ravine, sorted by the only questions that matter: **Is it a society? Does it live by preying on the group it's being asked to join? Does it produce anything but negation?** Alignment labels track nothing here.
 
-> Reference for **[spine beat 4 — Walking the Caves](../narrative/progression.md)**. Populations are the published B2 figures, kept as-is.
+> Reference for **[spine beat 4 — Walking the Caves](../narrative/progression.md)**. Counts come from B2; the population sheets distinguish total residents, who is currently home, mobile parties, and armed strength.
 
 > **Live room navigation:** start at the [Ravine Floor](../locations/caves/ravine.md), use the [Caves location index](../locations/caves/index.md), or audit connections on the [topological map](../locations/caves/topology.md).
 
@@ -13,8 +13,8 @@ The polities of the ravine, sorted by the only questions that matter: **Is it a 
 | Easy integration | **Kobolds** | ~71 | Poor engineers and trap-makers who live in the muck no one else will dig. |
 | Easy integration | **Gnolls** | ~52 | The model citizens — no genuinely problematic behavior in the text. |
 | Easy integration | **Orcs** | ~77 | Civilized, armed, a little magic, paranoid; deterrence is statecraft, not savagery. |
-| Hard case | **Hobgoblins** ("goblins") | ~90 +1 ogre | The natural officer corps — disciplined, militaristic — who eat their captives. |
-| Hard case | **Bugbears** | ~22 | "Civilized" slavers; witting Iron Ring. The one living faction you fight, not feed. |
+| Hard case | **Hobgoblins** ("goblins") | 63 hobgoblins; ~89 armed in the goblin alliance +1 ogre | The natural officer corps — disciplined, militaristic — who eat their captives. |
+| Hard case | **Bugbears** | 25 total; 22 adults | "Civilized" slavers; witting Iron Ring. The one living faction you fight, not feed. |
 | Wildlife | **Shunned Caverns** | — | Owlbear, gray ooze, stirges, fire beetles. Weather and predators, not diplomacy. |
 | Irreducible evil | **Shrine of Evil Chaos** | (see below) | Cult of Thanatos manufacturing the famine. No trade possible. |
 
@@ -39,15 +39,17 @@ Civilized, well-armed, a little magic, paranoid; they put heads on pikes as dete
 
 ## Hard cases — *a society must change, not merely submit*
 
-### Hobgoblins (~90 + 1 ogre)
+### Hobgoblins (63; part of a ~89-warrior goblin alliance + Brundt)
 Organized, disciplined, militaristic — the natural officer corps of any federation — and they keep **prisoners as food, not labor** (the room with two big hobgoblins, the whip, six chained captives, scheduled for the pot).
+- **Count:** 59 live in cave F and four more are raiding the goblin store in area 21. The older “~90 + 1 ogre” shorthand is the combined armed strength of the hobgoblins and their goblin subjects, plus Brundt—not the hobgoblin population.
 - **Leader:** [Karrgan](../characters/faction-leaders.md#hobgoblin-chief--karrgan) — the peer-commander where the cannibalism fork and the integration risk both live. The most important chief.
 - **Challenge:** the cannibalism is the knot diplomacy genuinely snags on. If it's *subsistence,* trade dissolves it — a prisoner is worth more **alive and sold back** than eaten, so a food-for-prisoners market flips them on the first trade (the campaign's humanitarian pilot program, and it *works*). If it's *cultural/ritual* (scheduled banquets, the torture chamber as larder), you're asking them to stop being who they are — the Traladaran problem at maximum.
 - **Bonus danger:** the faction most able to dominate the others or break away. The more you empower them, the bigger the internal risk you create.
 - **Open decision:** subsistence vs. cultural is [undecided](../narrative/progression.md) — it determines whether they're integrable. **Full logic:** [Captivity & Hunger](captivity-and-hunger.md).
 
-### Bugbears (~22)
+### Bugbears (25 total; 22 adults)
 Strong, "civilized," put up welcome signs and enslave the guests who answer them — held in **two pens** (rooms 40 & 41), a deliberately mixed lot (human and demi-human alike, no species line — to them everyone is *stock*). In this campaign they're **witting Iron Ring,** the **intake** end of the Black Eagle's pipeline.
+- **Count:** 20 adults and three young are normally in cave H. Two adult hunters are away when the lair is first entered and return the following day.
 - **Leader:** [Vargoth, "the Welcomer"](../characters/faction-leaders.md#bugbear-chief--vargoth-the-welcomer) — the slaver-boss; the one villain chief, the one you fight. He caged Skarn.
 - **Challenge:** the one living faction you *can't* integrate, because they've freely chosen the worst side. Their slaves are priced above what the food market can pay — proof of a richer buyer upcountry — and they weaponize their welcome to betray the peace. **You don't feed them out of it; you fight them.**
 - **The trap:** the party can't buy-and-free the slaves (can't afford it, and paying slavers funds the next capture). Bugbear slavery **doesn't resolve in the ravine — it resolves at the Baron.** Symptom, not disease.
@@ -61,7 +63,7 @@ Owlbear, gray ooze, stirges, fire beetles.
 - **Challenge:** management, not negotiation. These are weather and predators — threats to cave-dweller and traveler alike. **Clearing the owlbear is a concrete favor the residents already want done** — the party earns trust without a single speech.
 
 ## The Shrine of Evil Chaos — *the irreducible evil*
-39 zombies, 32 skeletons, 9 clerics, a torture chief, a wight, a gelatinous cube, and a captive medusa. A **cult of Thanatos** (Sphere of Entropy) wearing a Traladaran-liberation mask, unknowingly an **Iron Ring** node, **manufacturing the famine** that starves the caves into raiding.
+Ten living cultists (nine clerics and a torture chief), 39 zombies, 32 skeletons, a sealed wight, a gelatinous cube, and a captive medusa. A **cult of Thanatos** (Sphere of Entropy) wearing a Traladaran-liberation mask, unknowingly an **Iron Ring** node, **manufacturing the famine** that starves the caves into raiding.
 - **Challenge:** the one cave where the whole playbook fails — Entropy wants what everyone has and offers nothing. No interest to satisfy, no trade to make. **It must be destroyed** — but with the **Church of Traladar's** legitimacy, not the state Church of Karameikos (which manufactures martyrs and breeds the next cell). The head cleric **suicide-ascends** rather than be captured, so the truth surfaces through the body and **[Mara Sokol, the newest recruit](../characters/mara-sokol.md),** not interrogation.
 - **The unread smoking gun:** the cult wears symbols *alien to Traladaran faith* — above all **iron rings on cords around the neck.** Only a Church of Traladar cleric recognizes them as foreign; nobody in the party, Demetrios included, knows the name *the Iron Ring.* The party may carry the rings out as evidence without grasping what they are. Pays off at [beat 8](../narrative/progression.md).
 - **Its leader:** [Vesna, the Hierophant](../characters/the-hierophant.md) — a Traladaran patriot who serves the Baron they hate and dies thinking they're the hero; built to suicide-ascend, so the truth comes through the body and **[Mara Sokol](../characters/mara-sokol.md), the newest recruit**, not interrogation.
