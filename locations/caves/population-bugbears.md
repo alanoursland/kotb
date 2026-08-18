@@ -6,6 +6,8 @@
 
 Use this sheet for the intake pipeline, the pen manifests, and what dismantling the cell leaves you holding. Room-by-room details stay on the area sheets.
 
+**Playable interaction branches:** [Bugbear Negotiations — The Welcome That Breaks](../../scenarios/bugbear_negotiations/index.md)
+
 ## Strength by area
 
 | Area | Count | Occupants |

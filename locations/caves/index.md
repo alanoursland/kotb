@@ -18,6 +18,7 @@ Start at the [Ravine Floor](ravine.md). When the party enters a cave mouth, foll
 ## Faction play
 
 - [Faction Negotiations — Running the Caves in Any Order](../../campaign/faction-negotiations.md) - DM-facing interaction plans, terms, sabotage clues, and order-dependent changes for the core factions.
+- [Scenario branches](../../scenarios/README.md) - detailed linked approaches for Yiznak, Karrgan, Vargoth, and the Shrine.
 
 ## Lairs and room navigation
 

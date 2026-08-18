@@ -6,6 +6,8 @@
 
 Use this sheet for head counts, the warning-relay cascade, and the prisoner manifest. Room-by-room details stay on the area sheets.
 
+**Playable interaction branches:** [Hobgoblin Negotiations](../../scenarios/hobgoblin_negotiations/index.md)
+
 ## Strength by area
 
 | Area | Count | Occupants |

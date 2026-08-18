@@ -6,6 +6,8 @@
 
 Use this sheet for the undead order of battle, the bell cascade, and who counts as a person in cave K. Room-by-room details stay on the area sheets.
 
+**Dungeon and interaction guide:** [The Shrine of Evil Chaos](../../scenarios/cult_shrine/index.md)
+
 ## Strength by area
 
 | Area | Count | Occupants |

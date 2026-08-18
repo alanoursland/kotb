@@ -27,6 +27,16 @@ A shallow compartment beneath the writing table holds correspondence Vesna inten
 
 Anyone who compares these papers with the prisoners in [areas 40](40-bugbear-slave-pen.md) and [41](41-skarns-slave-pen.md) can match the counts exactly. Showing the papers to Karrgan or Yiznak establishes that the bugbears threatened their people and planned to sabotage negotiations.
 
+## Western patron fragments
+
+Stored separately from Vargoth's local correspondence are three pieces Vesna understood as support from foreign friends of Traladaran liberation:
+
+- a cloth purse containing eighteen **Eagles**, the Black Eagle Barony's gold-washed lead scrip, recorded in Vesna's account as “western crowns”;
+- a half-burned courier memorandum bearing the same destination glyph and collection dates found in Vargoth's papers, with a route south through the fens before turning west;
+- a broken black-wax seal preserving an eagle's wing and talon but no complete name or title.
+
+These clues point toward the Black Eagle Barony without proving who sent them or what they purchased. Eagles circulate near the frontier, reused seals and crates can travel, and the route is incomplete. Combined with Vargoth's payment chain, Khaeros's testimony, and southern route evidence, they become part of the case Vesna never understood.
+
 ## Room hazards and escape
 
 - Demon idol above the bed topples for 2d6 damage if touched by anyone but Vesna; two gem eyes worth 100 gp each.

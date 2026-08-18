@@ -135,6 +135,8 @@ Yiznak suspends terms and demands an explanation; he does not launch a suicidal 
 
 **Leader:** [Karrgan](../characters/faction-leaders.md#hobgoblin-chief--karrgan) | **Meeting places:** [feast hall](../locations/caves/25-hobgoblin-feast-hall.md) or [Karrgan's quarters](../locations/caves/30-karrgans-quarters.md) | **Population:** [63 hobgoblins](../locations/caves/population-hobgoblins.md), plus the dependent goblin ward
 
+**Expanded playable branches:** [Hobgoblin Negotiations scenario set](../scenarios/hobgoblin_negotiations/index.md)
+
 ### Campaign default used here
 
 The eating of captives is **famine-driven but institutionalized**, not a sacred obligation. Karrgan has turned emergency food into procedure, status, and discipline because commanders turn recurring necessity into rules. A dependable food supply gives him a practical reason to end it, but he needs the change presented publicly as a successful command decision rather than moral submission.
@@ -230,6 +232,8 @@ Karrgan's response is formal: detention at the threshold, presentation of the ac
 
 **Leader:** [Vargoth “the Welcomer”](../characters/faction-leaders.md#bugbear-chief--vargoth-the-welcomer) | **Entry:** [welcome passage](../locations/caves/h-entry-passage.md) | **Population and captives:** [Cave H sheet](../locations/caves/population-bugbears.md)
 
+**Expanded playable branches:** [Bugbear Negotiations — The Welcome That Breaks](../scenarios/bugbear_negotiations/index.md)
+
 ### The apparent negotiation
 
 Vargoth offers exactly what the party wishes the other factions had offered:
@@ -289,6 +293,8 @@ Killing Vargoth without finding prisoners or records proves only that the party 
 ## The Shrine and the cult of Thanatos
 
 **Leader:** [Vesna](../characters/the-hierophant.md) | **Reachable cultist:** [Mara Sokol](../characters/mara-sokol.md) | **Forces and evidence route:** [Shrine population sheet](../locations/caves/population-cult.md)
+
+**Expanded dungeon and interaction guide:** [The Shrine of Evil Chaos scenario set](../scenarios/cult_shrine/index.md)
 
 ### There is no faction bargain
 

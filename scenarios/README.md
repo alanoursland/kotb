@@ -5,12 +5,15 @@ Scenario folders explore situations the way location folders explore geography. 
 ## Available scenario sets
 
 - [Kobold Negotiations](kobold_negotiations/index.md) — approaches to Yiznak, terms for food and engineering work, order-dependent changes, optional bugbear sabotage, and ways to preserve the agreement without solving the conspiracy.
+- [Hobgoblin Negotiations](hobgoblin_negotiations/index.md) — formal entry, commander-level bargaining, food for prisoners without replacement-taking, the goblin ward, false evidence, and recoverable inquiry.
+- [Bugbear Negotiations — The Welcome That Breaks](bugbear_negotiations/index.md) — Vargoth's false hospitality, fair warning signs, the inevitable breakdown, alarm flow, prison rescue, and Iron Ring evidence.
+- [The Shrine of Evil Chaos](cult_shrine/index.md) — assault preparation, dungeon routes, living surrender opportunities, undead waves, Vesna's climax, and clues connecting the cult to Vargoth and the Black Eagle route.
 
 ## Planned scenario sets
 
-- Hobgoblin negotiations
-- The bugbear welcome and betrayal
-- The Shrine and its surviving witnesses
+- Orc negotiations and the two-chief feud
+- Gnoll negotiations and the hidden Shrine route
+- The final multi-faction food settlement
 
 ## How to use these files
 

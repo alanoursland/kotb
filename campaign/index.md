@@ -15,6 +15,7 @@ The run-it-at-the-table guide: locations, the Caves of Chaos themselves, encount
 - **[Khaeros at the Keep — Safe Conduct](the-minotaur-at-the-keep.md)** — Valerian recognizes Khaeros as a free traveler; Mihail offers a caravan contract toward Specularum, while the garrison and Thyatis remain genuine alternatives. *(Follows beat 4.)*
 - **[The Food Convoy](the-food-convoy.md)** — an optional mass relief run to the ravine: authorization, faction allotments, the goblin question, sabotage choices, and the bridge that must follow. *(Flexible; strongest before or during beat 7.)*
 - **[Faction Negotiations — Running the Caves in Any Order](faction-negotiations.md)** — the DM playbook for Yiznak, Karrgan, Vargoth, and the Shrine: openings, leverage, concrete terms, recoverable failures, bugbear sabotage, and five viable orders through the caves. *(Beats 4–7.)*
+- **[Scenario branches](../scenarios/README.md)** — linked, table-facing paths for kobold and hobgoblin diplomacy, Vargoth's false negotiation, and the Shrine dungeon.
 - **[The Caves of Chaos — Roster](caves-of-chaos.md)** — the polities of the ravine, sorted by behavior not label. *(Spine beat 4.)*
 - **[Captivity & Hunger](captivity-and-hunger.md)** — the economic logic of slavery, prisoners, and cannibalism: what trade can fix and what only resolves at the Baron.
 - **[The Prisoners](the-prisoners.md)** — the control group: five freed captives who prove the thesis with the party's own hands. Circumstance predicts behavior; species predicts nothing.

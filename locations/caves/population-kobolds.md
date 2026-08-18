@@ -6,6 +6,8 @@
 
 Use this sheet when you need the whole tribe at once: a head count after a fight, an alarm cascade, or the stakes of a negotiation. Room-by-room details stay on the area sheets.
 
+**Playable interaction branches:** [Kobold Negotiations](../../scenarios/kobold_negotiations/index.md)
+
 ## Strength by area
 
 | Area | Count | Occupants |

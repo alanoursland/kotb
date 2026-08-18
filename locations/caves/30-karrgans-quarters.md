@@ -12,7 +12,7 @@
 ## Run this area
 
 - Treat Karrgan as a peer commander. He understands chains of command, deterrence, patrol obligations, provisioning, and enforceable terms.
-- The negotiation turns on prisoners as food: material shortage if you want a clean trade solution, or public authority and ritual if you want the harder cultural version.
+- The negotiation turns on prisoners as food: famine created the practice, while public authority and ritual now preserve it. Dependable food can end it if Karrgan can announce a stronger policy and the terms forbid taking replacements.
 - False bottom in the skin-filled iron box: 25 pp, 200 gp, 115 ep, 400 sp, a 100 gp gem, and potion of poison.
 - Kindling by the southeast fireplace hides a *wand of paralyzation* with seven charges.
 
